@@ -19,7 +19,7 @@
 * [data-structures](./data-structures.md)
 * [data-visualization](./data-visualization.md) - When your data can't be explained by plain words. 
 * [databases](./databases.md)
-* [datasets](./datasets.md)
+* [datasets](./datasets.md) A data set (or dataset) is a collection of data. Data is information translated into a movable form. Learn how to manipulate datasets
 * [neural-networks](./neural-networks.md) - The crux of deep learning algorithms. Neural networks mimic the way that biological neurons signal to one another in the human brain.
 * [personal-data-security](./personal-data-security.md)
 * [python-programming](./python-programming.md) - Whatever you use it for, python is an easy to learn and extremely versatile tool. 
