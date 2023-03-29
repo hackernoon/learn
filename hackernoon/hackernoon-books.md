@@ -1,0 +1,4136 @@
+<img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
+
+# [hackernoon-books](https://hackernoon.com/tagged/hackernoon-books)
+### [1. THE NEANDERTHAL MEN, AN EXTINCT RACE](https://hackernoon.com/the-neanderthal-men-an-extinct-race)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-0st3lut.jpeg)
+About 200 centuries ago or earlier, real men of our own species, if not of our own race, came drifting into the European area.
+
+### [2. Read Books for Free on HackerNoon!](https://hackernoon.com/read-books-for-free-on-hackernoon)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-nd93oe4.jpeg)
+HackerNoon has an extensive list of free books to read. 
+
+### [3. 6 Best Go Programming Books Ranked by Reviews](https://hackernoon.com/6-best-go-programming-books-ranked-by-reviews)
+![](https://cdn.hackernoon.com/images/programming-books-clc5w9b4k000001s6e24xcsls.png)
+Learning Go and Black Hat Go are some of the best Go programming books based on their review scores.
+
+### [4. Pride and Prejudice: Chapter 25](https://hackernoon.com/pride-and-prejudice-chapter-25)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-ei93ng5.jpeg)
+Pride and Prejudice, by Jane Austen, is part of HackerNoon’s Book Blog Post series. 
+
+### [5. Here’s a Quick Guide to Easily Retrieve Crypto Sent to a Wrong Network on Binance](https://hackernoon.com/heres-a-quick-guide-to-easily-retrieve-crypto-sent-to-a-wrong-network-on-binance)
+![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-b793phu.jpeg)
+The notable crypto network or standards are BEP-20, ERC-20, TRC-20, and BEP-2. Users can easily mistake BEP-20 for BEP-2 and ERC-20 for TRC-20 and vice-versa.
+
+### [6. Frankenstein or, The Modern Prometheus: Letter III - To Mrs. Saville, England](https://hackernoon.com/frankenstein-or-the-modern-prometheus-letter-iii-to-mrs-saville-england)
+![](https://cdn.hackernoon.com/images/KGKqGgldsBeFIitE2M9aXBqZ4al1-xdb3egq.jpeg)
+I write a few lines in haste to say that I am safe—and well advanced on my voyage.
+
+### [7. The Essays of Adam Smith: Part II, SEC. I, Chapter I](https://hackernoon.com/the-essays-of-adam-smith-part-ii-sec-i-chapter-i)
+![](https://cdn.hackernoon.com/images/fisV3ygrKHQzoANO3juQvFMtA3r2-r3h3n4e.jpeg)
+The sentiment which most immediately and directly prompts us to reward is gratitude that which most immediately and directly prompts us to punish is resentment
+
+
+### [8. Astounding Stories of Super-Science, August 1931 - Table of Links](https://hackernoon.com/astounding-stories-of-super-science-august-1931-table-of-links)
+![](https://cdn.hackernoon.com/images/t4EWQ6W18hPhx6xE6pfPwMH58EL2-cy93j61.jpeg)
+Astounding Stories of Super-Science, August 1931, by Astounding Stories is part of the HackerNoon Books series. Read this book online for free on HackerNoon!
+
+### [9. The Three Types of Science](https://hackernoon.com/the-three-types-of-science)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-vbj3uep.jpeg)
+Science may be divided into three sorts. All that can fall within the compass of human understanding,
+
+### [10. Pride and Prejudice: Chapter 61](https://hackernoon.com/pride-and-prejudice-chapter-61)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-e393nve.jpeg)
+Pride and Prejudice, by Jane Austen is part of HackerNoon’s Book Blog Post series. 
+
+### [11. The Odyssey: Book VI](https://hackernoon.com/the-odyssey-book-vi)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-j193n1c.jpeg)
+The Odyssey, by Homer and translated by Samuel Butler is part of HackerNoon’s Book Blog Post series. 
+
+### [12. Pride and Prejudice: Chapter 28](https://hackernoon.com/pride-and-prejudice-chapter-28)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-a893n2m.jpeg)
+Pride and Prejudice, by Jane Austen, is part of HackerNoon’s Book Blog Post series. 
+
+### [13. A Tract on Monetary Reform: Chapter IV - II. Stability of Prices versus Stability of Exchange](https://hackernoon.com/a-tract-on-monetary-reform-chapter-iv-ii-stability-of-prices-versus-stability-of-exchange)
+![](https://cdn.hackernoon.com/images/dS8vTXHOEGNxenpaKFuzuCW5Y1x1-2ic3inl.jpeg)
+The reader should notice, further, the different parts played by discount policy under the one régime and under the other. 
+
+### [14. Astounding Stories of Super-Science May 1931: The Exile of Time - Chapter X](https://hackernoon.com/astounding-stories-of-super-science-may-1931-the-exile-of-time-chapter-x)
+![](https://cdn.hackernoon.com/images/eYmBPfrqu8d2TdijQi8nkPK2yGl2-8am3jjd.jpeg)
+This analogy occurs to me: There are two ants of human intelligence to whom we are trying to explain the nature of Space. 
+
+### [15. Volume 3: Nuclear Fusion](https://hackernoon.com/volume-3-nuclear-fusion)
+![](https://cdn.hackernoon.com/images/P9UdA5H40seCaH3OOmFtrY8785H3-xyc3q2g.jpeg)
+Worlds Within Worlds: The Story of Nuclear Energy, Volume 3 (of 3), by Isaac Asimov is part of HackerNoon’s Book Blog Post series. You can jump to any chapter in this book here. Volume III, NUCLEAR FUSION: The Energy of the Sun
+
+### [16. The Human Side of Animals: Chapter 4 - Amour-Bearing & Mail-Clad Animals](https://hackernoon.com/the-human-side-of-animals-chapter-4-amour-bearing-and-mail-clad-animals)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-ah93nt0.jpeg)
+The Human Side of Animals by Royal Dixon is part of HackerNoon’s Book Blog Post series. 
+
+
+### [17. What is Coming? by H. G. Wells - Table of Links](https://hackernoon.com/what-is-coming-by-h-g-wells-table-of-links)
+![](https://cdn.hackernoon.com/images/t4EWQ6W18hPhx6xE6pfPwMH58EL2-7q93lsk.jpeg)
+What is Coming? by H. G. Wells, is part of the HackerNoon Books Series. Read this book online for free on HackerNoon!
+
+### [18. Phantoms of Reality](https://hackernoon.com/phantoms-of-reality)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-b793pub.jpeg)
+The man to whom I spoke was a scientist. He replied gently, "My boy, when you are grown older and wiser you will realize that nothing is impossible."
+
+### [19. Relativity: The Special and General Theory: Part I - The Special Theory of Reality](https://hackernoon.com/relativity-the-special-and-general-theory-part-i-the-special-theory-of-reality)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-bc93njk.jpeg)
+Relativity: The Special and General Theory by Albert Einstein is part of HackerNoon’s Book Blog Post series. 
+
+### [20. Pride and Prejudice: Chapter 22](https://hackernoon.com/pride-and-prejudice-chapter-22)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-o993ntd.jpeg)
+Pride and Prejudice, by Jane Austen, is part of HackerNoon’s Book Blog Post series. 
+
+### [21. The Possibility of the "Finite" and Yet "Unbounded" Universe](https://hackernoon.com/the-possibility-of-the-finite-and-yet-unbounded-universe)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-8193onm.jpeg)
+Relativity: The Special and General Theory by Albert Einstein is part of HackerNoon’s Book Blog Post series. 
+
+### [22. The Essays of Adam Smith: Part II, SEC. III, Chapter I - Of the Causes of this Influence of Fortune](https://hackernoon.com/the-essays-of-adam-smith-part-ii-sec-iii-chapter-i-of-the-causes-of-this-influence-of-fortune)
+![](https://cdn.hackernoon.com/images/fisV3ygrKHQzoANO3juQvFMtA3r2-bqd3is4.jpeg)
+We conceive, in the same manner, a sort of gratitude for those inanimated objects, which have been the causes of great or frequent pleasure to us.
+
+### [23. The Possible Collapse of Civilisation](https://hackernoon.com/the-possible-collapse-of-civilisation)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-oda3li5.jpeg)
+An Englishman looks at the world by H. G. Wells, is part of the HackerNoon Books Series. 
+
+### [24. The Great Gatsby: Chapter 6](https://hackernoon.com/the-great-gatsby-chapter-6)
+![](https://cdn.hackernoon.com/images/1RRJkP1I2GZF1QhFVEA8zKyY1iz2-6p93gzp.jpeg)
+The Great Gatsby, Chapter 6 by F. Scott Fitzgerald is part of HackerNoon’s Book Blog Post series. 
+
+### [25. The Science of Getting Rich: Chapter 8](https://hackernoon.com/the-science-of-getting-rich-chapter-8)
+![](https://cdn.hackernoon.com/images/MWOFxJyDOLb9SogBhG2AsIszVL22-co93vju.jpeg)
+The Science of Getting Rich by Wallace D. Wattles is part of HackerNoon’s Book Blog Post series.
+
+### [26. THE LAST BABYLONIAN EMPIRE AND THE EMPIRE OF DARIUS I](https://hackernoon.com/the-last-babylonian-empire-and-the-empire-of-darius-i)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-7o93lhi.jpeg)
+Even under the Assyrian monarchs and especially under Sardanapalus, Babylon had been a scene of great intellectual activity.
+
+### [27. The Art of Money Getting or, Golden Rules for Making Money  - Table of Links](https://hackernoon.com/the-art-of-money-getting-or-golden-rules-for-making-money-table-of-links)
+![](https://cdn.hackernoon.com/images/aGrflO9Bw0UZmT8rtnoIyIQJAgj1-co93u1v.jpeg)
+The Table of Links to PT Barnum's The Art of Money Getting or, Golden Rules for Making Money on HackerNoon.
+
+### [28. One Thousand Ways to Make Money by PageFox - Table of Links](https://hackernoon.com/one-thousand-ways-to-make-money-by-pagefox-table-of-links)
+![](https://cdn.hackernoon.com/images/t4EWQ6W18hPhx6xE6pfPwMH58EL2-ez93qrh.jpeg)
+One Thousand Ways to Make Money, November 2017 by Page Fox is part of HackerNoon’s Book Blog Post series.
+
+### [29. Frankenstein or, The Modern Prometheus - Table of Links](https://hackernoon.com/frankenstein-or-the-modern-prometheus-table-of-links)
+![](https://cdn.hackernoon.com/images/t4EWQ6W18hPhx6xE6pfPwMH58EL2-34a3ihu.jpeg)
+Frankenstein or, The Modern Prometheus, by Mary Wollstonecraft (Godwin) Shelley is part of HackerNoon’s Books series. Read this book online for free on HackerNo
+
+### [30. What a Computer Can Do for You - Recordkeeping](https://hackernoon.com/computers-on-the-farm-what-a-computer-can-do-for-you-recordkeeping)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-gn93n8n.jpeg)
+A good place to start is with farm records.
+
+### [31. Alternatives to Buying a Microcomputer](https://hackernoon.com/computers-on-the-farm-alternatives-to-buying-a-microcomputer)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-vb93n43.jpeg)
+A programmable calculator may be an appropriate tool that is much less costly then a microcomputer.
+
+### [32. The Palmer Method of Business Writing: Lesson 102](https://hackernoon.com/the-palmer-method-of-business-writing-lesson-102)
+![](https://cdn.hackernoon.com/images/jvjajoMzXGenl6tjMR4f2EWBuIr1-9f93kbj.jpeg)
+Pupils who cannot make good loop letters should make a special study of lesson thirty-two.
+
+### [33. The Palmer Method of Business Writing: Lesson 96](https://hackernoon.com/the-palmer-method-of-business-writing-lesson-96)
+![](https://cdn.hackernoon.com/images/jvjajoMzXGenl6tjMR4f2EWBuIr1-do93kpr.jpeg)
+Capital N should be made at the rate of fifty-five a minute.
+
+### [34. Read The Great Gatsby Online for Free](https://hackernoon.com/the-great-gatsby-table-of-links)
+![](https://cdn.hackernoon.com/images/t4EWQ6W18hPhx6xE6pfPwMH58EL2-ib03gwb.jpeg)
+The HackerNoon Book Series brings you The Great Gatsby, available to read online on HackerNoon for free, thanks to Project Gutenberg.
+
+### [35. The Start of the Standard Oil Company](https://hackernoon.com/the-start-of-the-standard-oil-company)
+![](https://cdn.hackernoon.com/images/ZCxO2b4xyfXYAcCXiZrThqTfAXf1-f993kpg.jpeg)
+It has placed its manufactories at the points where they could supply markets at the least expense. 
+
+### [36. The Art of Money Getting or, Golden Rules for Making Money - Part 3 - 
+Avoid Debt](https://hackernoon.com/the-art-of-money-getting-or-golden-rules-for-making-money-part-3-avoid-debt)
+![](https://cdn.hackernoon.com/images/aGrflO9Bw0UZmT8rtnoIyIQJAgj1-v593v1a.jpeg)
+The Art of Money Getting or, Golden Rules for Making Money  by  P. T. Barnum is part of [HackerNoon’s Book Blog Post series]
+
+### [37. The Palmer Method of Business Writing: Lesson 33](https://hackernoon.com/the-palmer-method-of-business-writing-lesson-33)
+![](https://cdn.hackernoon.com/images/jvjajoMzXGenl6tjMR4f2EWBuIr1-db93kyr.jpeg)
+More study, more practice. 
+
+### [38. The Art Of Writing & Speaking The English Language by Sherwin Cody  - Table of Links](https://hackernoon.com/the-art-of-writing-and-speaking-the-english-language-by-sherwin-cody-table-of-links)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-a793njd.jpeg)
+An Essay on the Foundations of Geometry, by Bertrand Russell is part of HackerNoon’s Book Blog Post series. 
+
+### [39. THE NEANDERTHALER AND THE RHODESIAN MAN](https://hackernoon.com/the-neanderthaler-and-the-rhodesian-man)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-zvw3ltl.jpeg)
+Mentally and physically they were upon a different line from the human line.
+
+### [40. The Future in America by H. G. Wells - Table of Links](https://hackernoon.com/the-future-in-america-by-h-g-wells-table-of-links)
+![](https://cdn.hackernoon.com/images/t4EWQ6W18hPhx6xE6pfPwMH58EL2-vj93lpz.jpeg)
+The Future in America by H. G. Wells, is part of the HackerNoon Books Series. Read this book online for free on HackerNoon!
+
+### [41. The Art of Money Getting or, Golden Rules for Making Money - Chapter 1](https://hackernoon.com/the-art-of-money-getting-or-golden-rules-for-making-money-chapter-1)
+![](https://cdn.hackernoon.com/images/aGrflO9Bw0UZmT8rtnoIyIQJAgj1-9z93vla.jpeg)
+The Art of Money Getting or, Golden Rules for Making Money, by PT Barnum, is part of the HackerNoon Books series. Read this book online for free on HackerNoon!
+
+### [42. The Minkowski's Four-Dimensional Space](https://hackernoon.com/the-minkowskis-four-dimensional-space)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-i493o7q.jpeg)
+Relativity: The Special and General Theory by Albert Einstein is part of HackerNoon’s Book Blog Post series. 
+
+### [43. The Adventures of Sherlock Holmes - TABLE OF LINKS ](https://hackernoon.com/the-adventures-of-sherlock-holmes-table-of-links)
+![](https://cdn.hackernoon.com/images/t4EWQ6W18hPhx6xE6pfPwMH58EL2-zi93jpi.jpeg)
+The Adventures of Sherlock Holmes, by Sir Arthur Conan Doyle is part of HackerNoon’s Book Blog Post series. 
+
+### [44. Adventures of Huckleberry Finn: Chapter XXX](https://hackernoon.com/adventures-of-huckleberry-finn-chapter-xxx)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-8993m0o.jpeg)
+Adventures of Huckleberry Finn, by Mark Twain (Samuel Clemens) is part of HackerNoon’s Book Blog Post series.
+
+### [45. Pride and Prejudice: Chapter 30](https://hackernoon.com/pride-and-prejudice-chapter-30)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-2e93n79.jpeg)
+Pride and Prejudice, by Jane Austen, is part of HackerNoon’s Book Blog Post series. 
+
+### [46. Strategies for Getting Into Computers](https://hackernoon.com/computers-on-the-farm-strategies-for-getting-into-computers)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-7w93nvd.jpeg)
+One way is to first buy the basic hardware and components you think you need, and then add memory and other components later
+
+### [47. The Essays of Adam Smith: Part VII: Of Systems of Moral Philosophy, Section I](https://hackernoon.com/the-essays-of-adam-smith-part-vii-of-systems-of-moral-philosophy-section-i)
+![](https://cdn.hackernoon.com/images/fisV3ygrKHQzoANO3juQvFMtA3r2-q5a3ju6.jpeg)
+OF THE QUESTIONS WHICH OUGHT TO BE EXAMINED IN A THEORY OF MORAL SENTIMENTS
+
+### [48. The Art of Money Getting or, Golden Rules for Making Money - Chapter 20](https://hackernoon.com/the-art-of-money-getting-or-golden-rules-for-making-money-chapter-20)
+![](https://cdn.hackernoon.com/images/aGrflO9Bw0UZmT8rtnoIyIQJAgj1-uo93v95.jpeg)
+The Art of Money Getting or, Golden Rules for Making Money by P.T Barnum
+
+### [49. The Palmer Method of Business Writing: Lesson 97](https://hackernoon.com/the-palmer-method-of-business-writing-lesson-97)
+![](https://cdn.hackernoon.com/images/jvjajoMzXGenl6tjMR4f2EWBuIr1-2l93k9d.jpeg)
+Capital H should be made at the rate of thirty-five or forty a minute, and the word “Hauling” about fifteen to the minute.
+
+### [50. The Art of Money Getting or, Golden Rules for Making Money - Chapter 5](https://hackernoon.com/the-art-of-money-getting-or-golden-rules-for-making-money-chapter-5)
+![](https://cdn.hackernoon.com/images/aGrflO9Bw0UZmT8rtnoIyIQJAgj1-bt93v90.jpeg)
+The Art of Money Getting; Or, Golden Rules for Making Money by P. T. Barnum
+
+### [51. Pride and Prejudice: Chapter 45](https://hackernoon.com/pride-and-prejudice-chapter-45)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-rf93n6l.jpeg)
+Pride and Prejudice, by Jane Austen, is part of HackerNoon’s Book Blog Post series. 
+
+### [52. The Essays of Adam Smith: Part II, SEC. I, Chapter IV](https://hackernoon.com/the-essays-of-adam-smith-part-ii-sec-i-chapter-iv)
+![](https://cdn.hackernoon.com/images/fisV3ygrKHQzoANO3juQvFMtA3r2-feb3iul.jpeg)
+WE do not therefore thoroughly and heartily sympathize with the gratitude of one man towards another.
+
+### [53. The Heuristic Value of the Theory of Relativity](https://hackernoon.com/relativity-the-special-and-general-theory-chapter-xiv-the-heuristic-value)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-jp93oz0.jpeg)
+Relativity: The Special and General Theory by Albert Einstein is part of HackerNoon’s Book Blog Post series.
+
+### [54. The Story of Nuclear Energy, Volume 3 (of 3): Beyond Fusion - Antimatter](https://hackernoon.com/the-story-of-nuclear-energy-volume-3-of-3-beyond-fusion-antimatter)
+![](https://cdn.hackernoon.com/images/P9UdA5H40seCaH3OOmFtrY8785H3-i6d3q3p.jpeg)
+Worlds Within Worlds: The Story of Nuclear Energy, Volume 3 (of 3), by Isaac Asimov is part of HackerNoon’s Book Blog Post series. You can jump to any chapter in this book here. Volume III, BEYOND FUSION: Antimatter
+
+### [55. The Essays of Adam Smith: Part VII, Section III, Chapter II](https://hackernoon.com/the-essays-of-adam-smith-part-vii-section-iii-chapter-ii)
+![](https://cdn.hackernoon.com/images/fisV3ygrKHQzoANO3juQvFMtA3r2-66b3js5.jpeg)
+IT is well known to have been the doctrine of Mr. Hobbes, that a state of nature is a state of war; and that antecedent to the institution of civil government.
+
+### [56. Pride and Prejudice: Chapter 31](https://hackernoon.com/pride-and-prejudice-chapter-31)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-hh93ng7.jpeg)
+Pride and Prejudice, by Jane Austen, is part of HackerNoon’s Book Blog Post series. 
+
+### [57. What a Computer Can Do for You - Farm Management Analysis](https://hackernoon.com/computers-on-the-farm-what-a-computer-can-do-for-you-farm-management-analysis)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-cs93ncr.jpeg)
+ A good place to start is by analyzing data already stored in the computer or available in the files.
+
+### [58. Frankenstein or, The Modern Prometheus: Chapter I](https://hackernoon.com/frankenstein-or-the-modern-prometheus-chapter-i)
+![](https://cdn.hackernoon.com/images/KGKqGgldsBeFIitE2M9aXBqZ4al1-gb93iqz.jpeg)
+I am by birth a Genevese, and my family is one of the most distinguished of that republic.
+
+### [59. 1811 Dictionary in the Vulgar Tongue: Section E](https://hackernoon.com/1811-dictionary-in-the-vulgar-tongue-section-e)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-k093nyu.jpeg)
+1811 Dictionary in the Vulgar Tongue, by Francis Grose is part of HackerNoon’s Book Blog Post series.
+
+### [60. The Science of Getting Rich: Preface](https://hackernoon.com/the-science-of-getting-rich-preface)
+![](https://cdn.hackernoon.com/images/MWOFxJyDOLb9SogBhG2AsIszVL22-uz93v8b.jpeg)
+The Science of Getting Rich  by Wallace D. Wattles is part of
+ HackerNoon’s Book Blog Post series.
+
+### [61. The Essays of Adam Smith: Part I, SEC. II](https://hackernoon.com/the-essays-of-adam-smith-part-i-sec-ii)
+![](https://cdn.hackernoon.com/images/fisV3ygrKHQzoANO3juQvFMtA3r2-65a3ngu.jpeg)
+This mediocrity, however, in which the point of propriety consists, is different in different passions.
+
+### [62. A Tract on Monetary Reform: Chapter I - I. Changes in the Value of Money, as affecting Distribution ](https://hackernoon.com/a-tract-on-monetary-reform-chapter-i-i-changes-in-the-value-of-money-as-affecting-distribution)
+![](https://cdn.hackernoon.com/images/dS8vTXHOEGNxenpaKFuzuCW5Y1x1-h693ngw.jpeg)
+For the purpose of this inquiry a triple classification of Society is convenient—into the Investing Class, the Business Class, and the Earning Class.
+
+### [63. The Art of Money Getting or, Golden Rules for Making Money - Chapter 17](https://hackernoon.com/the-art-of-money-getting-or-golden-rules-for-making-money-chapter-17)
+![](https://cdn.hackernoon.com/images/aGrflO9Bw0UZmT8rtnoIyIQJAgj1-s293vux.jpeg)
+The Art of Money Getting or, Golden Rules for Making Money by P.T Barnum
+
+### [64. The Night of the Strange Bird.](https://hackernoon.com/the-night-of-the-strange-bird)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-vyy3lyh.jpeg)
+That is as much as anyone can tell you of the glare upon Sidderford Moor and the alleged music therewith.
+
+### [65. Pride and Prejudice: Chapter 23](https://hackernoon.com/pride-and-prejudice-chapter-23)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-vk93nne.jpeg)
+Pride and Prejudice, by Jane Austen, is part of HackerNoon’s Book Blog Post series. 
+
+### [66. 1811 Dictionary in the Vulgar Tongue: Section Q](https://hackernoon.com/1811-dictionary-in-the-vulgar-tongue-section-q)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-kv93ncc.jpeg)
+1811 Dictionary in the Vulgar Tongue, by Francis Grose is part of HackerNoon’s Book Blog Post series. 
+
+### [67. Astounding Stories of Super-Science, March 1931: Table of Links](https://hackernoon.com/astounding-stories-of-super-science-march-1931-table-of-links)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-ht93ph8.png)
+Astounding Stories of Super-Science, March 1931, by Astounding Stories is part of HackerNoon’s Book Blog Post series. 
+
+### [68. Pride and Prejudice: Chapter 40](https://hackernoon.com/pride-and-prejudice-chapter-40)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-6i93n46.jpeg)
+Pride and Prejudice, by Jane Austen, is part of HackerNoon’s Book Blog Post series. 
+
+### [69. THE FIRST SEAGOING PEOPLES](https://hackernoon.com/the-first-seagoing-peoples)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-a71v3lh6.jpeg)
+Cnossos was not so much a town as a great palace for the Cretan monarch and his people.
+
+### [70. The Science of Getting: Chapter 1](https://hackernoon.com/the-science-of-getting-chapter-1)
+![](https://cdn.hackernoon.com/images/MWOFxJyDOLb9SogBhG2AsIszVL22-f093v5x.jpeg)
+The Science of Getting Rich  by Wallace D. Wattles is part of
+ HackerNoon’s Book Blog Post series . The table of Links for this book can be found here.
+
+### [71. The Essays of Adam Smith: Part I, SEC. I, Chapter V - Of the amiable and respectable Virtues](https://hackernoon.com/the-essays-of-adam-smith-part-i-sec-i-chapter-v-of-the-amiable-and-respectable-virtues)
+![](https://cdn.hackernoon.com/images/fisV3ygrKHQzoANO3juQvFMtA3r2-fxc3mfu.jpeg)
+The insolence and brutality of anger, in the same manner, when we indulge its fury without check or restraint, is of all objects the most detestable.
+
+### [72. An Essay Concerning Humane Understanding, Volume I: Book II, Chapter XII.](https://hackernoon.com/an-essay-concerning-humane-understanding-volume-i-book-ii-chapter-xii)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-p993mik.jpeg)
+An Essay Concerning Humane Understanding, Volume I: Book II, Chapter XII: OF COMPLEX IDEAS, by John Locke is part of HackerNoon’s Book Blog Post series. 
+
+### [73. Pride and Prejudice: Chapter 14](https://hackernoon.com/pride-and-prejudice-chapter-14)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-6a93mhu.jpeg)
+Pride and Prejudice, by Jane Austen, is part of HackerNoon’s Book Blog Post series. 
+
+### [74. An Essay Concerning Humane Understanding, Volume II by John Locke - Table of Links ](https://hackernoon.com/an-essay-concerning-humane-understanding-volume-ii-by-john-locke-table-of-links)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-hp93nku.jpeg)
+An Essay Concerning Humane Understanding, Volume II,  by John Locke is part of HackerNoon’s Book Blog Post series. The table of Links for this book is here.
+
+### [75. THE PRIMITIVE ARYANS](https://hackernoon.com/the-primitive-aryans)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-32233l4j.jpeg)
+These Nordic people were destined to play a very important part indeed in the world’s history.
+
+### [76. The Evolution of Modern Medicine: Chapter III - ASTROLOGY AND DIVINATION](https://hackernoon.com/the-evolution-of-modern-medicine-chapter-iii-astrology-and-divination)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-ze93nhc.jpeg)
+The Evolution of Modern Medicine, by William Osler is part of HackerNoon’s Book Blog Post series.
+
+### [77. The Essays of Adam Smith: Part VI, Section II](https://hackernoon.com/the-essays-of-adam-smith-part-vi-section-ii)
+![](https://cdn.hackernoon.com/images/fisV3ygrKHQzoANO3juQvFMtA3r2-dsc3jim.jpeg)
+The character of every individual, so far as it can affect the happiness of other people, must do so by its disposition either to hurt or to benefit them.
+
+### [78. Second Treatise of Government: Chapter X](https://hackernoon.com/second-treatise-of-government-chapter-x)
+![](https://cdn.hackernoon.com/images/pAFO4E8fq4WoAyIPm0Kq8kOF7U82-lti3i5c.jpeg)
+Sect. 132. THE majority having, as has been shewed, upon men’s first uniting into society, the whole power of the community naturally in them
+
+### [79. The Essays of Adam Smith: Part I, SEC. II, Chapter I](https://hackernoon.com/the-essays-of-adam-smith-part-i-sec-ii-chapter-i)
+![](https://cdn.hackernoon.com/images/fisV3ygrKHQzoANO3juQvFMtA3r2-ka93nf2.jpeg)
+It is the same case with the passion by which Nature unites the two sexes.
+
+### [80. Second Treatise of Government: Chapter I ](https://hackernoon.com/second-treatise-of-government-chapter-i)
+![](https://cdn.hackernoon.com/images/pAFO4E8fq4WoAyIPm0Kq8kOF7U82-l093i3g.jpeg)
+Sect. 1. It having been shewn in the foregoing discourse,
+
+### [81. Second Treatise of Government: Chapter IX ](https://hackernoon.com/second-treatise-of-government-chapter-ix)
+![](https://cdn.hackernoon.com/images/pAFO4E8fq4WoAyIPm0Kq8kOF7U82-y7h3iin.jpeg)
+The great and chief end, therefore, of men’s uniting into commonwealths, and putting themselves under government, is the preservation of their property.
+
+### [82. A Tract on Monetary Reform: Chapter I - No. 3 The Earner](https://hackernoon.com/a-tract-on-monetary-reform-chapter-i-no-3-the-earner)
+![](https://cdn.hackernoon.com/images/dS8vTXHOEGNxenpaKFuzuCW5Y1x1-y9b3nc0.jpeg)
+It has been a commonplace of economic text-books that wages tend to lag behind prices, with the result that the real earnings of the wage-earner are diminished
+
+
+### [83. The Essays of Adam Smith: Part II, SEC. III, Chapter III](https://hackernoon.com/the-essays-of-adam-smith-part-ii-sec-iii-chapter-iii)
+![](https://cdn.hackernoon.com/images/fisV3ygrKHQzoANO3juQvFMtA3r2-dcf3i0h.jpeg)
+It is even of considerable importance, that the evil which is done without design should be regarded as a misfortune to the doer as well as to the sufferer. 
+
+
+### [84. The Essays of Adam Smith: Part VII, Section III, Chapter I](https://hackernoon.com/the-essays-of-adam-smith-part-vii-section-iii-chapter-i)
+![](https://cdn.hackernoon.com/images/fisV3ygrKHQzoANO3juQvFMtA3r2-fw93j45.jpeg)
+Virtue is the great support, and vice the great disturber of human society.
+
+### [85. Pride and Prejudice: Chapter I](https://hackernoon.com/pride-and-prejudice-chapter-i)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-u193j38.jpeg)
+Pride and Prejudice, by Jane Austen is part of HackerNoon’s Book Blog Post series. You can jump to any chapter in this book here: [LINK TO TABLE OF LINK]. Chapter I 
+
+### [86. Exercising Economic Judgement in Planning](https://hackernoon.com/on-line-data-acquisition-systems-in-nuclear-physics-1969-chapter-4)
+![](https://cdn.hackernoon.com/images/8LdafXdNDSdu5gzZmple4rnDqI23-kj93jg2.jpeg)
+If sufficient funds are available, one sensible way to proceed is to use the accumulated collective experience outlined above.
+
+### [87. The Challenge of the Unknown](https://hackernoon.com/the-challenge-of-the-unknown)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-by93ll4.jpeg)
+Incredible! Impossible! I did not say it, though my thoughts were written on my face, no doubt.
+
+### [88. The Strange Case Of Dr. Jekyll And Mr. Hyde: Chapter VI - Incident of Dr. Lanyon](https://hackernoon.com/the-strange-case-of-dr-jekyll-and-mr-hyde-chapter-vi-incident-of-dr-lanyon)
+![](https://cdn.hackernoon.com/images/jY39imIt1lbinKxzZTAT18igh0D2-nod3hf2.jpeg)
+Now that that evil influence had been withdrawn, a new life began for Dr. Jekyll. 
+
+### [89. An Inquiry into the Nature and Causes of the Wealth of Nations: Book II - Introduction](https://hackernoon.com/an-inquiry-into-the-nature-and-causes-of-the-wealth-of-nations-book-ii-introduction)
+![](https://cdn.hackernoon.com/images/4O9wiIuRTiRbwA1feRRcV0OGCb92-ql93i5d.jpeg)
+But when the division of labour has once been thoroughly introduced, the produce of a man’s own labour can supply but a very small part of his occasional wants.
+
+### [90. Second Treatise of Government: Chapter III](https://hackernoon.com/second-treatise-of-government-chapter-iii)
+![](https://cdn.hackernoon.com/images/pAFO4E8fq4WoAyIPm0Kq8kOF7U82-7ub3isx.jpeg)
+Sect. 16. THE state of war is a state of enmity and destruction: and therefore declaring by word or action, not a passionate and hasty
+
+### [91. Understanding Our Existence](https://hackernoon.com/understanding-our-existence)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-gm93ok1.jpeg)
+An Essay Concerning Humane Understanding, Volume II: Booby John Locke is part of HackerNoon’s Book Blog Post series.
+
+### [92. On The Principles of Political Economy, and Taxation by David Ricardo - Table of Links](https://hackernoon.com/on-the-principles-of-political-economy-and-taxation-table-of-links)
+![](https://cdn.hackernoon.com/images/t4EWQ6W18hPhx6xE6pfPwMH58EL2-p4a3ji5.jpeg)
+On The Principles of Political Economy, and Taxation, by David Ricardo is part of the HackerNoon Books Series. Read this book online for free on HackerNoon!
+
+### [93. The Solution of the Problem of Gravitation](https://hackernoon.com/the-solution-of-the-problem-of-gravitation)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-3aa3okd.jpeg)
+Relativity: The Special and General Theory by Albert Einstein is part of HackerNoon’s Book Blog Post series. 
+
+### [94. An Inquiry into the Nature and Causes of the Wealth of Nations: Book I, Chapter IV](https://hackernoon.com/an-inquiry-into-the-nature-and-causes-of-the-wealth-of-nations-book-i-chapter-iv)
+![](https://cdn.hackernoon.com/images/4O9wiIuRTiRbwA1feRRcV0OGCb92-jy93nfs.jpeg)
+When the division of labour has been once thoroughly established, it is but a very small part of a man’s wants which the produce of his own labour can supply.
+
+### [95. A PICTURE OF THE WORLD OF MEN](https://hackernoon.com/a-picture-of-the-world-of-men)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-cuz3le1.jpeg)
+I seem to be a consciousness, vague and insecure, placed between two worlds.
+
+### [96. CORRECT POSITIONS FOR CLASS ROOM WRITING](https://hackernoon.com/the-palmer-method-of-business-writing-lesson-1-correct-positions-for-class-room-writing)
+![](https://cdn.hackernoon.com/images/jvjajoMzXGenl6tjMR4f2EWBuIr1-1193j20.jpeg)
+No student who fails in the matter of position will master muscular movement writing.
+
+
+### [97. An Essay Concerning Humane Understanding, Volume I: Book II, Chapter XVIII.](https://hackernoon.com/an-essay-concerning-humane-understanding-volume-i-book-ii-chapter-xviii)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-m193nay.jpeg)
+An Essay Concerning Humane Understanding, Volume I: Book II, Chapter XVIII, by John Locke is part of HackerNoon’s Book Blog Post series. 
+
+
+### [98. The Art of Money Getting or, Golden Rules for Making Money - Chapter 7](https://hackernoon.com/the-art-of-money-getting-or-golden-rules-for-making-money-chapter-7)
+![](https://cdn.hackernoon.com/images/aGrflO9Bw0UZmT8rtnoIyIQJAgj1-9p93vju.jpeg)
+The Art of Money Getting or, Golden Rules for Making Money by P. T. Barnum is part of HackerNoon’s Book Blog Post series. The table of Links for this book can be found here.
+
+### [99. Pride and Prejudice: Chapter 42](https://hackernoon.com/pride-and-prejudice-chapter-42)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-g793nht.jpeg)
+Pride and Prejudice, by Jane Austen, is part of HackerNoon’s Book Blog Post series. 
+
+### [100. THE FIRST TRUE MEN](https://hackernoon.com/the-first-true-men)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-yb103l1m.jpeg)
+These first real human beings we know of in Europe appear already to have belonged to one or other of at least two very distinct races.
+
+### [101. THE BEGINNINGS OF LIFE](https://hackernoon.com/the-beginnings-of-life)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-r3j3kkt.jpeg)
+The earliest rocks in the record are called by geologists the Azoic rocks, because they show no traces of life.
+
+### [102. The Jungle by Upton Sinclair  - Table of Links](https://hackernoon.com/the-jungle-by-upton-sinclair-table-of-links)
+![](https://cdn.hackernoon.com/images/t4EWQ6W18hPhx6xE6pfPwMH58EL2-d6b3j1j.jpeg)
+The Jungle by Upton Sinclair is part of HackerNoon’s Book series. Read this book online for free on HackerNoon! 
+
+### [103. The Art of Money Getting or, Golden Rules for Making Money - Chapter 2](https://hackernoon.com/the-art-of-money-getting-or-golden-rules-for-making-money-part-2)
+![](https://cdn.hackernoon.com/images/aGrflO9Bw0UZmT8rtnoIyIQJAgj1-vb93vl5.jpeg)
+The Art of Money Getting or, Golden Rules for Making Money by P.T Barnum
+
+### [104. Obvious And Very Important Things Computers Can Do For Farmers](https://hackernoon.com/obvious-and-very-important-things-computers-can-do-for-farmers)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-c593nb4.jpeg)
+Determine the most economical feed ration for dairy cows and other farm animals.
+
+
+### [105. The Art of Money Getting or, Golden Rules for Making Money - Chapter 9](https://hackernoon.com/the-art-of-money-getting-or-golden-rules-for-making-money-chapter-9)
+![](https://cdn.hackernoon.com/images/aGrflO9Bw0UZmT8rtnoIyIQJAgj1-q293v0b.jpeg)
+The Art of Money Getting or, Golden Rules for Making Money by P.T Barnum
+
+### [106. The Art of Money Getting or, Golden Rules for Making Money - Chapter 18](https://hackernoon.com/the-art-of-money-getting-or-golden-rules-for-making-money-chapter-18)
+![](https://cdn.hackernoon.com/images/aGrflO9Bw0UZmT8rtnoIyIQJAgj1-t393vwy.jpeg)
+The Art of Money Getting or, Golden Rules for Making Money by P.T Barnum
+
+### [107. What are Astounding Stories?](https://hackernoon.com/what-are-astounding-stories)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-1w93nq8.jpeg)
+Well, if you lived in Europe in 1490, and someone told you the earth was round and moved around the sun—that would have been an "astounding" story.
+
+### [108. An Essay Concerning Humane Understanding, Volume I: Book II, Chapter VI. ](https://hackernoon.com/an-essay-concerning-humane-understanding-volume-i-book-ii-chapter-vi)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-2693msu.jpeg)
+An Essay Concerning Humane Understanding, Volume I, by John Locke is part of HackerNoon’s Book Blog Post series.
+
+
+### [109. The Strange Case Of Dr. Jekyll And Mr. Hyde by Robert Louis Stevenson - Table of Links](https://hackernoon.com/the-strange-case-of-dr-jekyll-and-mr-hyde-by-robert-louis-stevenson-table-of-links)
+![](https://cdn.hackernoon.com/images/t4EWQ6W18hPhx6xE6pfPwMH58EL2-tg93i9j.jpeg)
+The Strange Case Of Dr. Jekyll And Mr. Hyde, by Robert Louis Stevenson is part of HackerNoon’s Books series. Read this book online for free on HackerNoon!
+
+### [110. Computers on the Farm: Purpose of This Bulletin](https://hackernoon.com/computers-on-the-farm-purpose-of-this-bulletin)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-mk93jn1.jpeg)
+USDA Farmers' Bulletin No. 2277: Computers on the Farm, Purpose of This Bulletin by Deborah Takiff Smith is part of HackerNoon’s Book Blog Post series. 
+
+### [111. THE PURSUIT](https://hackernoon.com/the-pursuit)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-dj93lu3.jpeg)
+They did not look round, and he kept them just within sight, getting down if he chanced to draw closely upon them round a corner.
+
+### [112. The Palmer Method of Business Writing: Lesson 92](https://hackernoon.com/the-palmer-method-of-business-writing-lesson-92)
+![](https://cdn.hackernoon.com/images/jvjajoMzXGenl6tjMR4f2EWBuIr1-1193k4d.jpeg)
+Practice the word “Calling” at fifteen or more a minute, and “Chiming” at the same rate.
+
+### [113. R.U.R. (Rossum's Universal Robots) by Karel Capek - Table of Links](https://hackernoon.com/rur-rossums-universal-robots-by-karel-capek-table-of-links)
+![](https://cdn.hackernoon.com/images/t4EWQ6W18hPhx6xE6pfPwMH58EL2-de93jrn.jpeg)
+R.U.R. (Rossum's Universal Robots), by Karel Capek is part of HackerNoon’s Books series. Read this book online for free on HackerNoon!
+
+### [114. The Science of Getting Rich: Chapter 14](https://hackernoon.com/the-science-of-getting-rich-chapter-14)
+![](https://cdn.hackernoon.com/images/MWOFxJyDOLb9SogBhG2AsIszVL22-qb93ke4.jpeg)
+The Science of Getting Rich  by Wallace D. Wattles is part of
+[HackerNoon’s Book Blog Post series](https://hackernoon.com/u/hackernoonbooks) . The table of Links for this book can be found here:
+[https://app.hackernoon.com/drafts/0rPO8JkhRaDY0rLVCaVL] (https://app.hackernoon.com/drafts/0rPO8JkhRaDY0rLVCaVL*)
+
+### [115. David Copperfield: PREFACE TO THE CHARLES DICKENS EDITION](https://hackernoon.com/david-copperfield-preface-to-the-charles-dickens-edition)
+![](https://cdn.hackernoon.com/images/u95KCwq4YOewwTvOFZTE2c39Icz1-fca3hmx.jpeg)
+David Copperfield, by Charles Dickens is part of HackerNoon’s Book Blog Post series. You can jump to any chapter in this book here: [LINK TO TABLE OF LINK]. PREFACE TO THE CHARLES DICKENS EDITION
+
+### [116. Information available From Your County Extension Agent](https://hackernoon.com/computers-on-the-farm-information-available-from-your-county-extension-agent)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-lt93nwf.jpeg)
+The county Extension staff can tell you what is available online in your area that is tailored to your kind of farming and your region.
+
+### [117. The Story of Nuclear Energy, Volume 1 (of 3): Electricity - Radioactivity](https://hackernoon.com/the-story-of-nuclear-energy-volume-1-of-3-electricity-radioactivity)
+![](https://cdn.hackernoon.com/images/P9UdA5H40seCaH3OOmFtrY8785H3-td93qnv.jpeg)
+Worlds Within Worlds: The Story of Nuclear Energy, Volume 1 (of 3), by Isaac Asimov is part of HackerNoon’s Book Blog Post series. You can jump to any chapter in this book here. Volume I, ELECTRICITY: Radioactivity
+
+### [118. The Science of Getting Rich: Chapter 7](https://hackernoon.com/the-science-of-getting-rich-chapter-7)
+![](https://cdn.hackernoon.com/images/MWOFxJyDOLb9SogBhG2AsIszVL22-b493vun.jpeg)
+The Science of Getting Rich by Wallace D. Wattles is part of HackerNoon’s Book Blog Post series. 
+
+### [119. The Genetic Effects of Radiation - Table of Links ](https://hackernoon.com/the-genetic-effects-of-radiation-table-of-links)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-8193py7.jpeg)
+The Genetic Effects of Radiation, by Isaac Asimov, is part of HackerNoon’s Book Blog Post series. This is a collection of links to its different sections. 
+
+### [120. Language: An Introduction to the Study of Speech by Edward Sapir  - Table of Links](https://hackernoon.com/language-an-introduction-to-the-study-of-speech-by-edward-sapir-table-of-links)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-r293npm.jpeg)
+Language: An Introduction to the Study of Speech, by Edward Sapir is part of HackerNoon’s Book Blog Post series. 
+
+### [121. Pride and Prejudice: Chapter 32](https://hackernoon.com/pride-and-prejudice-chapter-32)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-on93nr9.jpeg)
+Pride and Prejudice, by Jane Austen, is part of HackerNoon’s Book Blog Post series. 
+
+### [122. The Art of Money Getting or, Golden Rules for Making Money - Chapter 11 - Be Systematic](https://hackernoon.com/the-art-of-money-getting-or-golden-rules-for-making-money-chapter-11-be-systematic)
+![](https://cdn.hackernoon.com/images/aGrflO9Bw0UZmT8rtnoIyIQJAgj1-sc93vf4.jpeg)
+The Art of Money Getting or, Golden Rules for Making Money by P. T. Barnum is part of HackerNoon’s Book Blog Post series. The table of Links for this book can be found here.
+
+### [123. What a Computer Can Do for You - Process Controllers](https://hackernoon.com/computers-on-the-farm-what-a-computer-can-do-for-you-process-controllers)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-gf93nvh.jpeg)
+Besides analyzing farm management problems and storing data, computers have another key use—as process controllers.
+
+### [124. Relativity: The Special and General Theory: Chapter 1 - Physical Meaning of Geometrical Propositions](https://hackernoon.com/relativity-the-special-and-general-theory-chapter-1-physical-meaning-of-geometrical-propositions)
+![](https://cdn.hackernoon.com/images/ARlhLhQxvPRGtNtib2JQKCqumM53-ga92hb9.jpeg)
+Relativity: The Special and General Theory by Albert Einstein is part of HackerNoon’s Book Blog Post series. You can jump to any chapter in this book here.
+
+### [125. Food and Flavor: A Gastronomic Guide to Health and Good Living  - Table of Links](https://hackernoon.com/food-and-flavor-a-gastronomic-guide-to-health-and-good-living-table-of-links)
+![](https://cdn.hackernoon.com/images/t4EWQ6W18hPhx6xE6pfPwMH58EL2-1i93j1u.jpeg)
+Food and Flavor: A Gastronomic Guide to Health and Good Living, by Henry Theophilus Finck is part of HackerNoon Books Series. Read this book online for free on 
+
+### [126. An Inquiry into the Nature and Causes of the Wealth of Nations: Book I, Chapter III](https://hackernoon.com/an-inquiry-into-the-nature-and-causes-of-the-wealth-of-nations-book-i-chapter-iii)
+![](https://cdn.hackernoon.com/images/4O9wiIuRTiRbwA1feRRcV0OGCb92-czb3nsq.jpeg)
+As it is the power of exchanging that gives occasion to the division of labour so the extent of this division must always be limited by the extent of that power
+
+### [127. The Art of Money Getting or, Golden Rules for Making Money - Chapter 4 - Persevere](https://hackernoon.com/the-art-of-money-getting-or-golden-rules-for-making-money-chapter-4-persevere)
+![](https://cdn.hackernoon.com/images/aGrflO9Bw0UZmT8rtnoIyIQJAgj1-cq93v4c.jpeg)
+The Art of Money Getting or, Golden Rules for Making Money  by  P. T. Barnum is part of HackerNoon’s Book Blog Post series. 
+
+### [128. Astounding Stories of Super-Science, June 1931 - Table of Links](https://hackernoon.com/astounding-stories-of-super-science-june-1931-table-of-links)
+![](https://cdn.hackernoon.com/images/t4EWQ6W18hPhx6xE6pfPwMH58EL2-p7b3j5z.jpeg)
+Astounding Stories of Super-Science, June 1931, by Astounding Stories is part of the HackerNoon Books series. Read this book online for free on HackerNoon!
+
+### [129. New Worlds For Old: A Plain Account of Modern Socialism by H. G. Wells - Table of Links](https://hackernoon.com/new-worlds-for-old-a-plain-account-of-modern-socialism-by-h-g-wells-table-of-links)
+![](https://cdn.hackernoon.com/images/t4EWQ6W18hPhx6xE6pfPwMH58EL2-wr93lc4.jpeg)
+New Worlds For Old: A Plain Account of Modern Socialism by H. G. Wells, is part of the HackerNoon Books Series. Read this book online for free on HackerNoon!
+
+### [130. The War That Will End War by H. G. Wells - Table of Links](https://hackernoon.com/the-war-that-will-end-war-by-h-g-wells-table-of-links)
+![](https://cdn.hackernoon.com/images/t4EWQ6W18hPhx6xE6pfPwMH58EL2-xba3lwj.jpeg)
+The War That Will End War by H. G. Wells, is part of the HackerNoon Books Series. Read this book online for free on HackerNoon!
+
+
+### [131. Oliver Twist: Chapter I](https://hackernoon.com/oliver-twist-chapter-i)
+![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-hg93ngc.jpeg)
+Oliver Twist, by Charles Dickens is part of HackerNoon’s Book Blog Post series. You can jump to any chapter in this book here: [LINK TO TABLE OF LINK]. Chapter I: Treats of the Place Where Oliver Twist was Born and of the Circumstances Attending His Birth
+
+### [132. The Palmer Method of Business Writing: Lesson 95](https://hackernoon.com/the-palmer-method-of-business-writing-lesson-95)
+![](https://cdn.hackernoon.com/images/jvjajoMzXGenl6tjMR4f2EWBuIr1-t793kfe.jpeg)
+Do not overlook the proportions of capital M.
+
+### [133. Pride and Prejudice: Chapter 2](https://hackernoon.com/pride-and-prejudice-chapter-ii)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-zz93j21.jpeg)
+Pride and Prejudice, by Jane Austen, is part of HackerNoon’s Book Blog Post series.
+
+### [134. PRIMITIVE NEOLITHIC CIVILIZATIONS](https://hackernoon.com/primitive-neolithic-civilizations)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-ta1c3lun.jpeg)
+We have to remember that human races can all interbreed freely and that they separate, mingle and reunite as clouds do.
+
+### [135. The Count of Monte Cristo, Illustrated: Chapter 20 - The Cemetery of the Château d’If](https://hackernoon.com/the-count-of-monte-cristo-illustrated-chapter-20-the-cemetery-of-the-chateau-dif)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-0u93n7e.jpeg)
+The Count of Monte Cristo, Volume One, Chapter 20: The Cemetery of the Château d’If by Alexandre Dumas, père is part of HackerNoon’s Book Blog Post series. 
+
+### [136. 1811 Dictionary in the Vulgar Tongue: Preface](https://hackernoon.com/1811-dictionary-in-the-vulgar-tongue-preface)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-8m93n15.jpeg)
+1811 Dictionary in the Vulgar Tongue, by Francis Grose is part of HackerNoon’s Book Blog Post series. 
+
+### [137. Volume 2: Nuclear Bombardment](https://hackernoon.com/volume-2-nuclear-bombardment)
+![](https://cdn.hackernoon.com/images/P9UdA5H40seCaH3OOmFtrY8785H3-k593p3d.jpeg)
+Worlds Within Worlds: The Story of Nuclear Energy, Volume 2 (of 3), by Isaac Asimov is part of HackerNoon’s Book Blog Post series. You can jump to any chapter in this book here. Volume II, THE STRUCTURE OF THE NUCLEUS: Nuclear Bombardment
+
+### [138. The Art of Money Getting or, Golden Rules for Making Money - Chapter 6](https://hackernoon.com/the-art-of-money-getting-or-golden-rules-for-making-money-chapter-6)
+![](https://cdn.hackernoon.com/images/aGrflO9Bw0UZmT8rtnoIyIQJAgj1-yh93v9m.jpeg)
+The Art of Money Getting or, Golden Rules for Making Money by P. T. Barnum is part of HackerNoon’s Book Blog Post series. 
+
+### [139. Second Treatise of Government: Chapter XII ](https://hackernoon.com/second-treatise-of-government-chapter-xii)
+![](https://cdn.hackernoon.com/images/pAFO4E8fq4WoAyIPm0Kq8kOF7U82-n2a3im7.jpeg)
+THE legislative power is that which has a right to direct how the force of the commonwealth shall be employed for preserving the community and the members of it
+
+### [140. Second Treatise of Government: Chapter XVII](https://hackernoon.com/second-treatise-of-government-chapter-xvii)
+![](https://cdn.hackernoon.com/images/pAFO4E8fq4WoAyIPm0Kq8kOF7U82-dpf3id3.jpeg)
+This, so far as it is usurpation, is a change only of persons, but not of the forms and rules of the government
+
+### [141. For the Story Teller: Story Telling and Stories to Tell by Carolyn Sherwin Bailey - Table of Links](https://hackernoon.com/for-the-story-teller-story-telling-and-stories-to-tell-by-carolyn-sherwin-bailey-table-of-links)
+![](https://cdn.hackernoon.com/images/t4EWQ6W18hPhx6xE6pfPwMH58EL2-6lb3jtt.jpeg)
+For the Story Teller: Story Telling and Stories to Tell, by Carolyn Sherwin Bailey is part of the HackerNoon Books series. Read this book online for free on Hac
+
+### [142. 1811 Dictionary in the Vulgar Tongue by Francis Grose  - Table of Links](https://hackernoon.com/1811-dictionary-in-the-vulgar-tongue-by-francis-grose-table-of-links)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-dp93nbk.jpeg)
+1811 Dictionary in the Vulgar Tongue, by Francis Grose is part of HackerNoon’s Book Blog Post series. 
+
+### [143. The Art of Money Getting or, Golden Rules for Making Money - Chapter 13](https://hackernoon.com/the-art-of-money-getting-or-golden-rules-for-making-money-chapter-13)
+![](https://cdn.hackernoon.com/images/aGrflO9Bw0UZmT8rtnoIyIQJAgj1-w093v0h.jpeg)
+The Art of Money Getting or, Golden Rules for Making Money by P. T. Barnum is part of HackerNoon’s Book Blog Post series.
+
+### [144. Astounding Stories of Super-Science, July 1931 - Table of Links](https://hackernoon.com/astounding-stories-of-super-science-july-1931-table-of-links)
+![](https://cdn.hackernoon.com/images/t4EWQ6W18hPhx6xE6pfPwMH58EL2-l693j91.jpeg)
+Astounding Stories of Super-Science, July 1931, by Astounding Stories is part of the HackerNoon Books series. Read this book online for free on HackerNoon!
+
+### [145. Pride and Prejudice: Chapter 19](https://hackernoon.com/pride-and-prejudice-chapter-19)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-or93mfm.jpeg)
+Pride and Prejudice, by Jane Austen, is part of HackerNoon’s Book Blog Post series. 
+
+### [146. Taxes on Houses](https://hackernoon.com/on-the-principles-of-political-economy-and-taxation-chapter-xii-taxes-on-houses)
+![](https://cdn.hackernoon.com/images/KP4e6RV2jgPi4eQXMsGNZwCmprw1-r293k8f.jpeg)
+A tax on the rent of houses may either fall on the occupier, on the ground landlord, or on the building landlord.
+
+### [147. An Essay Concerning Humane Understanding, Volume I: Book II, Chapter XIX.](https://hackernoon.com/an-essay-concerning-humane-understanding-volume-i-book-ii-chapter-xix)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-4i93n22.jpeg)
+An Essay Concerning Humane Understanding, Volume I: Book II, Chapter XIX, by John Locke is part of HackerNoon’s Book Blog Post series. 
+
+
+### [148. The Essays of Adam Smith: Part III, Chapter I](https://hackernoon.com/the-essays-of-adam-smith-part-iii-chapter-i)
+![](https://cdn.hackernoon.com/images/fisV3ygrKHQzoANO3juQvFMtA3r2-ju93ita.jpeg)
+IN the two foregoing parts of this discourse I have chiefly considered the origin and foundation of our judgments concerning the sentiments and conduct of other
+
+### [149. Pride and Prejudice: Chapter 21](https://hackernoon.com/pride-and-prejudice-chapter-21)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-f893n3q.jpeg)
+Pride and Prejudice, by Jane Austen, is part of HackerNoon’s Book Blog Post series. 
+
+### [150. Astounding Stories of Super-Science July 1931: The Exile of Time - Chapter XXIII](https://hackernoon.com/astounding-stories-of-super-science-july-1931-the-exile-of-time-chapter-xxiii)
+![](https://cdn.hackernoon.com/images/eYmBPfrqu8d2TdijQi8nkPK2yGl2-kco3jou.jpeg)
+It stung me into action, and for all the chaotic rush of these desperate moments my heart surged with relief. 
+
+### [151. The Art of Money Getting or, Golden Rules for Making Money - Chapter 15](https://hackernoon.com/the-art-of-money-getting-or-golden-rules-for-making-money-chapter-15)
+![](https://cdn.hackernoon.com/images/aGrflO9Bw0UZmT8rtnoIyIQJAgj1-vj93v71.jpeg)
+The Art of Money Getting or, Golden Rules for Making Money by P. T. Barnum is part of HackerNoon’s Book Blog Post series.
+
+### [152. The Essays of Adam Smith: Part VI, Section II, Chapter III - Of Universal Benevolence](https://hackernoon.com/the-essays-of-adam-smith-part-vi-section-ii-chapter-iii-of-universal-benevolence)
+![](https://cdn.hackernoon.com/images/fisV3ygrKHQzoANO3juQvFMtA3r2-u3f3j91.jpeg)
+The wise and virtuous man is at all times willing that his own private interest should be sacrificed to the public interest of his own particular order or soci
+
+
+### [153. The Structure of Space According to the General Theory of Relativity](https://hackernoon.com/the-structure-of-space-according-to-the-general-theory-of-relativity)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-5893otb.jpeg)
+Relativity: The Special and General Theory by Albert Einstein is part of HackerNoon’s Book Blog Post series.
+
+### [154. 1811 Dictionary in the Vulgar Tongue: Section V](https://hackernoon.com/1811-dictionary-in-the-vulgar-tongue-section-v)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-j293ndy.jpeg)
+1811 Dictionary in the Vulgar Tongue, by Francis Grose is part of HackerNoon’s Book Blog Post series. 
+
+
+### [155. THE LIBERAL FEAR OF RUSSIA](https://hackernoon.com/the-liberal-fear-of-russia)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-2xd3l3k.jpeg)
+Defeat, or even a partial victory for the Allies, means nothing less than that.
+
+### [156. THE ADVANCEMENT OF SOCIALISM](https://hackernoon.com/the-advancement-of-socialism)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-5dx3lqf.jpeg)
+In that spirit, and with no presumption of finality, this little book of explanations is given to the world.
+
+### [157. I Saw the Famous Science Temple with its Constant Stream of Worshippers](https://hackernoon.com/i-saw-the-famous-science-temple-with-its-constant-stream-of-worshippers)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-76c3t69.jpeg)
+The delivery of his country into the clutches of a merciless, ultra-modern religion can be prevented only by Dr. Hagstrom's deciphering an extraordinary code.
+
+### [158. Pride and Prejudice: Chapter 50](https://hackernoon.com/pride-and-prejudice-chapter-50)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-bh93nc0.jpeg)
+Pride and Prejudice, by Jane Austen, is part of HackerNoon’s Book Blog Post series. 
+
+### [159. Monsters of Moyen](https://hackernoon.com/monsters-of-moyen)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-2q93piy.png)
+IN 1935 the mighty genius of Moyen gripped the Eastern world like a hand of steel. 
+
+### [160. There Was No Struggle, No Attempt at Flight or Resistance](https://hackernoon.com/there-was-no-struggle-no-attempt-at-flight-or-resistance)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-az93t8n.jpeg)
+They could see one another, but it was impossible for them to make their voices heard above the rasping of the beetles' legs.
+
+### [161. The Count of Monte Cristo, Illustrated: Chapter 43 - The House at Auteuil](https://hackernoon.com/the-count-of-monte-cristo-illustrated-chapter-43-the-house-at-auteuil)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-cp93n01.jpeg)
+The Count of Monte Cristo, Volume Two, Chapter 43: The House at Auteuil by Alexandre Dumas, père is part of HackerNoon’s Book Blog Post series.  
+
+### [162. Astounding Stories of Super-Science June 1931: Manape the Mighty - Chapter IX](https://hackernoon.com/astounding-stories-of-super-science-june-1931-manape-the-mighty-chapter-ix)
+![](https://cdn.hackernoon.com/images/eYmBPfrqu8d2TdijQi8nkPK2yGl2-5ra3jgf.jpeg)
+If Manape were to attempt first aid for Apeman, how would such a sight react upon Ellen Estabrook? 
+
+
+### [163. A CRITICISM OF CHRISTIANITY](https://hackernoon.com/a-criticism-of-christianity)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-x71a3ld3.jpeg)
+A religious system so many-faced and so enduring as Christianity must necessarily be saturated with truth even if it be not wholly true.
+
+### [164. Frankenstein or, The Modern Prometheus: Chapter XVIII](https://hackernoon.com/frankenstein-or-the-modern-prometheus-chapter-xviii)
+![](https://cdn.hackernoon.com/images/KGKqGgldsBeFIitE2M9aXBqZ4al1-03a3juw.jpeg)
+Day after day, week after week, passed away on my return to Geneva; and I could not collect the courage to recommence my work.
+
+### [165. A Death More Hideous ](https://hackernoon.com/a-death-more-hideous)
+![](https://cdn.hackernoon.com/images/eYmBPfrqu8d2TdijQi8nkPK2yGl2-jx93q2p.jpeg)
+Astounding Stories of Super-Science April 1931, by Astounding Stories is part of HackerNoon’s Book Blog Post series. You can jump to any chapter in this book here. Four Miles Within - Chapter V: A Death More Hideous
+
+
+### [166. Pride and Prejudice: Chapter 33](https://hackernoon.com/pride-and-prejudice-chapter-33)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-9z93ng1.jpeg)
+Pride and Prejudice, by Jane Austen, is part of HackerNoon’s Book Blog Post series. 
+
+### [167. "More victims," He Observed Grimly to Himself, of the Plane](https://hackernoon.com/more-victims-he-observed-grimly-to-himself-of-the-plane)
+![](https://cdn.hackernoon.com/images/army-biplane-in-the-sky-claw4k079000101s606sxh6y3.png)
+There was a dull muttering in the sky to the east, and a speck appeared, drew nearer swiftly, grew larger, and became a small army biplane. 
+
+### [168. 1811 Dictionary in the Vulgar Tongue: Section I](https://hackernoon.com/1811-dictionary-in-the-vulgar-tongue-section-i)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-k493nve.jpeg)
+1811 Dictionary in the Vulgar Tongue, by Francis Grose is part of HackerNoon’s Book Blog Post series. 
+
+### [169. Pride and Prejudice: Chapter 15](https://hackernoon.com/pride-and-prejudice-chapter-15)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-rh93mrl.jpeg)
+Pride and Prejudice, by Jane Austen, is part of HackerNoon’s Book Blog Post series. 
+
+### [170. Pride and Prejudice: Chapter 39](https://hackernoon.com/pride-and-prejudice-chapter-39)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-kz93ney.jpeg)
+Pride and Prejudice, by Jane Austen is part of HackerNoon’s Book Blog Post series. 
+
+### [171. The Art Of Writing & Speaking The English Language : Chapter II - Figures of Speech](https://hackernoon.com/the-art-of-writing-and-speaking-the-english-language-chapter-ii-figures-of-speech)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-xs93n6i.jpeg)
+When grammar is treated (as we have tried to treat it) as “logical instinct,” then there can be no conflict with other instincts.
+
+### [172. Pride and Prejudice by Jane Austen - TABLE OF LINKS ](https://hackernoon.com/pride-and-prejudice-by-jane-austen-table-of-links)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-tgb3jgx.jpeg)
+Pride and Prejudice, by Jane Austen, is part of HackerNoon’s Book Blog Post series. The table of Links for this book can be found here. 
+
+### [173. The Science of Getting Rich: Chapter 6](https://hackernoon.com/the-science-of-getting-rich-chapter-6)
+![](https://cdn.hackernoon.com/images/MWOFxJyDOLb9SogBhG2AsIszVL22-mq93va0.jpeg)
+The Science of Getting Rich by Wallace D. Wattles is part of HackerNoon’s Book Blog Post series. 
+
+### [174. 6 Best C Programming Books Ranked by Review Scores](https://hackernoon.com/6-best-c-programming-books-ranked-by-review-scores)
+![](https://cdn.hackernoon.com/images/t4EWQ6W18hPhx6xE6pfPwMH58EL2-bxm3g76.jpeg)
+C Programming Language and Let Us C are among the best C programming books available today, according to their review scores.
+
+### [175. Pride and Prejudice: Chapter 4](https://hackernoon.com/pride-and-prejudice-chapter-4)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-ly93jnb.jpeg)
+Pride and Prejudice, by Jane Austen is part of HackerNoon’s Book Blog Post series.
+
+### [176. Moby-Dick; or The Whale: Chapter 23 - The Lee Shore](https://hackernoon.com/moby-dick-or-the-whale-chapter-23-the-lee-shore)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-cc93mfr.jpeg)
+Moby-Dick; or The Whale, Chapter 23: The Lee Shore by Herman Melville is part of HackerNoon’s Book Blog Post series. 
+
+### [177. Frankenstein or, The Modern Prometheus: Chapter XIV](https://hackernoon.com/frankenstein-or-the-modern-prometheus-chapter-xiv)
+![](https://cdn.hackernoon.com/images/KGKqGgldsBeFIitE2M9aXBqZ4al1-48a3j7d.jpeg)
+“Some time elapsed before I learned the history of my friends."
+
+### [178. The Trail of Death](https://hackernoon.com/the-trail-of-death)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-ru93tsa.jpeg)
+There's sure some sort of hoodoo on these Antarctic expeditions
+
+### [179. Language: An Introduction to the Study of Speech: Preface](https://hackernoon.com/language-an-introduction-to-the-study-of-speech-preface)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-d893n31.jpeg)
+Language: An Introduction to the Study of Speech, by Edward Sapir, is part of HackerNoon’s Book Blog Post series. 
+
+### [180. Pride and Prejudice: Chapter 44](https://hackernoon.com/pride-and-prejudice-chapter-44)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-h093ntj.jpeg)
+Pride and Prejudice, by Jane Austen, is part of HackerNoon’s Book Blog Post series. 
+
+### [181. Astounding Stories of Super-Science, March 1930 - Table of Links](https://hackernoon.com/astounding-stories-of-super-science-march-1930-table-of-links)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-5693lz5.jpeg)
+Astounding Stories of Super-Science, March 1930, by Astounding Stories is part of HackerNoon’s Book Blog Post series. 
+
+### [182. EGYPT, BABYLON AND ASSYRIA](https://hackernoon.com/egypt-babylon-and-assyria)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-co223lch.jpeg)
+We are entering now upon a thousand years of warfare between the once quite separated civilizations of Mesopotamia and the Nile.
+
+### [183. TWO ARTIFICIAL GROUPS: THE CHURCH AND THE ARMY](https://hackernoon.com/two-artificial-groups-the-church-and-the-army)
+![](https://cdn.hackernoon.com/images/bZAHgjrB23cbcXIZIhzMZ7wDfus1-xp93kxy.jpeg)
+The most interesting example of such structures are churches—communities of believers—and armies.
+
+### [184. Astounding Stories of Super-Science May 1931: Dark Moon - Chapter VII](https://hackernoon.com/astounding-stories-of-super-science-may-1931-dark-moon-chapter-vii)
+![](https://cdn.hackernoon.com/images/eYmBPfrqu8d2TdijQi8nkPK2yGl2-iwe3jvy.jpeg)
+He had found the entrance an opening no longer: it was sealed with a giant web of ropy strands—a network, welded together to a glutinous mesh.
+
+### [185. Divorce](https://hackernoon.com/divorce)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-cec3l57.jpeg)
+An Englishman looks at the world by H. G. Wells, is part of the HackerNoon Books Series. 
+
+### [186. THREE DAYS](https://hackernoon.com/three-days)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-84q3l54.jpeg)
+“There is, I believe,” said Lincoln. “But for you—! If you would like to occupy yourself with that, we can make you a sworn aeronaut to-morrow.”
+
+### [187. Indian Currency and Finance: Chapter I - The Present Position of the Rupee](https://hackernoon.com/indian-currency-and-finance-chapter-i-the-present-position-of-the-rupee)
+![](https://cdn.hackernoon.com/images/BSXvNbbIWVSifsbirt6BK4hNCH62-i693m21.jpeg)
+On the broad historical facts relating to Indian currency, I do not intend to spend time. 
+
+### [188. The Essays of Adam Smith: Part II, SEC. III, Chapter II - Of the Extent of this Influence of Fortune](https://hackernoon.com/the-essays-of-adam-smith-part-ii-sec-iii-chapter-ii-of-the-extent-of-this-influence-of-fortune)
+![](https://cdn.hackernoon.com/images/fisV3ygrKHQzoANO3juQvFMtA3r2-kne3ie1.jpeg)
+THE effect of this influence of fortune is, first, to diminish our sense of the merit or demerit of those actions which arose from the most blamable intentions
+
+### [189. Pride and Prejudice: Chapter 34](https://hackernoon.com/pride-and-prejudice-chapter-34)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-j593nh0.jpeg)
+Pride and Prejudice, by Jane Austen, is part of HackerNoon’s Book Blog Post series. 
+
+### [190. Relativity: The Special and General Theory by Albert Einstein - Table of Links](https://hackernoon.com/relativity-the-special-and-general-theory-by-albert-einstein-table-of-links)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-pi93neb.jpeg)
+Relativity: The Special and General Theory, by Albert Einstein is part of HackerNoon’s Book Blog Post series. 
+
+### [191. Adventures of Huckleberry Finn: Chapter XXIV](https://hackernoon.com/adventures-of-huckleberry-finn-chapter-xxiv)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-uw93mvs.jpeg)
+Adventures of Huckleberry Finn, by Mark Twain (Samuel Clemens) is part of HackerNoon’s Book Blog Post series.
+
+### [192. The Evolution of Modern Medicine: Chapter I - EGYPTIAN MEDICINE ](https://hackernoon.com/the-evolution-of-modern-medicine-chapter-i-egyptian-medicine)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-ku93nkr.jpeg)
+The Evolution of Modern Medicine, by William Osler is part of HackerNoon’s Book Blog Post series.
+
+### [193. Pride and Prejudice: Chapter 6](https://hackernoon.com/pride-and-prejudice-chapter-vi)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-de93jig.jpeg)
+Pride and Prejudice, by Jane Austen, is part of HackerNoon’s Book Blog Post series. 
+
+### [194. Computers on the Farm by Deborah Takiff Smith - Table of Links](https://hackernoon.com/computers-on-the-farm-by-deborah-takiff-smith-table-of-links)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-0893n2v.jpeg)
+Computers on the Farm, by Deborah Takiff Smith is part of the HackerNoon Books Series. Read this book online for free on HackerNoon!
+
+### [195. An Inquiry into the Nature and Causes of the Wealth of Nations: Book I, Chapter VII](https://hackernoon.com/an-inquiry-into-the-nature-and-causes-of-the-wealth-of-nations-book-i-chapter-vii)
+![](https://cdn.hackernoon.com/images/4O9wiIuRTiRbwA1feRRcV0OGCb92-1kc3ni4.jpeg)
+There is in every society or neighbourhood an ordinary or average rate, both of wages and profit, in every different employment of labour and stock. 
+
+### [196. The Hound of the Baskervilles: Chapter 1 - Mr. Sherlock Holmes](https://hackernoon.com/the-hound-of-the-baskervilles-chapter-1-mr-sherlock-holmes)
+![](https://cdn.hackernoon.com/images/cx4XkhqD0lURqGZhX0iefcwP9Zf2-lb93jk0.jpeg)
+The Hound of the Baskervilles, Chapter 1 by Arthur Conan Doyle is part of HackerNoon’s Book Blog Post series. 
+
+### [197. Pride and Prejudice: Chapter 35](https://hackernoon.com/pride-and-prejudice-chapter-35)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-0393ndd.jpeg)
+Pride and Prejudice, by Jane Austen, is part of HackerNoon’s Book Blog Post series. 
+
+### [198. Second Treatise of Government: Chapter XI ](https://hackernoon.com/second-treatise-of-government-chapter-xi)
+![](https://cdn.hackernoon.com/images/pAFO4E8fq4WoAyIPm0Kq8kOF7U82-t593idg.jpeg)
+The great and chief end, therefore, of men’s uniting into commonwealths, and putting themselves under government, is the preservation of their property. 
+
+### [199. An Inquiry into the Nature and Causes of the Wealth of Nations: Book III - Chapter I](https://hackernoon.com/an-inquiry-into-the-nature-and-causes-of-the-wealth-of-nations-book-iii-chapter-i)
+![](https://cdn.hackernoon.com/images/4O9wiIuRTiRbwA1feRRcV0OGCb92-9pc3i9b.jpeg)
+The great commerce of every civilized society is that carried on between the inhabitants of the town and those of the country.
+
+### [200. Adventures of Huckleberry Finn: Chapter XXXII](https://hackernoon.com/adventures-of-huckleberry-finn-chapter-xxxii)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-fw93mz8.jpeg)
+Adventures of Huckleberry Finn, by Mark Twain (Samuel Clemens) is part of HackerNoon’s Book Blog Post series. 
+
+### [201. The Art of Money Getting or, Golden Rules for Making Money - Introduction](https://hackernoon.com/the-art-of-money-getting-or-golden-rules-for-making-money-part-1)
+![](https://cdn.hackernoon.com/images/aGrflO9Bw0UZmT8rtnoIyIQJAgj1-re93jzk.jpeg)
+In the United States, where we have more land than people, it is not at all difficult for persons in good health to make money. 							
+
+### [202. The Story of Nuclear Energy, Volume 2 (of 3): Protons in Nuclei](https://hackernoon.com/the-story-of-nuclear-energy-volume-2-of-3-protons-in-nuclei)
+![](https://cdn.hackernoon.com/images/P9UdA5H40seCaH3OOmFtrY8785H3-xq93qwl.jpeg)
+Worlds Within Worlds: The Story of Nuclear Energy, Volume 2 (of 3), by Isaac Asimov is part of HackerNoon’s Book Blog Post series. You can jump to any chapter in this book here. Volume II, THE STRUCTURE OF THE NUCLEUS: Protons in Nuclei
+
+### [203. The Philosopher's Public Library](https://hackernoon.com/the-philosophers-public-library)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-5o93lod.jpeg)
+An Englishman looks at the world by H. G. Wells, is part of the HackerNoon Books Series. 
+
+
+### [204. Second Treatise of Government: Chapter XIII](https://hackernoon.com/second-treatise-of-government-chapter-xiii)
+![](https://cdn.hackernoon.com/images/pAFO4E8fq4WoAyIPm0Kq8kOF7U82-feb3i08.jpeg)
+THOUGH in a constituted commonwealth, standing upon its own basis, and acting according to its own nature, that is, acting for the preservation of the community
+
+### [205. There Will Be School Tomorrow ](https://hackernoon.com/there-will-be-school-tomorrow)
+![](https://cdn.hackernoon.com/images/Cn9zbm5dWQSwiJyI9mi2yNbiHIn1-de93jua.jpeg)
+In the cities the clamor softened along the streets, and the women made small, comfortable, rattling noises in the kitchens.
+
+
+### [206. Pride and Prejudice: Chapter 55](https://hackernoon.com/pride-and-prejudice-chapter-55)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-qb93n17.jpeg)
+Pride and Prejudice, by Jane Austen, is part of HackerNoon’s Book Blog Post series. 
+
+### [207. The Art Of Writing & Speaking The English Language Word-Study: Chapter IV: Pronunciation](https://hackernoon.com/the-art-of-writing-and-speaking-the-english-language-word-study-chapter-iv-pronunciation)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-jm93nhw.jpeg)
+The foundation of expression is rhythm, or regular succession of stress and easy gliding over syllables.
+
+### [208. For the Story Teller: Chapter 5 - Story Climax](https://hackernoon.com/for-the-story-teller-chapter-5-story-climax)
+![](https://cdn.hackernoon.com/images/UUZZjfJqIWXx3OTAxCc5FR9kPtw2-3qb3jko.jpeg)
+A careful reading of the story will disclose Hawthorne’s subtle use of suspense, the art of “making his audience wait” for his dénouement.
+
+### [209. The Evolution of Modern Medicine: Chapter I - ASSYRIAN AND BABYLONIAN MEDICINE](https://hackernoon.com/the-evolution-of-modern-medicine-chapter-i-assyrian-and-babylonian-medicine)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-z093nm0.jpeg)
+The Evolution of Modern Medicine, by William Osler is part of HackerNoon’s Book Blog Post series. 
+
+### [210. Adventures of Huckleberry Finn: Chapter XXXIII](https://hackernoon.com/adventures-of-huckleberry-finn-chapter-xxxiii)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-4o93mwt.jpeg)
+Adventures of Huckleberry Finn, by Mark Twain (Samuel Clemens) is part of HackerNoon’s Book Blog Post series. 
+
+### [211. Frankenstein or, The Modern Prometheus: Letter I - To Mrs. Saville, England](https://hackernoon.com/frankenstein-or-the-modern-prometheus-letter-i-to-mrs-saville-england)
+![](https://cdn.hackernoon.com/images/KGKqGgldsBeFIitE2M9aXBqZ4al1-5i93iax.jpeg)
+You will rejoice to hear that no disaster has accompanied the commencement of an enterprise which you have regarded with such evil forebodings.
+
+### [212. Pride and Prejudice: Chapter 48](https://hackernoon.com/pride-and-prejudice-chapter-48)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-dq93n8f.jpeg)
+Pride and Prejudice, by Jane Austen, is part of HackerNoon’s Book Blog Post series. 
+
+### [213. The Count of Monte Cristo, Illustrated: Chapter 32 - The Waking](https://hackernoon.com/the-count-of-monte-cristo-illustrated-chapter-32-the-waking)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-vq93nhh.jpeg)
+The Count of Monte Cristo,Volume Two, Chapter 32: The Waking by Alexandre Dumas, père is part of HackerNoon’s Book Blog Post series. 
+
+### [214. Frankenstein or, The Modern Prometheus: Chapter III](https://hackernoon.com/frankenstein-or-the-modern-prometheus-chapter-iii)
+![](https://cdn.hackernoon.com/images/KGKqGgldsBeFIitE2M9aXBqZ4al1-yrb3i1q.jpeg)
+“I am happy,” said M. Waldman, “to have gained a disciple; and if your application equals your ability, I have no doubt of your success.
+
+### [215. The Count of Monte Cristo, Illustrated: Chapter 39 - The Guests](https://hackernoon.com/the-count-of-monte-cristo-illustrated-chapter-39-the-guests)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-1j93n1u.jpeg)
+The Count of Monte Cristo, Volume Two, Chapter 39: The Guests by Alexandre Dumas, père is part of HackerNoon’s Book Blog Post series. 
+
+### [216. A Traitor and a Passing Asteroid](https://hackernoon.com/a-traitor-and-a-passing-asteroid)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-n893ts8.jpeg)
+We have information, Johnson––there’s some under cover plot here aboard. I want to know what it is.
+
+### [217. The Art of Money Getting or, Golden Rules for Making Money - Chapter 19](https://hackernoon.com/the-art-of-money-getting-or-golden-rules-for-making-money-chapter-19)
+![](https://cdn.hackernoon.com/images/da7H4NzOhAdhje46xkTgaLorF5m2-eo9329f.jpeg)
+The Art of Money Getting or, Golden Rules for Making Money by P.T Barnum
+
+### [218. Great Expectations: Chapter VII](https://hackernoon.com/great-expectations-chapter-vii)
+![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-w593u7f.jpeg)
+Great Expectations by Charles Dickens is part of HackerNoon’s Book Blog Post series. You can jump to any chapter in this book here.
+
+### [219. A Tract on Monetary Reform: Chapter IV - III. The Restoration of a Gold Standard](https://hackernoon.com/a-tract-on-monetary-reform-chapter-iv-iii-the-restoration-of-a-gold-standard)
+![](https://cdn.hackernoon.com/images/dS8vTXHOEGNxenpaKFuzuCW5Y1x1-kqd3ikc.jpeg)
+It is natural, after what we have experienced, that prudent people should desiderate a standard of value which is independent of Finance Ministers and State Ban
+
+### [220. The Beetle Horde - Chapter III: Ten Miles Underground](https://hackernoon.com/the-beetle-horde-chapter-iii-ten-miles-underground)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-9993ps1.jpeg)
+Astounding Stories of Super-Science, January 1930, by Astounding Stories is part of HackerNoon’s Book Blog Post series. You can jump to any chapter in this book here. The Beetle Horde - Chapter III: Ten Miles Underground
+
+
+### [221. The Count of Monte Cristo, Illustrated: Chapter 8 - The Château d’If](https://hackernoon.com/the-count-of-monte-cristo-illustrated-chapter-8-the-chateau-dif)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-d293mbr.jpeg)
+The Count of Monte Cristo, Volume One, Chapter 8: The Château d’If by Alexandre Dumas, père is part of HackerNoon’s Book Blog Post series. 
+
+### [222. The Science of Getting Rich: Chapter 10](https://hackernoon.com/the-science-of-getting-rich-chapter-10)
+![](https://cdn.hackernoon.com/images/MWOFxJyDOLb9SogBhG2AsIszVL22-s993vmc.jpeg)
+The Science of Getting Rich by Wallace D. Wattles is part of HackerNoon’s Book Blog Post series.
+
+### [223. An Essay Concerning Humane Understanding, Volume I: Book II, Chapter VII.](https://hackernoon.com/an-essay-concerning-humane-understanding-volume-i-book-ii-chapter-vii)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-mp93m6b.jpeg)
+An Essay Concerning Humane Understanding, Volume I: Book II, Chapter VII by John Locke is part of HackerNoon’s Book Blog Post series. 
+
+### [224. Of the Times of the Birth and Passion of Christ](https://hackernoon.com/of-the-times-of-the-birth-and-passion-of-christ)
+![](https://cdn.hackernoon.com/images/MQulqp7rmAMYbiwlEJ9nr4firgx2-yjg3j0q.jpeg)
+All this time Matthew passeth over in few words, and here begins to relate the preaching and miracles of Christ.
+
+### [225. Second Treatise of Government: Chapter XIV](https://hackernoon.com/second-treatise-of-government-chapter-xiv)
+![](https://cdn.hackernoon.com/images/pAFO4E8fq4WoAyIPm0Kq8kOF7U82-i7c3inc.jpeg)
+WHERE the legislative and executive power are in distinct hands,there the good of the society requires, that several things should be left to the discretion
+
+### [226. Second Treatise of Government: Chapter II](https://hackernoon.com/second-treatise-of-government-chapter-ii)
+![](https://cdn.hackernoon.com/images/pAFO4E8fq4WoAyIPm0Kq8kOF7U82-fpa3ihg.jpeg)
+A state also of equality, wherein all the power and jurisdiction is reciprocal, no one having more than another
+
+### [227. Adventures of Huckleberry Finn - Table of Links](https://hackernoon.com/adventures-of-huckleberry-finn-table-of-links)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-0t93jaj.jpeg)
+Adventures of Huckleberry Finn, by Mark Twain, is part of HackerNoon's Book Blog Post series. 
+
+### [228. How to Choose a Microcomputer System](https://hackernoon.com/computers-on-the-farm-how-to-choose-a-microcomputer-system)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-ib93nyz.jpeg)
+Many computer experts strongly recommend against buying a computer first and then shopping for the software packages.
+
+### [229. An Essay Concerning Humane Understanding, Volume I: Book II, Chapter XXV](https://hackernoon.com/an-essay-concerning-humane-understanding-volume-i-book-ii-chapter-xxv)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-da93n5l.jpeg)
+An Essay Concerning Humane Understanding, Volume I: Book II, Chapter XXV: OF RELATION, by John Locke is part of HackerNoon’s Book Blog Post series. 
+
+### [230. The Human Side of Animals: Chapter 1 - Animals that Practice Camouflage](https://hackernoon.com/the-human-side-of-animals-chapter-1-animals-that-practice-camouflage)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-vu93nma.jpeg)
+The Human Side of Animals by Royal Dixon is part of HackerNoon’s Book Blog Post series. You can jump to any chapter in this book here: [LINK TO TABLE OF LINK]. Chapter I: Animals that practice camouflage
+
+
+### [231. Pride and Prejudice: Chapter 58](https://hackernoon.com/pride-and-prejudice-chapter-58)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-yy93lp6.jpeg)
+Pride and Prejudice, by Jane Austen is part of HackerNoon’s Book Blog Post series. 
+
+### [232. The Science of Getting Rich: Chapter 9](https://hackernoon.com/the-science-of-getting-rich-chapter-9)
+![](https://cdn.hackernoon.com/images/MWOFxJyDOLb9SogBhG2AsIszVL22-yo93vpi.jpeg)
+The Science of Getting Rich by Wallace D. Wattles is part of HackerNoon’s Book Blog Post series. 
+
+### [233. Astounding Stories of Super-Science, May 1931 - Table of Links](https://hackernoon.com/astounding-stories-of-super-science-may-1931-table-of-links)
+![](https://cdn.hackernoon.com/images/t4EWQ6W18hPhx6xE6pfPwMH58EL2-21a3f5h.jpeg)
+Astounding Stories of Super-Science, March 1930, by Astounding Stories is part of the HackerNoon Books series. Read this book online for free on HackerNoon!
+
+### [234. Adventures of Huckleberry Finn: Chapter XXXVI](https://hackernoon.com/adventures-of-huckleberry-finn-chapter-xxxvi)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-gua3mr4.jpeg)
+Adventures of Huckleberry Finn, by Mark Twain (Samuel Clemens) is part of HackerNoon’s Book Blog Post series. 
+
+### [235. The War of the Worlds: Chapter XII. WHAT I SAW OF THE DESTRUCTION OF WEYBRIDGE AND SHEPPERT](https://hackernoon.com/the-war-of-the-worlds-by-h-g-wells-xii-what-i-saw-of-the-destruction-of-weybridge-and-sheppert)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-4b93koy.jpeg)
+Farther on towards Weybridge, just over the bridge, there were a number of men in white fatigue jackets throwing up a long rampart, and more guns behind.
+
+### [236. Adventures of Huckleberry Finn: Chapter XXV](https://hackernoon.com/adventures-of-huckleberry-finn-chapter-xxv)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-8m93m87.jpeg)
+Adventures of Huckleberry Finn, by Mark Twain (Samuel Clemens) is part of HackerNoon’s Book Blog Post series.
+
+### [237. Monsters of the Deep](https://hackernoon.com/monsters-of-the-deep)
+![](https://cdn.hackernoon.com/images/a-sinking-ship-in-the-deep-sea-clbjj5h2b000001s64ayzgjr6.png)
+"I wish to show those of you who failed to see it the sinking of the Stellar, on which I was a passenger and, I believe, the only survivor."
+
+### [238. Adventures of Huckleberry Finn: Chapter XXVI](https://hackernoon.com/adventures-of-huckleberry-finn-chapter-xxvi)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-in93mbc.jpeg)
+Adventures of Huckleberry Finn, by Mark Twain (Samuel Clemens) is part of HackerNoon’s Book Blog Post series.
+
+### [239. FREE WILL AND PREDESTINATION](https://hackernoon.com/free-will-and-predestination)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-xoy3loz.jpeg)
+I glance at this question rather to express a detachment than a view.
+
+### [240. The Count of Monte Cristo, Illustrated: Chapter 23 - The Island of Monte Cristo](https://hackernoon.com/the-count-of-monte-cristo-illustrated-chapter-23-the-island-of-monte-cristo)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-h193nv9.jpeg)
+The Count of Monte Cristo,Volume One, Chapter 23: The Island of Monte Cristo by Alexandre Dumas, père is part of HackerNoon’s Book Blog Post series. 
+
+### [241. The Essays of Adam Smith: Part III, Chapter V](https://hackernoon.com/the-essays-of-adam-smith-part-iii-chapter-v)
+![](https://cdn.hackernoon.com/images/fisV3ygrKHQzoANO3juQvFMtA3r2-fqa3j23.jpeg)
+The man who has received great benefits from another person may by the natural coldness of his temper,feel but a very small degree of the sentiment of gratitude
+
+### [242. Imagine a Sphere Large Enough to Hold Two People](https://hackernoon.com/imagine-a-sphere-large-enough-to-hold-two-people)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-jy93lbb.jpeg)
+“Imagine a sphere,” he explained, “large enough to hold two people and their luggage.
+
+### [243. THE ARYAN-SPEAKING PEOPLES IN PREHISTORIC TIMES](https://hackernoon.com/the-aryan-speaking-peoples-in-prehistoric-times)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-3ev3lkz.jpeg)
+Priests are not very much in evidence, but there is a sort of medicine man who deals in spells and prophecy.
+
+### [244. Frankenstein or, The Modern Prometheus: Chapter XI](https://hackernoon.com/frankenstein-or-the-modern-prometheus-chapter-xi)
+![](https://cdn.hackernoon.com/images/KGKqGgldsBeFIitE2M9aXBqZ4al1-j593jjt.jpeg)
+“It is with considerable difficulty that I remember the original era of my being; all the events of that period appear confused and indistinct."
+
+### [245. Second Treatise of Government: Chapter XV](https://hackernoon.com/second-treatise-of-government-chapter-xv)
+![](https://cdn.hackernoon.com/images/pAFO4E8fq4WoAyIPm0Kq8kOF7U82-n5d3iai.jpeg)
+The power of the father doth not reach at all to the property of the child, which is only in his own disposing.
+
+### [246. The Art Of Writing & Speaking The English Language : Introduction -- The Methods of Masters](https://hackernoon.com/the-art-of-writing-and-speaking-the-english-language-introduction-the-methods-of-masters)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-nna3nez.jpeg)
+You and I were not especially endowed with literary talent. 
+
+### [247. 1811 Dictionary in the Vulgar Tongue: Section K](https://hackernoon.com/1811-dictionary-in-the-vulgar-tongue-section-k)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-r893nl5.jpeg)
+1811 Dictionary in the Vulgar Tongue, by Francis Grose is part of HackerNoon’s Book Blog Post series. 
+
+
+### [248. The Essays of Adam Smith: Part II, SEC. I, Chapter V](https://hackernoon.com/the-essays-of-adam-smith-part-ii-sec-i-chapter-v)
+![](https://cdn.hackernoon.com/images/fisV3ygrKHQzoANO3juQvFMtA3r2-t6c3iz8.jpeg)
+As we cannot indeed enter thoroughly into the gratitude of the person who receives the benefit, unless we beforehand approve of the motives of the benefactor.
+
+### [249. An Essay Concerning Humane Understanding, Volume I: Book II, Chapter XV.](https://hackernoon.com/an-essay-concerning-humane-understanding-volume-i-book-ii-chapter-xv)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-bg93nfe.jpeg)
+An Essay Concerning Humane Understanding, Volume I Book II, Chapter XV, by John Locke is part of HackerNoon’s Book Blog Post series. 
+
+
+### [250. Frankenstein or, The Modern Prometheus: Chapter XVI](https://hackernoon.com/frankenstein-or-the-modern-prometheus-chapter-xvi)
+![](https://cdn.hackernoon.com/images/KGKqGgldsBeFIitE2M9aXBqZ4al1-x993jmt.jpeg)
+“Cursed, cursed creator! Why did I live? Why, in that instant, did I not extinguish the spark of existence which you had so wantonly bestowed? 
+
+### [251. Astounding Stories of Super-Science June 1931: Manape the Mighty - Chapter III](https://hackernoon.com/astounding-stories-of-super-science-june-1931-manape-the-mighty-chapter-iii)
+![](https://cdn.hackernoon.com/images/eYmBPfrqu8d2TdijQi8nkPK2yGl2-2qa3jn3.jpeg)
+The meal consisted of various fruits, some meat which Bentley could not identify, and wild honey which was delicious. 
+
+### [252. The Essays of Adam Smith: Part VI, Section II, Chapter II ](https://hackernoon.com/the-essays-of-adam-smith-part-vi-section-ii-chapter-ii)
+![](https://cdn.hackernoon.com/images/fisV3ygrKHQzoANO3juQvFMtA3r2-s4e3jjy.jpeg)
+All the pleasures and pains of the mind were, according to Epicurus, ultimately derived from those of the body. 
+
+### [253. Relativity: The Special and General Theory: Chapter 3 - Space and Time in Classical Mechanics](https://hackernoon.com/relativity-the-special-and-general-theory-chapter-3-space-and-time-in-classical-mechanics)
+![](https://cdn.hackernoon.com/images/ARlhLhQxvPRGtNtib2JQKCqumM53-92b2hv1.jpeg)
+Relativity: The Special and General Theory by Albert Einstein is part of HackerNoon’s Book Blog Post series. You can jump to any chapter in this book here.
+
+### [254. An Essay Concerning Humane Understanding, Volume I: Book II, Chapter VIII. ](https://hackernoon.com/an-essay-concerning-humane-understanding-volume-i-book-ii-chapter-viii)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-8z93mn4.jpeg)
+An Essay Concerning Humane Understanding, Volume I, Book II, Chapter VIII:   by John Locke is part of HackerNoon’s Book Blog Post series. 
+
+### [255. Pride and Prejudice: Chapter 37](https://hackernoon.com/pride-and-prejudice-chapter-37)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-oh93n5l.jpeg)
+Pride and Prejudice, by Jane Austen, is part of HackerNoon’s Book Blog Post series. 
+
+### [256. Oliver Twist: Chapter XXIV](https://hackernoon.com/oliver-twist-chapter-xxiv)
+![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-wr93rkc.jpeg)
+Oliver Twist, by Charles Dickens is part of HackerNoon’s Book Blog Post series. You can jump to any chapter in this book here: [LINK TO TABLE OF LINK]. Chapter XXIV: Treats On A Very Poor Subject. But Is A Short One, And May Be Found Of Importance In This History
+
+### [257. Pride and Prejudice: Chapter 54](https://hackernoon.com/pride-and-prejudice-chapter-54)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-c493nfd.jpeg)
+Pride and Prejudice, by Jane Austen, is part of HackerNoon’s Book Blog Post series. 
+
+### [258. The Story of Nuclear Energy, Volume 2 (of 3): Mass and Energy](https://hackernoon.com/the-story-of-nuclear-energy-volume-2-of-3-mass-and-energy)
+![](https://cdn.hackernoon.com/images/P9UdA5H40seCaH3OOmFtrY8785H3-bza3q2r.jpeg)
+Worlds Within Worlds: The Story of Nuclear Energy, Volume 2 (of 3), by Isaac Asimov is part of HackerNoon’s Book Blog Post series. You can jump to any chapter in this book here. Volume II: MASS AND ENERGY
+
+
+### [259. Pride and Prejudice: Chapter 29](https://hackernoon.com/pride-and-prejudice-chapter-29)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-9p93nu2.jpeg)
+Pride and Prejudice, by Jane Austen, is part of HackerNoon’s Book Blog Post series.
+
+### [260. THE LEAGUE MUST BE REPRESENTATIVE](https://hackernoon.com/the-league-must-be-representative)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-h5b3l4k.jpeg)
+Half a world peace is better than none.
+
+### [261. The Art Of Writing & Speaking The English Language : Chapter I - Diction](https://hackernoon.com/the-art-of-writing-and-speaking-the-english-language-chapter-i-diction)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-b693nn4.jpeg)
+The best practical exercise for the enlargement of one's vocabulary is translating, or writing verses.
+
+### [262. Of the eleventh horn of Daniel's fourth Beast](https://hackernoon.com/of-the-eleventh-horn-of-daniels-fourth-beast)
+![](https://cdn.hackernoon.com/images/MQulqp7rmAMYbiwlEJ9nr4firgx2-ceb3jlc.jpeg)
+A Seer, Επισκοπος, is a Bishop in the literal sense of the word; and this Church claims the universal Bishoprick.
+
+### [263. Great Expectations: Chapter IX](https://hackernoon.com/great-expectations-chapter-ix)
+![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-kj93uea.jpeg)
+Great Expectations, by Charles Dickens is part of HackerNoon’s Book Blog Post series. You can jump to any chapter in this book here.
+
+### [264. The Art Of Writing & Speaking The English Language : Chapter IV - Humor](https://hackernoon.com/the-art-of-writing-and-speaking-the-english-language-chapter-iv-humor)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-qd93nyg.jpeg)
+The first important consideration is good nature. 
+
+### [265. Healing From Verbal Abuse](https://hackernoon.com/healing-from-verbal-abuse)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-ac93n9s.jpeg)
+An Essay Concerning Humane Understanding, Volume II, by John Locke is part of HackerNoon’s Book Blog Post series. 
+
+### [266. Frankenstein or, The Modern Prometheus: Chapter II](https://hackernoon.com/frankenstein-or-the-modern-prometheus-chapter-ii)
+![](https://cdn.hackernoon.com/images/KGKqGgldsBeFIitE2M9aXBqZ4al1-zwa3icg.jpeg)
+We were brought up together; there was not quite a year difference in our ages.
+
+### [267. An Inquiry into the Nature and Causes of the Wealth of Nations: Book IV, Chapter IV. ](https://hackernoon.com/an-inquiry-into-the-nature-and-causes-of-the-wealth-of-nations-book-iv-chapter-iv)
+![](https://cdn.hackernoon.com/images/4O9wiIuRTiRbwA1feRRcV0OGCb92-tuc3is8.jpeg)
+Merchants and manufacturers are not contented with the monopoly of the home market, but desire likewise the most extensive foreign sale for their goods.
+
+### [268. The Essays of Adam Smith: Part I, SEC. II, Chapter III - Of the unsocial Passions](https://hackernoon.com/the-essays-of-adam-smith-part-i-sec-ii-chapter-iii-of-the-unsocial-passions)
+![](https://cdn.hackernoon.com/images/fisV3ygrKHQzoANO3juQvFMtA3r2-0ub3noe.jpeg)
+The villain, in a tragedy or romance, is as much the object of our indignation, as the hero is that of our sympathy and affection.
+
+### [269. A Tract on Monetary Reform: Chapter III - The Theory of Money and of the Foreign Exchange](https://hackernoon.com/a-tract-on-monetary-reform-chapter-iii-the-theory-of-money-and-of-the-foreign-exchange)
+![](https://cdn.hackernoon.com/images/dS8vTXHOEGNxenpaKFuzuCW5Y1x1-3793io7.jpeg)
+Parts of this chapter raise, unavoidably, matters of much greater difficulty to the layman than the rest of the book.
+
+### [270. Into Space](https://hackernoon.com/into-space)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-2m93ojz.jpeg)
+MANY of my readers will remember the mysterious radio messages which were heard by both amateur and professional short wave operators during the night
+
+### [271. The Count of Monte Cristo, Illustrated: Chapter 16 - A Learned Italian](https://hackernoon.com/the-count-of-monte-cristo-illustrated-chapter-16-a-learned-italian)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-ms93nh2.jpeg)
+The Count of Monte Cristo, Volume One, Chapter 16 by Alexandre Dumas, père is part of HackerNoon’s Book Blog Post series.
+
+### [272. The So-Called Science of Sociology](https://hackernoon.com/the-so-called-science-of-sociology)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-k5b3lq4.jpeg)
+An Englishman looks at the world by H. G. Wells, is part of the HackerNoon Books Series. 
+
+### [273. A Brief Journey Through Hacker Hell](https://hackernoon.com/a-brief-journey-through-hacker-hell)
+![](https://cdn.hackernoon.com/images/the-underworld-with-laptops-and-fire-clbgmbg2f000201s67u1wemlq.png)
+Richard Stallman stares, unblinking, through the windshield of a rental car, waiting for the light to change as we make our way through downtown Kihei.
+
+### [274. An Inquiry into the Nature and Causes of the Wealth of Nations: Book IV, Chapter VI ](https://hackernoon.com/an-inquiry-into-the-nature-and-causes-of-the-wealth-of-nations-book-iv-chapter-vi)
+![](https://cdn.hackernoon.com/images/4O9wiIuRTiRbwA1feRRcV0OGCb92-dxe3i55.jpeg)
+It is but a very small part of this importation which, it can be supposed, is employed as an annual addition, either to the plate or to the coin of the kingdom.
+
+### [275. The Count of Monte Cristo, Illustrated: Chapter 22 - The Smugglers](https://hackernoon.com/the-count-of-monte-cristo-illustrated-chapter-22-the-smugglers)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-h393nfr.jpeg)
+The Count of Monte Cristo,Volume One, Chapter 22: The Smugglers by Alexandre Dumas, père is part of HackerNoon’s Book Blog Post series. 
+
+### [276. Earth, the Marauder](https://hackernoon.com/earth-the-marauder)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-6ac3t8x.jpeg)
+Despite the fact that for centuries the Secret of Life had been the possession of children of men, the Earth was dying.
+
+### [277. Pride and Prejudice: Chapter 3](https://hackernoon.com/pride-and-prejudice-chapter-3)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-jv93jfd.jpeg)
+Pride and Prejudice, by Jane Austen, is part of HackerNoon’s Book Blog Post series. 
+
+### [278. The Invisible Death: Out of the Hangman's Hands](https://hackernoon.com/the-invisible-death-out-of-the-hangmans-hands)
+![](https://cdn.hackernoon.com/images/a-big-spaceship-in-the-sky-clb22ww6n000601s62ck20z8d.png)
+"You speak," said Von Kettler, jeering, "as if you really believed that you had the power of life and death over me."
+
+### [279. An Essay Concerning Humane Understanding, Volume I by John Locke - Table of Links ](https://hackernoon.com/an-essay-concerning-humane-understanding-volume-i-by-john-locke-table-of-links)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-fg93jzr.jpeg)
+An Essay Concerning Humane Understanding, Volume I,  by John Locke is part of HackerNoon’s Book Blog Post series. The table of Links for this book can be found here. 
+
+### [280. The Count of Monte Cristo, Illustrated: Chapter 25 - The Unknown](https://hackernoon.com/the-count-of-monte-cristo-illustrated-chapter-25-the-unknown)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-oy93nhn.jpeg)
+The Count of Monte Cristo, Volume One, Chapter 25: The Unknown by Alexandre Dumas, père is part of HackerNoon’s Book Blog Post series. 
+
+### [281. Astounding Stories of Super-Science July 1931: The Exile of Time - Chapter XXII](https://hackernoon.com/astounding-stories-of-super-science-july-1931-the-exile-of-time-chapter-xxii)
+![](https://cdn.hackernoon.com/images/eYmBPfrqu8d2TdijQi8nkPK2yGl2-66n3jpo.jpeg)
+The giant mechanism, fashioned in the guise of a man, lay dying. 
+
+### [282. Read Brigands of the Moon Online for Free](https://hackernoon.com/astounding-stories-of-super-science-march-1930-brigands-of-the-moon-chapter-i)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-5v93l7o.png)
+I introduce myself, begging grace that I intrude upon your busy minutes, with my only excuse that perhaps I may amuse you.
+
+### [283. The Murder in A 22](https://hackernoon.com/the-murder-in-a-22)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-q0a3t70.jpeg)
+“GOOD GOD, what was that?” Dr. Frank’s face had gone white in the starlight. Snap stood like a statue of horror.
+
+### [284. The Essays of Adam Smith: Part I, SEC. III, Chapter I](https://hackernoon.com/the-essays-of-adam-smith-part-i-sec-iii-chapter-i)
+![](https://cdn.hackernoon.com/images/fisV3ygrKHQzoANO3juQvFMtA3r2-j5e3nu0.jpeg)
+OUR sympathy with sorrow, though not more real, has been more taken notice of than our sympathy with joy. 
+
+
+### [285. Pride and Prejudice: Chapter 53](https://hackernoon.com/pride-and-prejudice-chapter-53)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-3w93nw6.jpeg)
+Pride and Prejudice, by Jane Austen, is part of HackerNoon’s Book Blog Post series. 
+
+### [286. The Essays of Adam Smith: Part I, SEC. III, Chapter II.](https://hackernoon.com/the-essays-of-adam-smith-part-i-sec-iii-chapter-ii)
+![](https://cdn.hackernoon.com/images/fisV3ygrKHQzoANO3juQvFMtA3r2-76f3nhn.jpeg)
+IT is because mankind are disposed to sympathize more entirely with our joy than with our sorrow, that we make parade of our riches, and conceal our poverty. 
+
+### [287. A Tract on Monetary Reform: Chapter I - II. Changes in the Value of Money, As affecting Production](https://hackernoon.com/a-tract-on-monetary-reform-chapter-i-ii-changes-in-the-value-of-money-as-affecting-production)
+![](https://cdn.hackernoon.com/images/dS8vTXHOEGNxenpaKFuzuCW5Y1x1-luc3neg.jpeg)
+A fluctuation in the measuring-rod of value does not alter in the least the wealth of the world, the needs of the world, or the productive capacity of the world
+
+### [288. Frankenstein or, The Modern Prometheus: Chapter X](https://hackernoon.com/frankenstein-or-the-modern-prometheus-chapter-x)
+![](https://cdn.hackernoon.com/images/KGKqGgldsBeFIitE2M9aXBqZ4al1-kki3iva.jpeg)
+We rest; a dream has power to poison sleep. We rise; one wand’ring thought pollutes the day.
+
+### [289. The Human Side of Animals: Chapter 2 - Animal Musicians](https://hackernoon.com/the-human-side-of-animals-chapter-2-animal-musicians)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-qt93na3.jpeg)
+The Human Side of Animals by Royal Dixon is part of HackerNoon’s Book Blog Post series. 
+
+### [290. PRIMITIVE NOMADIC PEOPLES](https://hackernoon.com/primitive-nomadic-peoples)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-9g1m3lpx.jpeg)
+For settlement under the conditions of the primitive civilizations men needed a constant water supply and warmth and sunshine.
+
+### [291. Frankenstein or, The Modern Prometheus: Chapter IV](https://hackernoon.com/frankenstein-or-the-modern-prometheus-chapter-iv)
+![](https://cdn.hackernoon.com/images/KGKqGgldsBeFIitE2M9aXBqZ4al1-o9c3iws.jpeg)
+From this day natural philosophy, and particularly chemistry, in the most comprehensive sense of the term, became nearly my sole occupation.
+
+### [292. Astounding Stories of Super-Science May 1931: Dark Moon - Chapter IV](https://hackernoon.com/astounding-stories-of-super-science-may-1931-dark-moon-chapter-iv)
+![](https://cdn.hackernoon.com/images/eYmBPfrqu8d2TdijQi8nkPK2yGl2-amb3j0q.jpeg)
+How often are the great things of life submerged beneath the trivial.
+
+### [293. The Human Side of Animals: Chapter 15 - The Future life of Animals](https://hackernoon.com/the-human-side-of-animals-chapter-15-the-future-life-of-animals)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-1x93nph.jpeg)
+The Human Side of Animals by Royal Dixon is part of HackerNoon’s Book Blog Post series. 
+
+
+### [294. Pride and Prejudice: Chapter 51](https://hackernoon.com/pride-and-prejudice-chapter-51)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-l093nao.jpeg)
+Pride and Prejudice, by Jane Austen, is part of HackerNoon’s Book Blog Post series.
+
+### [295. Great Expectations: Chapter X](https://hackernoon.com/great-expectations-chapter-x)
+![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-jb93umk.jpeg)
+Great Expectations, by Charles Dickens is part of HackerNoon’s Book Blog Post series. You can jump to any chapter in this book here.
+
+### [296. David Copperfield: Chapter 12 - Liking Life On My Own Account No Better, I Form A Great Resolution](https://hackernoon.com/david-copperfield-chapter-12-liking-life-on-my-own-account-no-better-i-form-a-great-resolution)
+![](https://cdn.hackernoon.com/images/u95KCwq4YOewwTvOFZTE2c39Icz1-vi93iey.jpeg)
+In due time, Mr. Micawber’s petition was ripe for hearing; and that gentleman was ordered to be discharged under the Act, to my great joy.
+
+### [297. Second Treatise of Government: Chapter XVI](https://hackernoon.com/second-treatise-of-government-chapter-xvi)
+![](https://cdn.hackernoon.com/images/pAFO4E8fq4WoAyIPm0Kq8kOF7U82-xze3ict.jpeg)
+Indeed, it often makes way for a new frame of a commonwealth, by destroying the former; but, without the consent of the people, can never erect a new one.
+
+### [298. THE OUTLOOK FOR THE GERMANS](https://hackernoon.com/the-outlook-for-the-germans)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-8ut3lq6.jpeg)
+I will do no more than I must to injure Germany further, and I will do all that I can to restore the unity of mankind.
+
+### [299. Pride and Prejudice: Chapter 26](https://hackernoon.com/pride-and-prejudice-chapter-26)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-9t93nk0.jpeg)
+Pride and Prejudice, by Jane Austen, is part of HackerNoon’s Book Blog Post series. 
+
+### [300. An Inquiry into the Nature and Causes of the Wealth of Nations: Book IV, Chapter VII - Part I](https://hackernoon.com/an-inquiry-into-the-nature-and-causes-of-the-wealth-of-nations-book-iv-chapter-vii-part-i)
+![](https://cdn.hackernoon.com/images/4O9wiIuRTiRbwA1feRRcV0OGCb92-j6f3idp.jpeg)
+All the other enterprizes of the Spaniards in the New World, subsequent to those of Columbus, seem to have been prompted by the same motive.
+
+### [301. The Count of Monte Cristo, Illustrated: Chapter 9 - The Evening of the Betrothal](https://hackernoon.com/the-count-of-monte-cristo-illustrated-chapter-9-the-evening-of-the-betrothal)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-3b93mhv.jpeg)
+The Count of Monte Cristo,  Volume One, Chapter 10:  The Evening of the Betrothal by Alexandre Dumas, père is part of HackerNoon’s Book Blog Post series. 
+
+### [302. Frankenstein or, The Modern Prometheus: Chapter XVII](https://hackernoon.com/frankenstein-or-the-modern-prometheus-chapter-xvii)
+![](https://cdn.hackernoon.com/images/KGKqGgldsBeFIitE2M9aXBqZ4al1-3893jds.jpeg)
+F“You must create a female for me with whom I can live in the interchange of those sympathies necessary for my being. "
+
+### [303. An Inquiry into the Nature and Causes of the Wealth of Nations: Book I, Chapter VI](https://hackernoon.com/an-inquiry-into-the-nature-and-causes-of-the-wealth-of-nations-book-i-chapter-vi)
+![](https://cdn.hackernoon.com/images/4O9wiIuRTiRbwA1feRRcV0OGCb92-20b3n3s.jpeg)
+The profits of stock, it may perhaps be thought, are only a different name for the wages of a particular sort of THE COMPONENT PART OF THE PRICE OF COMMODITIES.
+
+### [304. Pride and Prejudice: Chapter 47](https://hackernoon.com/pride-and-prejudice-chapter-47)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-5m93na5.jpeg)
+Pride and Prejudice, by Jane Austen, is part of HackerNoon’s Book Blog Post series. 
+
+### [305. ADMINISTRATIVE SOCIALISM](https://hackernoon.com/administrative-socialism)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-v5u3l8p.jpeg)
+Systematic expropriation of private owners by death-duties and increased taxation.
+
+### [306. Pride and Prejudice: Chapter 20](https://hackernoon.com/pride-and-prejudice-chapter-20)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-f393mnv.jpeg)
+Pride and Prejudice, by Jane Austen, is part of HackerNoon’s Book Blog Post series. 
+
+### [307. Faith and Reason](https://hackernoon.com/an-essay-concerning-humane-understanding-volume-ii-book-iv-chapter-xviii)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-ga93oqs.jpeg)
+An Essay Concerning Humane Understanding, Volume II: Book IV, Chapter XVIII, by John Locke is part of HackerNoon’s Book Blog Post series.
+
+### [308. Astounding Stories of Super-Science August 1931: Brood of the Dark Moon - Chapter I](https://hackernoon.com/astounding-stories-of-super-science-august-1931-brood-of-the-dark-moon-chapter-i)
+![](https://cdn.hackernoon.com/images/eYmBPfrqu8d2TdijQi8nkPK2yGl2-28p3jmn.jpeg)
+Once more Chet, Walt and Diane are united in a wild ride to the Dark Moon—but this time they go as prisoners of their deadly enemy Schwartzmann.
+
+### [309. An Essay Concerning Humane Understanding, Volume I: Book II, Chapter X.](https://hackernoon.com/an-essay-concerning-humane-understanding-volume-i-book-ii-chapter-x)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-h693mfi.jpeg)
+An Essay Concerning Humane Understanding, Volume I Book II, Chapter X: OF RETENTION, by John Locke is part of HackerNoon’s Book Blog Post series.
+
+### [310. The Palmer Method of Business Writing: Lesson 99 ](https://hackernoon.com/the-palmer-method-of-business-writing-lesson-99)
+![](https://cdn.hackernoon.com/images/jvjajoMzXGenl6tjMR4f2EWBuIr1-0r93kd4.jpeg)
+Some pupils will be able to write the word at higher speed and still do good work.
+
+### [311. For the Story Teller: Chapter 10 -
+Stimulating the Emotions by Means of a Story](https://hackernoon.com/for-the-story-teller-chapter-10-stimulating-the-emotions-by-means-of-a-story)
+![](https://cdn.hackernoon.com/images/UUZZjfJqIWXx3OTAxCc5FR9kPtw2-8293jlu.jpeg)
+“I wish I had somebody to tell me all about the world,” he said to himself once, “a real, live person. Oh, I want somebody dreadfully!”
+
+### [312. The Essays of Adam Smith: THE HISTORY OF ASTRONOMY. SEC. 1 ](https://hackernoon.com/the-essays-of-adam-smith-the-history-of-astronomy-sec-1)
+![](https://cdn.hackernoon.com/images/fisV3ygrKHQzoANO3juQvFMtA3r2-9u93jae.jpeg)
+The violent and sudden change produced upon the mind, when an emotion of any kind is brought suddenly upon it, constitutes the whole nature of Surprise.
+
+### [313. The Palmer Method of Business Writing by A. N. Palmer -  Table of Links](https://hackernoon.com/the-palmer-method-of-business-writing-by-a-n-palmer-table-of-links)
+![](https://cdn.hackernoon.com/images/t4EWQ6W18hPhx6xE6pfPwMH58EL2-t793jp3.jpeg)
+The Palmer Method of Business Writing, by A. N. Palmer is part of the HackerNoon Books Series. Read this book online for free on HackerNoon!
+
+### [314. An Essay Concerning Humane Understanding, Volume I: Book II, Chapter XI. ](https://hackernoon.com/an-essay-concerning-humane-understanding-volume-i-book-ii-chapter-xi)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-8l93m9s.jpeg)
+An Essay Concerning Humane Understanding, Volume I: Book II, Chapter XI: OF PERCEPTION by John Locke is part of HackerNoon’s Book Blog Post series.
+
+
+### [315. The Count of Monte Cristo, Illustrated: Chapter 41: The Presentation](https://hackernoon.com/the-count-of-monte-cristo-illustrated-chapter-41-the-presentation)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-um93num.jpeg)
+The Count of Monte Cristo, Volume Two, Chapter 41: The Presentation by Alexandre Dumas, père is part of HackerNoon’s Book Blog Post series. 
+
+### [316. An Inquiry into the Nature and Causes of the Wealth of Nations: Book I, Chapter IX](https://hackernoon.com/an-inquiry-into-the-nature-and-causes-of-the-wealth-of-nations-book-i-chapter-ix)
+![](https://cdn.hackernoon.com/images/4O9wiIuRTiRbwA1feRRcV0OGCb92-np93mmi.jpeg)
+It is not easy, it has already been observed, to ascertain what are the average wages of labour, even in a particular place, and at a particular time. 
+
+### [317. REVOLUTIONARY SOCIALISM](https://hackernoon.com/revolutionary-socialism)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-zmt3lnp.jpeg)
+It was Karl Marx who brought the second great influx of suggestion into the intellectual process of Socialism.
+
+### [318. A Tract on Monetary Reform: Chapter V - Positive Suggestions for the Future Regulation of Money](https://hackernoon.com/a-tract-on-monetary-reform-chapter-v-positive-suggestions-for-the-future-regulation-of-money)
+![](https://cdn.hackernoon.com/images/dS8vTXHOEGNxenpaKFuzuCW5Y1x1-p3e3i3l.jpeg)
+A method for regulating the supply of currency and credit with a view to maintaining, so far as possible, the stability of the internal price level
+
+### [319. 1811 Dictionary in the Vulgar Tongue:- Section A ](https://hackernoon.com/1811-dictionary-in-the-vulgar-tongue-section-a)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-9093np9.jpeg)
+1811 Dictionary in the Vulgar Tongue, by Francis Grose is part of HackerNoon’s Book Blog Post series.
+
+### [320. Truth And Knowledge](https://hackernoon.com/truth-and-knowledge)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-g993nld.jpeg)
+An Essay Concerning Humane Understanding, Volume II: Book IV, Chapter VI, by John Locke is part of HackerNoon’s Book Blog Post series.  
+
+### [321. 1811 Dictionary in the Vulgar Tongue: Section J](https://hackernoon.com/1811-dictionary-in-the-vulgar-tongue-section-j)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-4e93nfw.jpeg)
+1811 Dictionary in the Vulgar Tongue, by Francis Grose is part of HackerNoon’s Book Blog Post series. 
+
+### [322. The Human Side of Animals: Chapter 13 - Animals Scavengers and Criminals](https://hackernoon.com/the-human-side-of-animals-chapter-13-animals-scavengers-and-criminals)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-lz93njc.jpeg)
+The Human Side of Animals by Royal Dixon is part of HackerNoon’s Book Blog Post series. 
+
+### [323. Into the Unknown](https://hackernoon.com/into-the-unknown)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-3v93r6m.jpeg)
+The laboratory was a small room of board walls, board ceiling and floor. Windowless, with a single door opening into the cellar of the apartment house.
+
+### [324. The Essays of Adam Smith: Part IV, Chapter II](https://hackernoon.com/the-essays-of-adam-smith-part-iv-chapter-ii)
+![](https://cdn.hackernoon.com/images/fisV3ygrKHQzoANO3juQvFMtA3r2-e493jn8.jpeg)
+Of the Beauty which the Appearance of Utility bestows upon the Characters and the Actions of Men
+
+
+### [325. The Count of Monte Cristo, Illustrated: Chapter 12 - Father and Son](https://hackernoon.com/the-count-of-monte-cristo-illustrated-chapter-12-father-and-son)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-ox93mhn.jpeg)
+The Count of Monte Cristo, Volume One, Chapter 12: Father and Son by Alexandre Dumas, père is part of HackerNoon’s Book Blog Post series. 
+
+### [326. Pride and Prejudice: Chapter 52](https://hackernoon.com/pride-and-prejudice-chapter-52)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-8m93hy9.jpeg)
+Pride and Prejudice, by Jane Austen, is part of HackerNoon’s Book Blog Post series. 
+
+### [327. The Beetle Horde - Chapter V: Doomed!](https://hackernoon.com/the-beetle-horde-chapter-v-doomed)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-yu93p4f.jpeg)
+There were no means known to Tommy of reckoning time in that strange place of twilight. His watch had been broken in the airplane fall
+
+### [328. The Count of Monte Cristo, Illustrated: Chapter 50 - The Morrel Family](https://hackernoon.com/the-count-of-monte-cristo-illustrated-chapter-50-the-morrel-family)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-ck93ng2.jpeg)
+The Count of Monte Cristo,Volume Three, Chapter 50:  The Morrel Family by Alexandre Dumas, père is part of HackerNoon’s Book Blog Post series. 
+
+### [329. An Inquiry into the Nature and Causes of the Wealth of Nations: Book III - Chapter IV ](https://hackernoon.com/an-inquiry-into-the-nature-and-causes-of-the-wealth-of-nations-book-iii-chapter-iv)
+![](https://cdn.hackernoon.com/images/4O9wiIuRTiRbwA1feRRcV0OGCb92-8if3ic8.jpeg)
+It is a mistake to imagine that those territorial jurisdictions took their origin from the feudal law.
+
+### [330. David Copperfield: Chapter 15 - I Make Another Beginning](https://hackernoon.com/david-copperfield-chapter-15-i-make-another-beginning)
+![](https://cdn.hackernoon.com/images/u95KCwq4YOewwTvOFZTE2c39Icz1-e2c3iak.jpeg)
+Mr. Dick and I soon became the best of friends, and very often, when his day’s work was done, went out together to fly the great kite.
+
+### [331. David Copperfield: Chapter 24 - My First Dissipation](https://hackernoon.com/david-copperfield-chapter-24-my-first-dissipation)
+![](https://cdn.hackernoon.com/images/u95KCwq4YOewwTvOFZTE2c39Icz1-0m93j07.jpeg)
+It was fine in the morning, particularly in the fine mornings. It looked a very fresh, free life, by daylight: still fresher, and more free, by sunlight. 
+
+### [332. The Count of Monte Cristo, Illustrated: Chapter 15 - Number 34 and Number 27](https://hackernoon.com/the-count-of-monte-cristo-illustrated-chapter-15-number-34-and-number-27)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-f093mc4.jpeg)
+The Count of Monte Cristo, Volume One, Chapter 15: Number 34 and Number 27 by Alexandre Dumas, père is part of HackerNoon’s Book Blog Post series. 
+
+
+### [333. The History of Ancient Physics](https://hackernoon.com/the-essays-of-adam-smith-the-history-of-the-ancient-physics)
+![](https://cdn.hackernoon.com/images/fisV3ygrKHQzoANO3juQvFMtA3r2-gqd3j0y.jpeg)
+The species of objects in the Heavens are few in number; the Sun, the Moon, the Planets, and the Fixed Stars, are all which those philosophers could distinguish
+
+### [334. The Count of Monte Cristo, Illustrated - TABLE OF LINKS](https://hackernoon.com/the-count-of-monte-cristo-illustrated-table-of-links)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-vm93jhw.jpeg)
+The Count of Monte Cristo, Illustrated, by Alexandre Dumas is part of HackerNoon’s Book Blog Post series. The table of Links for this book can be found here.
+
+### [335. Oliver Twist: Chapter XIII](https://hackernoon.com/oliver-twist-chapter-xiii)
+![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-8k93qur.jpeg)
+Oliver Twist, by Charles Dickens is part of HackerNoon’s Book Blog Post series. You can jump to any chapter in this book here: [LINK TO TABLE OF LINK]. Chapter XIII: Some New Acquitances are Introduced to the Intelligent Reader, Connected with Whom  Various Pleasant Matters are Related, Appertaining to this History
+
+### [336. An Inquiry into the Nature and Causes of the Wealth of Nations: Book I, Chapter V](https://hackernoon.com/an-inquiry-into-the-nature-and-causes-of-the-wealth-of-nations-book-i-chapter-v)
+![](https://cdn.hackernoon.com/images/4O9wiIuRTiRbwA1feRRcV0OGCb92-j4a3n5p.jpeg)
+Every man is rich or poor according to the degree in which he can afford to enjoy the necessaries, conveniencies, and amusements of human life.
+
+### [337. The Count of Monte Cristo, Illustrated: Chapter 45 - The Rain of Blood](https://hackernoon.com/the-count-of-monte-cristo-illustrated-chapter-45-the-rain-of-blood)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-5l93n6m.jpeg)
+The Count of Monte Cristo, Volume Two, Chapter 45: The Rain of Blood by Alexandre Dumas, père is part of HackerNoon’s Book Blog Post series. 
+
+### [338. Frankenstein or, The Modern Prometheus: Chapter VIII](https://hackernoon.com/frankenstein-or-the-modern-prometheus-chapter-viii)
+![](https://cdn.hackernoon.com/images/KGKqGgldsBeFIitE2M9aXBqZ4al1-mjg3imt.jpeg)
+We passed a few sad hours until eleven o’clock, when the trial was to commence.
+
+
+### [339. Second Treatise of Government: Chapter V ](https://hackernoon.com/second-treatise-of-government-chapter-v)
+![](https://cdn.hackernoon.com/images/pAFO4E8fq4WoAyIPm0Kq8kOF7U82-tmd3ier.jpeg)
+Psal. cxv. 16. has given the earth to the children of men; given it to mankind in common. 
+
+
+### [340. The Count of Monte Cristo, Illustrated: Chapter 36 - The Carnival at Rome](https://hackernoon.com/the-count-of-monte-cristo-illustrated-chapter-36-the-carnival-at-rome)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-m793nnm.jpeg)
+The Count of Monte Cristo, Volume Two, Chapter 36: The Carnival at Rome. by Alexandre Dumas, père is part of HackerNoon’s Book Blog Post series.
+
+### [341. The Beetle Horde](https://hackernoon.com/the-beetle-horde)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-se93pnb.jpeg)
+Jim Dodd, the young archaeologist of the party, could be seen apparently wrestling with something that looked like a suit of armor.
+
+### [342. Moby-Dick; or The Whale: Chapter 1 - Loomings](https://hackernoon.com/moby-dick-or-the-whale-chapter-1-loomings)
+![](https://cdn.hackernoon.com/images/ILTqipux3WfjrBZgJIPB7BJB4x33-h193jcd.jpeg)
+Moby-Dick; or The Whale: Chapter 1 - Loomings by Herman Melville is part of HackerNoon’s Book Blog Post series
+
+### [343. Frankenstein or, The Modern Prometheus: Chapter XIX](https://hackernoon.com/frankenstein-or-the-modern-prometheus-chapter-xix)
+![](https://cdn.hackernoon.com/images/KGKqGgldsBeFIitE2M9aXBqZ4al1-3ob3jtx.jpeg)
+London was our present point of rest; we determined to remain several months in this wonderful and celebrated city. 
+
+### [344. An Inquiry into the Nature and Causes of the Wealth of Nations: Book II - Chapter IV ](https://hackernoon.com/an-inquiry-into-the-nature-and-causes-of-the-wealth-of-nations-book-ii-chapter-iv)
+![](https://cdn.hackernoon.com/images/4O9wiIuRTiRbwA1feRRcV0OGCb92-9ja3ip6.jpeg)
+The stock which is lent at interest is always considered as a capital by the lender.
+
+### [345. Frankenstein or, The Modern Prometheus: Chapter V](https://hackernoon.com/frankenstein-or-the-modern-prometheus-chapter-v)
+![](https://cdn.hackernoon.com/images/KGKqGgldsBeFIitE2M9aXBqZ4al1-lkd3irb.jpeg)
+The different accidents of life are not so changeable as the feelings of human nature. 
+
+### [346. An Essay Concerning Humane Understanding, Volume I: Book II, Chapter XXVIII.](https://hackernoon.com/an-essay-concerning-humane-understanding-volume-i-book-ii-chapter-xxviii)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-lk93nkf.jpeg)
+An Essay Concerning Humane Understanding, Volume I: Book II, Chapter XXVIII: OF OTHER RELATIONS, by John Locke is part of HackerNoon’s Book Blog Post series. 
+
+
+### [347. A Portrait of the Hacker as a Young Man](https://hackernoon.com/a-portrait-of-the-hacker-as-a-young-man)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-9ta3um9.jpeg)
+Around age seven, two years after the divorce and relocation from Queens, Richard took up the hobby of launching model rockets in nearby Riverside Drive Park
+
+### [348. The Count of Monte Cristo, Illustrated: Chapter 18 - The Treasure](https://hackernoon.com/the-count-of-monte-cristo-illustrated-chapter-18-the-treasure)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-x493nca.jpeg)
+The Count of Monte Cristo, Volume One, Chapter 18: The Treasure by Alexandre Dumas, père is part of HackerNoon’s Book Blog Post series. 
+
+### [349. Murder Madness! 7 Secret Service Men had Completely Disappeared](https://hackernoon.com/murder-madness-7-secret-service-men-had-completely-disappeared)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-kf93tu6.jpeg)
+The engines of the Almirante Gomez were going dead slow. Away up beside her monster funnels her siren blew dismally
+
+### [350. Astounding Stories of Super-Science June 1931: Manape the Mighty - Chapter II](https://hackernoon.com/astounding-stories-of-super-science-june-1931-manape-the-mighty-chapter-ii)
+![](https://cdn.hackernoon.com/images/eYmBPfrqu8d2TdijQi8nkPK2yGl2-2d93jp7.jpeg)
+"Fate wouldn't allow us to come through what we have only to end things with poisoned darts. It just couldn't happen that way!"
+
+### [351. 1811 Dictionary in the Vulgar Tongue: Section M](https://hackernoon.com/1811-dictionary-in-the-vulgar-tongue-section-m)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-oj93nqz.jpeg)
+1811 Dictionary in the Vulgar Tongue, by Francis Grose is part of HackerNoon’s Book Blog Post series. 
+
+### [352. A Tract on Monetary Reform: Chapter III - IV. The Forward Market in Exchanges](https://hackernoon.com/a-tract-on-monetary-reform-chapter-iii-iv-the-forward-market-in-exchanges)
+![](https://cdn.hackernoon.com/images/dS8vTXHOEGNxenpaKFuzuCW5Y1x1-zea3iaq.jpeg)
+Transactions in “spot” exchange are for cash—that is to say, cash in one currency is exchanged for cash in another currency.
+
+### [353. The Great Gatsby: Chapter 2](https://hackernoon.com/the-great-gatsby-chapter-2)
+![](https://cdn.hackernoon.com/images/1RRJkP1I2GZF1QhFVEA8zKyY1iz2-6723ge6.jpeg)
+The Great Gatsby, Chapter 2 by F. Scott Fitzgerald is part of HackerNoon’s Book Blog Post series. 
+
+### [354. The Man Who Was Dead](https://hackernoon.com/the-man-who-was-dead)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-va93l41.jpeg)
+IT was a wicked night, the night I met the man who had died.
+
+### [355. Moby-Dick; or The Whale by Herman Melville - Table of Links](https://hackernoon.com/moby-dick-or-the-whale-by-herman-melville-table-of-links)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-0o93jxg.jpeg)
+Moby-Dick; or The Whale, by Herman Melville is part of HackerNoon’s Book Blog Post series. The table of Links for this book can be found here.
+
+### [356. Pride and Prejudice: Chapter 56](https://hackernoon.com/pride-and-prejudice-chapter-56)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-pu93lis.jpeg)
+Pride and Prejudice, by Jane Austen is part of HackerNoon’s Book Blog Post series. 
+
+### [357. The New Religion](https://hackernoon.com/the-new-religion)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-6893tsp.jpeg)
+EVERY great religion has as its psychological reason for existence the mission of compensating for some crying, unsatisfied human need. 
+
+### [358. Astounding Stories of Super-Science May 1931: The Exile of Time - Chapter  XIII](https://hackernoon.com/astounding-stories-of-super-science-may-1931-the-exile-of-time-chapter-xiii)
+![](https://cdn.hackernoon.com/images/eYmBPfrqu8d2TdijQi8nkPK2yGl2-nia3j2t.jpeg)
+"Master, I have done well. There is no reason to punish."
+
+### [359. The Art Of Writing & Speaking The English Language Word-Study: Chapter II - Word - Building](https://hackernoon.com/the-art-of-writing-and-speaking-the-english-language-word-study-chapter-ii-word-building)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-2v93n3w.jpeg)
+In English, accent is an essential part of every word.
+
+### [360. 2001: A Hacker's Odyssey](https://hackernoon.com/2001-a-hackers-odyssey)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-lt93u8e.jpeg)
+Numerous signs scattered throughout the first floor preach the dangers of unsecured doors and propped-open fire exits.
+
+### [361. Adventures of Huckleberry Finn: Chapter XXXIV](https://hackernoon.com/adventures-of-huckleberry-finn-chapter-xxxiv)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-vd93mlc.jpeg)
+Adventures of Huckleberry Finn, by Mark Twain (Samuel Clemens) is part of HackerNoon’s Book Blog Post series.
+
+### [362. A Tract on Monetary Reform: Chapter I - No. 2 The Business Class](https://hackernoon.com/a-tract-on-monetary-reform-chapter-i-no-2-the-business-class)
+![](https://cdn.hackernoon.com/images/dS8vTXHOEGNxenpaKFuzuCW5Y1x1-zta3nsi.jpeg)
+Economists draw an instructive distinction between what are termed the “money” rate of interest and the “real” rate of interest.
+
+### [363. The Count of Monte Cristo, Illustrated: Chapter 29 - The House of Morrel & Son](https://hackernoon.com/the-count-of-monte-cristo-illustrated-chapter-29-the-house-of-morrel-and-son)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-fl93n7o.jpeg)
+The Count of Monte Cristo Volume Two, Chapter 29: The House of Morrel & Son, by Alexandre Dumas, père is part of HackerNoon’s Book Blog Post series. 
+
+### [364. Does God Exist?](https://hackernoon.com/does-god-exist)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-1z93oqh.jpeg)
+An Essay Concerning Humane Understanding, Volume II: Book IV, Chapter X, by John Locke is part of HackerNoon’s Book Blog Post series.
+
+### [365. THE OLD MAN WHO KNEW EVERYTHING](https://hackernoon.com/the-old-man-who-knew-everything)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-bck3lo1.jpeg)
+“Dark and damnable,” said the old man suddenly. “Dark and damnable. Turned out of my room among all these dangers.”
+
+### [366. Pride and Prejudice: Chapter 18](https://hackernoon.com/pride-and-prejudice-chapter-18)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-ni93mu4.jpeg)
+Pride and Prejudice, by Jane Austen, is part of HackerNoon’s Book Blog Post series. 
+
+### [367. Astounding Stories of Super-Science July 1931: VOL. VII, No. 1 - The Readers' Corner](https://hackernoon.com/astounding-stories-of-super-science-july-1931-vol-vii-no-1-the-readers-corner)
+![](https://cdn.hackernoon.com/images/eYmBPfrqu8d2TdijQi8nkPK2yGl2-rms3jhu.jpeg)
+The Authors Explains
+
+
+### [368. SOCIALISM](https://hackernoon.com/socialism)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-sv1e3ln8.jpeg)
+Socialism for me is a common step we are all taking in the great synthesis of human purpose.
+
+### [369. The Planet of Dread](https://hackernoon.com/the-planet-of-dread)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-uzb3tpe.jpeg)
+There was no use hiding from the truth. Somebody had blundered—a fatal blunder—and they were going to pay for it!
+
+### [370. The Evolution of Modern Medicine: Chapter III - SOUTH ITALIAN SCHOOL](https://hackernoon.com/the-evolution-of-modern-medicine-chapter-iii-south-italian-school)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-j593ngy.jpeg)
+The Evolution of Modern Medicine, by William Osler is part of HackerNoon’s Book Blog Post series. 
+
+### [371. Indian Currency and Finance: CHAPTER II - The Gold-Exchange Standard](https://hackernoon.com/indian-currency-and-finance-chapter-ii-the-gold-exchange-standard)
+![](https://cdn.hackernoon.com/images/BSXvNbbIWVSifsbirt6BK4hNCH62-b793nki.jpeg)
+If we are to see the Indian system in its proper perspective, it is necessary to digress for a space to a discussion of currency evolution in general.
+
+
+### [372. Adventures of Huckleberry Finn: Chapter XXXV](https://hackernoon.com/adventures-of-huckleberry-finn-chapter-xxxv)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-2b93meu.jpeg)
+Adventures of Huckleberry Finn, by Mark Twain (Samuel Clemens) is part of HackerNoon’s Book Blog Post series. 
+
+### [373. Moby-Dick; or The Whale: Chapter 79 - The Prairie](https://hackernoon.com/moby-dick-or-the-whale-chapter-79-the-prairie)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-2z93oxu.jpeg)
+Moby-Dick; or The Whale, Chapter 79: The Prairie by Herman Melville is part of HackerNoon’s Book Blog Post series.  
+
+### [374. This Misery of Boots by H. G. Wells - Table of Links](https://hackernoon.com/this-misery-of-boots-by-h-g-wells-table-of-links)
+![](https://cdn.hackernoon.com/images/t4EWQ6W18hPhx6xE6pfPwMH58EL2-c893l9j.jpeg)
+This Misery of Boots by H. G. Wells, is part of the HackerNoon Books Series. Read this book online for free on HackerNoon!
+
+### [375. The Count of Monte Cristo, Illustrated: Chapter 26 - The Pont du Gard Inn](https://hackernoon.com/the-count-of-monte-cristo-illustrated-chapter-26-the-pont-du-gard-inn)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-u193nju.jpeg)
+The Count of Monte Cristo, Volume One, Chapter 27: The Pont du Gard Inn by Alexandre Dumas, père is part of HackerNoon’s Book Blog Post series. 
+
+### [376. The Story of Nuclear Energy: The Nuclear Bomb](https://hackernoon.com/the-story-of-nuclear-energy-the-nuclear-bomb)
+![](https://cdn.hackernoon.com/images/P9UdA5H40seCaH3OOmFtrY8785H3-cfa3qwq.jpeg)
+Worlds Within Worlds: The Story of Nuclear Energy, Volume 3 (of 3), by Isaac Asimov is part of HackerNoon’s Book Blog Post series. You can jump to any chapter in this book here. Volume III, NUCLEAR FISSION: The Nuclear Bomb
+
+### [377. An Inquiry into the Nature and Causes of the Wealth of Nations: Book IV, Chapter I](https://hackernoon.com/an-inquiry-into-the-nature-and-causes-of-the-wealth-of-nations-book-iv-chapter-i)
+![](https://cdn.hackernoon.com/images/4O9wiIuRTiRbwA1feRRcV0OGCb92-cf93i1a.jpeg)
+
+Others admit, that if a nation could be separated from all the world, it would be of no consequence how much or how little money circulated in it.
+
+
+### [378. The Count of Monte Cristo, Illustrated: Chapter 30 - The Fifth of September](https://hackernoon.com/the-count-of-monte-cristo-illustrated-chapter-30-the-fifth-of-september)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-wh93nxa.jpeg)
+The Count of Monte Cristo, Volume Two, Chapter 30: The Fifth of September by Alexandre Dumas, père is part of HackerNoon’s Book Blog Post series.
+
+### [379. The Evolution of Modern Medicine by William Osler - Table of Links](https://hackernoon.com/the-evolution-of-modern-medicine-by-william-osler-table-of-links)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-8b93n8r.jpeg)
+The Evolution of Modern Medicine, by William Osler of HackerNoon’s Book Blog Post series.
+
+### [380. The Count of Monte Cristo, Illustrated: Chapter 21 - The Island of Tiboulen](https://hackernoon.com/the-count-of-monte-cristo-illustrated-chapter-21-the-island-of-tiboulen)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-ny93num.jpeg)
+The Count of Monte Cristo, Volume One, Chapter 21: The Island of Tiboulen by Alexandre Dumas, père is part of HackerNoon’s Book Blog Post series.
+
+### [381. 1811 Dictionary in the Vulgar Tongue: Section U](https://hackernoon.com/1811-dictionary-in-the-vulgar-tongue-section-u)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-ie93lkj.jpeg)
+1811 Dictionary in the Vulgar Tongue, by Francis Grose is part of HackerNoon’s Book Blog Post series. 
+
+### [382. The Essays of Adam Smith: Part III, Chapter II](https://hackernoon.com/the-essays-of-adam-smith-part-iii-chapter-ii)
+![](https://cdn.hackernoon.com/images/fisV3ygrKHQzoANO3juQvFMtA3r2-3g93j22.jpeg)
+MAN naturally desires, not only to be loved, but to be lovely; or to be that thing which is the natural and proper object of love. 
+
+
+### [383. The Count of Monte Cristo, Illustrated: Chapter 48 - Ideology](https://hackernoon.com/the-count-of-monte-cristo-illustrated-chapter-48-ideology)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-x593ntj.jpeg)
+The Count of Monte Cristo, Volume Three, Chapter 48: Ideology by Alexandre Dumas, père is part of HackerNoon’s Book Blog Post series. 
+
+### [384. My Friend Stumbled on an Invention That Could Revolutionize Human Life](https://hackernoon.com/my-friend-stumbled-on-an-invention-that-could-revolutionize-human-life)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-e6h3ked.jpeg)
+Certainly, if ever a man found a guinea when he was looking for a pin it is my good friend Professor Gibberne.
+
+### [385. David Copperfield - TABLE OF LINKS](https://hackernoon.com/david-copperfield-table-of-links)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-6a93idy.jpeg)
+David Copperfield, by Charles Dickens is part of the HackerNoon Books series. Read this book online for free on HackerNoon!
+
+### [386. THE FIRST MAIN GENERALIZATION OF SOCIALISM](https://hackernoon.com/the-first-main-generalization-of-socialism)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-skm3l4u.jpeg)
+And who can doubt the amount of mental and moral dwarfing that is going on side by side with this physical shortage?
+
+### [387. The Odyssey by Samuel Butler  - Table of Links](https://hackernoon.com/the-odyssey-by-samuel-butler-table-of-links)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-1e93nja.jpeg)
+The Odyssey by Homer, is part of HackerNoon’s Book Blog Post series. 
+
+### [388. The History of Metageometry](https://hackernoon.com/the-history-of-metageometry)
+![](https://cdn.hackernoon.com/images/1cictb7R34WqZSQPE16rnaiTb9A2-rd13o6c.jpeg)
+An Essay on the Foundations of Geometry, The Foundations of Geometry, Chapter 1:  A Short Hisby Bertrand Russell is part of HackerNoon’s Book Blog Post series. 
+
+### [389. The Art Of Writing & Speaking The English Language Word-Study: Chapter V - A Spelling Drill](https://hackernoon.com/the-art-of-writing-and-speaking-the-english-language-word-study-chapter-v-a-spelling-drill)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-k893nk9.jpeg)
+Once writers of novels were called liars by some people, because they made up out of their heads the stories they told. 
+
+### [390. The Odyssey: Book V](https://hackernoon.com/the-odyssey-book-v)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-zh93noe.jpeg)
+The Odyssey, by Homer and translated by Samuel Butler is part of HackerNoon’s Book Blog Post series. 
+
+### [391. 1811 Dictionary in the Vulgar Tongue: Section H](https://hackernoon.com/1811-dictionary-in-the-vulgar-tongue-section-h)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-gw93nee.jpeg)
+1811 Dictionary in the Vulgar Tongue, by Francis Grose is part of HackerNoon’s Book Blog Post series. 
+
+### [392. Pride and Prejudice: Chapter 43](https://hackernoon.com/pride-and-prejudice-chapter-43)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-lp93n7s.jpeg)
+Pride and Prejudice, by Jane Austen, is part of HackerNoon’s Book Blog Post series. 
+
+### [393. Bacteria: Chapter III - BACTERIA IN THE AIR](https://hackernoon.com/bacteria-chapter-iii-bacteria-in-the-air)
+![](https://cdn.hackernoon.com/images/6DCcCABaKoUxm1mFlUV6h4Nl4Tf1-e893jen.jpeg)
+The basis of the usual methods in practice is to pass air over or through some nutrient medium.
+
+### [394. For the Story Teller: Chapter 3 - When the Curtain Rises ](https://hackernoon.com/for-the-story-teller-chapter-3-when-the-curtain-rises)
+![](https://cdn.hackernoon.com/images/UUZZjfJqIWXx3OTAxCc5FR9kPtw2-sab3j89.jpeg)
+“Some children were at play in their playground one day, when a herald rode through the town, blowing a trumpet and crying aloud: ‘The King! The King is coming!
+
+### [395. The Essays of Adam Smith: Part VII, Section II, Chapter II](https://hackernoon.com/the-essays-of-adam-smith-part-vii-section-ii-chapter-ii)
+![](https://cdn.hackernoon.com/images/fisV3ygrKHQzoANO3juQvFMtA3r2-lyd3jdd.jpeg)
+Pleasure and pain are the great objects of desire and aversion: but these are distinguished, not by reason, but by immediate sense and feeling.
+
+### [396. The Hideous Monsters Leaped into the Cockpits and Began their Abominable Meal](https://hackernoon.com/the-hideous-monsters-leaped-into-the-cockpits-and-began-their-abominable-meal)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-qd93r55.jpeg)
+Bullets, shrapnel, shell—nothing can stop the trillions of famished, man-sized beetles which, led by a madman, sweep down over the human race.
+
+### [397. Oliver Twist: Chapter XXIII](https://hackernoon.com/oliver-twist-chapter-xxiii)
+![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-o293r7a.jpeg)
+Oliver Twist, by Charles Dickens is part of HackerNoon’s Book Blog Post series. You can jump to any chapter in this book here: [LINK TO TABLE OF LINK]. Chapter XXIII: Which Contains the Substance of A Pleasant Conversation Between Mr. Bumble and  A Lady; And Shows that Even A Beadle May Be Susceptible On Some Points
+
+### [398. The Adventures of Sherlock Holmes: Chapter I - A Scandal in Bohemia](https://hackernoon.com/the-adventures-of-sherlock-holmes-chapter-i-a-scandal-in-bohemia)
+![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-9i93u56.jpeg)
+The Adventures of Sherlock Holmes, by Arthur Conan Doyle is part of HackerNoon’s Book Blog Post series. You can jump to any chapter in this book here: Table of 
+
+### [399. The Count of Monte Cristo, Illustrated: Chapter 24 - The Secret Cave](https://hackernoon.com/the-count-of-monte-cristo-illustrated-chapter-24-the-secret-cave)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-oz93nx5.jpeg)
+The Count of Monte Cristo, Volume One, Chapter 24: The Secret Cave.  by Alexandre Dumas, père is part of HackerNoon’s Book Blog Post series. 
+
+### [400. Computers on the Farm](https://hackernoon.com/computers-on-the-farm-computers-on-the-farm)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-bu93nhi.jpeg)
+A computer can be very useful when repetitive analyses are needed or when data storage is important, as with financial records or daily milk output per cow.
+
+
+### [401. Frankenstein or, The Modern Prometheus: Chapter XX](https://hackernoon.com/frankenstein-or-the-modern-prometheus-chapter-xx)
+![](https://cdn.hackernoon.com/images/KGKqGgldsBeFIitE2M9aXBqZ4al1-l7c3jam.jpeg)
+As I looked on him, his countenance expressed the utmost extent of malice and treachery. 
+
+### [402. In an Inner Room They Found a Diabolical Machine](https://hackernoon.com/in-an-inner-room-they-found-a-diabolical-machine)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-i693rca.jpeg)
+Astounding Stories of Super-Science, January 1930, by Astounding Stories is part of HackerNoon’s Book Blog Post series. You can jump to any chapter in this book here.
+
+
+### [403. THE IMMIGRANT](https://hackernoon.com/the-immigrant)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-ct113l53.jpeg)
+These are all mitigations of the outlook, but still the dark shadow of disastrous possibility remains.
+
+### [404. Pride and Prejudice: Chapter 59](https://hackernoon.com/pride-and-prejudice-chapter-59)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-ii93njj.jpeg)
+Pride and Prejudice, by Jane Austen is part of HackerNoon’s Book Blog Post series.
+
+### [405. The GNU Project's First Milestone](https://hackernoon.com/the-gnu-projects-first-milestone)
+![](https://cdn.hackernoon.com/images/a-wildebeest-climbing-a-mountain-clb22dqz8000101s605et2lvo.png)
+By the spring of 1985, Richard Stallman had settled on the GNU Project's first milestone-a Lisp-based free software version of Emacs. 
+
+### [406. The Idea of a University Defined and Illustrated: Lecture VII ](https://hackernoon.com/the-idea-of-a-university-defined-and-illustrated-lecture-vii)
+![](https://cdn.hackernoon.com/images/ejUZNC47pjbsT8faAmTgQxau7w22-9za3jma.jpeg)
+Its basis of operations, what it starts from, what it falls back upon, is the phenomena which meet the senses. 
+
+### [407. The Human Side of Animals: Chapter 7 - The language of Animals](https://hackernoon.com/the-human-side-of-animals-chapter-7-the-language-of-animals)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-cj93n68.jpeg)
+The Human Side of Animals by Royal Dixon is part of HackerNoon’s Book Blog Post series. 
+
+### [408. Astounding Stories of Super-Science, March 1930: VOLUME I, NO. 3 - Cold Light](https://hackernoon.com/astounding-stories-of-super-science-march-1930-volume-i-no-3-cold-light)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-1193l7c.png)
+I have one of the weirdest cases on my hands that I have ever been mixed up in...
+
+### [409. The Count of Monte Cristo, Illustrated: Chapter 27 - The Story](https://hackernoon.com/the-count-of-monte-cristo-illustrated-chapter-27-the-story)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-6y93ng0.jpeg)
+The Count of Monte Cristo, Volume One, Chapter 27: The Story by Alexandre Dumas, père is part of HackerNoon’s Book Blog Post series. 
+
+### [410. An Essay Concerning Humane Understanding, Volume I: Book II, Chapter XIV.](https://hackernoon.com/an-essay-concerning-humane-understanding-volume-i-book-ii-chapter-xiv)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-s093nvj.jpeg)
+An Essay Concerning Humane Understanding, Volume I, Book II, Chapter XIV: by John Locke is part of HackerNoon’s Book Blog Post series.
+
+### [411. The Palmer Method of Business Writing: Lesson 68](https://hackernoon.com/the-palmer-method-of-business-writing-lesson-68)
+![](https://cdn.hackernoon.com/images/jvjajoMzXGenl6tjMR4f2EWBuIr1-pg93ki0.jpeg)
+Four rests on the base line, and usually the last part extends above the first. Count one, two, three, and make from sixty to seventy a minute.
+
+### [412. The Palmer Method of Business Writing: Lesson 67](https://hackernoon.com/the-palmer-method-of-business-writing-lesson-67)
+![](https://cdn.hackernoon.com/images/jvjajoMzXGenl6tjMR4f2EWBuIr1-pt93km3.jpeg)
+Make this figure in a count of one, two, at the rate of about eighty-five to the minute.
+
+### [413. The Palmer Method of Business Writing: Lesson 88](https://hackernoon.com/the-palmer-method-of-business-writing-lesson-88)
+![](https://cdn.hackernoon.com/images/jvjajoMzXGenl6tjMR4f2EWBuIr1-tg93kgg.jpeg)
+Rate of practice speed: Q, sixty; U, forty-five; V, fifty-five; W, forty to the minute.
+
+### [414. Computers on the Farm: Try it Out](https://hackernoon.com/computers-on-the-farm-try-it-out)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-dw93nqo.jpeg)
+USDA Farmers' Bulletin No. 2277: Computers on the Farm, by Deborah Takiff Smith is part of HackerNoon’s Book Blog Post series. 
+
+
+### [415. The Forgotten Planet](https://hackernoon.com/the-forgotten-planet)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-abc3tnw.jpeg)
+The authentic account of why cosmic man damned an outlaw world to be, forever, a leper of Space.
+
+### [416. The Essays of Adam Smith: THE IMITATIVE ARTS - Part I](https://hackernoon.com/the-essays-of-adam-smith-the-imitative-arts-part-i)
+![](https://cdn.hackernoon.com/images/fisV3ygrKHQzoANO3juQvFMtA3r2-csf3jqy.jpeg)
+THE most perfect imitation of an object of any kind must in all cases, it is evident, be another object of the same kind, made as exactly
+
+### [417. An Essay Concerning Humane Understanding, Volume I: Book II, Chapter XIII.](https://hackernoon.com/an-essay-concerning-humane-understanding-volume-i-book-ii-chapter-xiii)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-v293mk8.jpeg)
+An Essay Concerning Humane Understanding, Volume I: Book II, Chapter XIII, by John Locke is part of HackerNoon’s Book Blog Post series.
+
+
+### [418. The Evolution of Modern Medicine: Chapter I - HEBREW MEDICINE](https://hackernoon.com/the-evolution-of-modern-medicine-chapter-i-hebrew-medicine)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-vy93nmj.jpeg)
+The Evolution of Modern Medicine, by William Osler is part of HackerNoon’s Book Blog Post series.
+
+### [419. The Passionate Friends by H. G. Wells - Table of Links](https://hackernoon.com/the-passionate-friends-by-h-g-wells-table-of-links)
+![](https://cdn.hackernoon.com/images/t4EWQ6W18hPhx6xE6pfPwMH58EL2-2293l74.jpeg)
+The Passionate Friends by H. G. Wells, is part of the HackerNoon Books Series. Read this book online for free on HackerNoon!
+
+### [420. David Copperfield: Chapter 4 - I Fall Into Disgrace](https://hackernoon.com/david-copperfield-chapter-4-i-fall-into-disgrace)
+![](https://cdn.hackernoon.com/images/u95KCwq4YOewwTvOFZTE2c39Icz1-5ha3il9.jpeg)
+He drew her to him, whispered in her ear, and kissed her.
+
+### [421. Astounding Stories of Super-Science June 1931: The Exile of Time - Chapter XV](https://hackernoon.com/astounding-stories-of-super-science-june-1931-the-exile-of-time-chapter-xv)
+![](https://cdn.hackernoon.com/images/eYmBPfrqu8d2TdijQi8nkPK2yGl2-9f93j9p.jpeg)
+There was a nameless feeling, a repulsion against stopping; it was indescribable, but he was aware of it. 
+
+### [422. The Count of Monte Cristo, Illustrated: Chapter 47 - The Dappled Grays](https://hackernoon.com/the-count-of-monte-cristo-illustrated-chapter-47-the-dappled-grays)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-in93nxe.jpeg)
+The Count of Monte Cristo, Volume Two, Chapter 47: The Dappled Grays by Alexandre Dumas, père is part of HackerNoon’s Book Blog Post series. 
+
+### [423. For the Story Teller: Chapter 8 -
+The Dramatic Story](https://hackernoon.com/for-the-story-teller-chapter-8-the-dramatic-story)
+![](https://cdn.hackernoon.com/images/UUZZjfJqIWXx3OTAxCc5FR9kPtw2-l293jr7.jpeg)
+A child cries at a pain, laughs when he is tickled, starts in fear at a sudden and loud noise.
+
+### [424. The Story of the Last Trump](https://hackernoon.com/the-story-of-the-last-trump)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-scz3l7t.jpeg)
+“Now to God the Father, God the Son——”
+
+
+### [425. LOVE AFTER THE CHANGE](https://hackernoon.com/love-after-the-change)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-gfg3lok.jpeg)
+I went toward them, and all the perspectives of my reconstructed universe altered as I did so.
+
+### [426. How to Live on Twenty-Four Hours a Day, August 2000 - Table of Links](https://hackernoon.com/how-to-live-on-twenty-four-hours-a-day-august-2000-table-of-links)
+![](https://cdn.hackernoon.com/images/ZtuZGtc0DdTsudmzUvyyyxl9l4L2-rya3phw.jpeg)
+How to Live on Twenty-Four Hours a Day, August 2000 by Arnold Bennett is part of HackerNoon’s Book Blog Post series.
+
+### [427. The Palmer Method of Business Writing: Lesson 55](https://hackernoon.com/the-palmer-method-of-business-writing-lesson-55)
+![](https://cdn.hackernoon.com/images/jvjajoMzXGenl6tjMR4f2EWBuIr1-5i93kbv.jpeg)
+Write a page of this copy; more if you have sufficient time. 
+
+### [428. How to Select Software - Where to Look for Good Software](https://hackernoon.com/computers-on-the-farm-how-to-select-software-where-to-look-for-good-software)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-wt93n2w.jpeg)
+USDA Farmers' Bulletin No. 2277: Computers on the Farm, by Deborah Takiff Smith is part of HackerNoon’s Book Blog Post series.  
+
+
+### [429. The Palmer Method of Business Writing: Lesson 104](https://hackernoon.com/the-palmer-method-of-business-writing-lesson-104)
+![](https://cdn.hackernoon.com/images/jvjajoMzXGenl6tjMR4f2EWBuIr1-1693kbx.jpeg)
+In practice, write the full word every time the capital is made.
+
+### [430. Astounding Stories of Super-Science May 1931: VOL. VI, No. 2 - When the Moon Turned Green](https://hackernoon.com/astounding-stories-of-super-science-may-1931-vol-vi-no-2-when-the-moon-turned-green)
+![](https://cdn.hackernoon.com/images/eYmBPfrqu8d2TdijQi8nkPK2yGl2-neb3jgw.jpeg)
+Outside his laboratory Bruce Dixon finds a world of living dead men--and above, in the sky, shines a weird green moon.  
+
+### [431. ON USING THE NAME OF GOD](https://hackernoon.com/on-using-the-name-of-god)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-thx3lmi.jpeg)
+Yet let me confess that I am greatly attracted by such fine phrases as the Will of God, the Hand of God, the Great Commander.
+
+### [432. What a Computer Can Do for You  - Telecommunications](https://hackernoon.com/computers-on-the-farm-what-a-computer-can-do-for-you-telecommunications)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-6z93n1u.jpeg)
+With the computer hooked up to the telephone, you can get information quickly, receive it visually, and record it in detail if you wish.
+
+### [433. TO RELIEVE MUSCULAR TENSION](https://hackernoon.com/the-palmer-method-of-business-writing-lesson-76-to-relieve-muscular-tension)
+![](https://cdn.hackernoon.com/images/jvjajoMzXGenl6tjMR4f2EWBuIr1-okb3kdg.jpeg)
+Small f is a little shorter below than above the base line, and is closed on the base line.
+
+### [434. The Science of Getting Rich: Chapter 16](https://hackernoon.com/the-science-of-getting-rich-chapter-16)
+![](https://cdn.hackernoon.com/images/MWOFxJyDOLb9SogBhG2AsIszVL22-cz93pbd.jpeg)
+The Science of Getting Rich  by Wallace D. Wattles is part of HackerNoon’s Book Blog Blog Post series. 
+
+### [435. We Never Shall Have Any More Time](https://hackernoon.com/we-never-shall-have-any-more-time)
+![](https://cdn.hackernoon.com/images/ZtuZGtc0DdTsudmzUvyyyxl9l4L2-ox93p7q.jpeg)
+How to Live on Twenty-Four Hours a Day, August 2000 by Arnold Bennett is part of HackerNoon’s Book Blog Post series.
+
+### [436. Words Hurt](https://hackernoon.com/words-hurt)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-om93nd8.jpeg)
+An Essay Concerning Humane Understanding, Volume II Book III, Chapter X: OF THE ABUSE OF WORDS, by John Locke is part of HackerNoon’s Book Blog Post series.  
+
+
+### [437. The Sea Lady by H. G. Wells - Table of Links](https://hackernoon.com/the-sea-lady-by-h-g-wells-table-of-links)
+![](https://cdn.hackernoon.com/images/t4EWQ6W18hPhx6xE6pfPwMH58EL2-rt93l8l.jpeg)
+The Sea Lady by H. G. Wells, is part of the HackerNoon Books Series. Read this book online for free on HackerNoon!
+
+### [438. The Idea of a University Defined and Illustrated: Discourse III -Bearing Of Theology On Other Branch](https://hackernoon.com/the-idea-of-a-university-defined-and-illustrated-discourse-iii-bearing-of-theology-on-other-branch)
+![](https://cdn.hackernoon.com/images/ejUZNC47pjbsT8faAmTgQxau7w22-qy93jz6.jpeg)
+It does not follow that they deny the existence of a God, because they are not found talking of it, when the topic would be utterly irrelevant.
+
+### [439. The Lord of The Dynamos](https://hackernoon.com/the-lord-of-the-dynamos)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-tn93txd.jpeg)
+“Was the Lord Dynamo still hungry? His servant was ready.”
+
+### [440. Moby-Dick; or The Whale: Chapter 6 -  The Street](https://hackernoon.com/moby-dick-or-the-whale-chapter-6-the-street)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-2j93jd0.jpeg)
+Moby-Dick; or The Whale, Chapter 6: The Street by Herman Melville is part of HackerNoon’s Book Blog Post series.  
+
+### [441. The Count of Monte Cristo, Illustrated: Chapter 38 - The Rendezvous](https://hackernoon.com/the-count-of-monte-cristo-illustrated-chapter-38-the-rendezvous)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-nl93nsy.jpeg)
+The Count of Monte Cristo, Volume Two, Chapter 38: The Rendezvous by Alexandre Dumas, père is part of HackerNoon’s Book Blog Post series. 
+
+### [442. The Hound of the Baskervilles: Chapter 7 - The Stapletons of Merripit House](https://hackernoon.com/the-hound-of-the-baskervilles-chapter-7-the-stapletons-of-merripit-house)
+![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-9e93ujk.jpeg)
+The Hound of the Baskervilles, by Arthur Conan Doyle is part of HackerNoon’s Book Blog Post series.
+
+### [443. The Palmer Method of Business Writing: Lesson 65](https://hackernoon.com/the-palmer-method-of-business-writing-lesson-65)
+![](https://cdn.hackernoon.com/images/jvjajoMzXGenl6tjMR4f2EWBuIr1-va93kta.jpeg)
+The motion produces the figure; learn this motion thoroughly.
+
+### [444. The Food of the Gods and how it came to Earth by H. G. Wells - Table of Links](https://hackernoon.com/the-food-of-the-gods-and-how-it-came-to-earth-by-h-g-wells-table-of-links)
+![](https://cdn.hackernoon.com/images/t4EWQ6W18hPhx6xE6pfPwMH58EL2-vo93lui.jpeg)
+The Food of the Gods and how it came to Earth by H. G. Wells, is part of the HackerNoon Books Series. Read this book online for free on HackerNoon!
+
+### [445. The Palmer Method of Business Writing: Lesson 82](https://hackernoon.com/the-palmer-method-of-business-writing-lesson-82)
+![](https://cdn.hackernoon.com/images/jvjajoMzXGenl6tjMR4f2EWBuIr1-vt93kdn.jpeg)
+ost pupils find this style of starting capital letters somewhat difficult at first, but when mastered it becomes a favorite.
+
+### [446. Random Reminiscences of Men and Events by John D. Rockefeller - Table of Links](https://hackernoon.com/random-reminiscences-of-men-and-events-by-john-d-rockefeller-table-of-links)
+![](https://cdn.hackernoon.com/images/t4EWQ6W18hPhx6xE6pfPwMH58EL2-cw93j4u.jpeg)
+Random Reminiscences of Men and Events, by John D. Rockefeller is part of the HackerNoon Books Series. Read this book online for free on HackerNoon!
+
+### [447. EPILOGUE](https://hackernoon.com/the-war-of-the-worlds-chapter-x-the-epilogue)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-gm93kmj.jpeg)
+In one respect I shall certainly provoke criticism.
+
+### [448. The Count of Monte Cristo, Illustrated: Chapter 35 - La Mazzolata](https://hackernoon.com/the-count-of-monte-cristo-illustrated-chapter-35-la-mazzolata)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-7j93nq6.jpeg)
+The Count of Monte Cristo, Volume Two, Chapter 35: La Mazzolata. by Alexandre Dumas, père is part of HackerNoon’s Book Blog Post series. 
+
+### [449. The Essays of Adam Smith: ADAM SMITH ON THE EXTERNAL SENSES - Of the Sense of SMELLING.](https://hackernoon.com/the-essays-of-adam-smith-adam-smith-on-the-external-senses-of-the-sense-of-smelling)
+![](https://cdn.hackernoon.com/images/fisV3ygrKHQzoANO3juQvFMtA3r2-gtd3jm4.jpeg)
+EVERY smell or odour is naturally felt as in the nostrils;
+
+### [450. OMISSIONS](https://hackernoon.com/omissions)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-ds93lck.jpeg)
+At last he fell a-yawning so much that very reluctantly indeed he set about finishing this great and splendid day. 
+
+### [451. The Great Gatsby: Chapter 5](https://hackernoon.com/the-great-gatsby-chapter-5)
+![](https://cdn.hackernoon.com/images/1RRJkP1I2GZF1QhFVEA8zKyY1iz2-vb13gwy.jpeg)
+The Great Gatsby, Chapter 5 by F. Scott Fitzgerald is part of HackerNoon’s Book Blog Post series. 
+
+### [452. The Story of Nuclear Energy, Volume 3 (of 3): The Discovery of Fission](https://hackernoon.com/the-story-of-nuclear-energy-volume-3-of-3-the-discovery-of-fission)
+![](https://cdn.hackernoon.com/images/P9UdA5H40seCaH3OOmFtrY8785H3-vcb3q2f.jpeg)
+Worlds Within Worlds: The Story of Nuclear Energy, Volume 3 (of 3), by Isaac Asimov is part of HackerNoon’s Book Blog Post series. You can jump to any chapter in this book here. Volume III, NUCLEAR FISSION: The Discovery of Fission
+
+### [453. Pride and Prejudice: Chapter 5](https://hackernoon.com/pride-and-prejudice-chapter-5)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-ld93jf4.jpeg)
+Pride and Prejudice, by Jane Austen, is part of HackerNoon’s Book Blog Post series. 
+
+### [454. 1811 Dictionary in the Vulgar Tongue: Section N](https://hackernoon.com/1811-dictionary-in-the-vulgar-tongue-section-n)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-4293nmu.jpeg)
+1811 Dictionary in the Vulgar Tongue, by Francis Grose is part of HackerNoon’s Book Blog Post series. 
+
+
+### [455. The Count of Monte Cristo, Illustrated: Chapter 37 - The Catacombs of Saint Sebastian](https://hackernoon.com/the-count-of-monte-cristo-illustrated-chapter-37-the-catacombs-of-saint-sebastian)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-5c93n49.jpeg)
+The Count of Monte Cristo, Volume Two, Chapter 37: The Catacombs of Saint Sebastian by Alexandre Dumas, père is part of HackerNoon’s Book Blog Post series. 
+
+### [456. Adventures of Huckleberry Finn: Chapter XXIII](https://hackernoon.com/adventures-of-huckleberry-finn-chapter-xxiii)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-j893m51.jpeg)
+Adventures of Huckleberry Finn, by Mark Twain (Samuel Clemens) is part of HackerNoon’s Book Blog Post series. 
+
+### [457. The Ideal Citizen](https://hackernoon.com/the-ideal-citizen)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-a5b3leo.jpeg)
+An Englishman looks at the world by H. G. Wells, is part of the HackerNoon Books Series. 
+
+### [458. Language: An Introduction to the Study of Speech: Chapter 2 - The Elements of Speech](https://hackernoon.com/language-an-introduction-to-the-study-of-speech-chapter-2-the-elements-of-speech)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-1x93nmw.jpeg)
+Language: An Introduction to the Study of Speech, by Edward Sapir, is part of HackerNoon’s Book Blog Post series. 
+
+### [459. THE AWAKENING OF MR. HOOPDRIVER](https://hackernoon.com/the-awakening-of-mr-hoopdriver)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-hoc3l77.jpeg)
+“Beastly cheap, after all, this suit does look, in the sunshine.”
+
+### [460. An Essay Concerning Humane Understanding, Volume I: Book II, Chapter XXIV.](https://hackernoon.com/an-essay-concerning-humane-understanding-volume-i-book-ii-chapter-xxiv)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-2p93nba.jpeg)
+An Essay Concerning Humane Understanding, Volume I: Book II, Chapter XXIV, by John Locke is part of HackerNoon’s Book Blog Post series. 
+
+### [461. THE PRINCIPLES WHICH LEAD AND DIRECT PHILOSOPHICAL ENQUIRIES, AS ILLUSTRATED BY THE HISTORY OF ASTRO](https://hackernoon.com/the-principles-which-lead-and-direct-philosophical-enquiries-as-illustrated-by-the-history-of-astro)
+![](https://cdn.hackernoon.com/images/fisV3ygrKHQzoANO3juQvFMtA3r2-m593jsa.jpeg)
+The fool of nature stood with stupid eyes,
+And gaping mouth, that testified surprise.
+
+### [462. The Palmer Method of Business Writing: Lesson 5](https://hackernoon.com/the-palmer-method-of-business-writing-lesson-5)
+![](https://cdn.hackernoon.com/images/jvjajoMzXGenl6tjMR4f2EWBuIr1-8a93jex.jpeg)
+Slant needs no special study, but will take care of itself if the instructions have been studied and heeded.
+
+### [463. David Copperfield: Chapter 11 - I Begin Life On My Own Account, And Don't Like It](https://hackernoon.com/david-copperfield-chapter-11-i-begin-life-on-my-own-account-and-dont-like-it)
+![](https://cdn.hackernoon.com/images/u95KCwq4YOewwTvOFZTE2c39Icz1-4s93i0u.jpeg)
+I know enough of the world now, to have almost lost the capacity of being much surprised by anything
+
+### [464. Background Radiation and Spontaneous Mutations ](https://hackernoon.com/background-radiation)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-o693mmm.jpeg)
+Ionizing radiation in low intensities is part of our natural environment. Such natural radiation is referred to as background radiation.
+
+
+### [465. The Science of Getting: Chapter 2](https://hackernoon.com/the-science-of-getting-chapter-2)
+![](https://cdn.hackernoon.com/images/MWOFxJyDOLb9SogBhG2AsIszVL22-bk93vqn.jpeg)
+The Science of Getting Rich by Wallace D. Wattles is part of HackerNoon’s Book Blog Post series.
+
+### [466. The Idea of a University Defined and Illustrated by John Henry Newman - Table of Links](https://hackernoon.com/the-idea-of-a-university-defined-and-illustrated-by-john-henry-newman-table-of-links)
+![](https://cdn.hackernoon.com/images/t4EWQ6W18hPhx6xE6pfPwMH58EL2-ia93jrf.jpeg)
+The Idea of a University, by John Henry Newman is part of HackerNoon’s Book series. Read this book online for free on HackerNoon!
+
+### [467. The Ray of Madness](https://hackernoon.com/the-ray-of-madness)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-tg93sgc.jpeg)
+Dr. Bird discovers a dastardly plot, amazing in its mechanical ingenuity, behind the apparently trivial eye trouble of the President.
+
+### [468. The Palmer Method of Business Writing: Lesson 51](https://hackernoon.com/the-palmer-method-of-business-writing-lesson-51)
+![](https://cdn.hackernoon.com/images/jvjajoMzXGenl6tjMR4f2EWBuIr1-va93kge.jpeg)
+YOU CANNOT FAIL, IF YOU STUDY THE INSTRUCTIONS AND FOLLOW THEM
+
+### [469. 'It is Some Horrible Inhabitant of Space, Something Unknown to us on Earth'](https://hackernoon.com/it-is-some-horrible-inhabitant-of-space-something-unknown-to-us-on-earth)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-8vg3ty5.jpeg)
+They were moving sluggishly along the red light, seeming to flow rather than crawl.
+
+### [470. The Essays of Adam Smith: Part VI: CONCLUSION OF THE SIXTH PART](https://hackernoon.com/the-essays-of-adam-smith-part-vi-conclusion-of-the-sixth-part)
+![](https://cdn.hackernoon.com/images/fisV3ygrKHQzoANO3juQvFMtA3r2-o193j6e.jpeg)
+The effects are too often but too little regarded.
+
+
+### [471. David Copperfield: Chapter 28 - Mr. Micawber's Gauntlet](https://hackernoon.com/david-copperfield-chapter-28-mr-micawbers-gauntlet)
+![](https://cdn.hackernoon.com/images/u95KCwq4YOewwTvOFZTE2c39Icz1-snb3jlo.jpeg)
+Until the day arrived on which I was to entertain my newly-found old friends, I lived principally on Dora and coffee.
+
+### [472. Section 12 - Stimulus, Sensorial Exertion, and Fibrous Contraction](https://hackernoon.com/section-12-stimulus-sensorial-exertion-and-fibrous-contraction)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-c893ot8.jpeg)
+ If two particles of iron lie near each other without motion, and afterwards approach each other, it is reasonable to suggest 
+
+### [473. Dangers to Avoid for the Sincere Aspirant Towards Life](https://hackernoon.com/dangers-to-avoid-for-the-sincere-aspirant-towards-life)
+![](https://cdn.hackernoon.com/images/ZtuZGtc0DdTsudmzUvyyyxl9l4L2-9c93orl.jpeg)
+How to Live on 24 Hours a Day, by Arnold Bennett is part of HackerNoon’s Book Blog Post series. Chapter XII: Dangers to Avoid
+
+### [474. Understanding Judgement ](https://hackernoon.com/understanding-judgement)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-zz93ocm.jpeg)
+An Essay Concerning Humane Understanding, Volume II: Book IV, Chapter XIV: OF JUDGMENT I, by John Locke is part of HackerNoon’s Book Blog Post series.
+
+
+### [475. Text Book of Biology, Part 1: Vertebrata by H. G. Wells - Table of Links](https://hackernoon.com/text-book-of-biology-part-1-vertebrata-by-h-g-wells-table-of-links)
+![](https://cdn.hackernoon.com/images/t4EWQ6W18hPhx6xE6pfPwMH58EL2-q493l2k.jpeg)
+Text Book of Biology, Part 1: Vertebrata by H. G. Wells, is part of the HackerNoon Books Series. Read this book online for free on HackerNoon!
+
+### [476. Moby-Dick; or The Whale: Chapter 15 - Chowder ](https://hackernoon.com/moby-dick-or-the-whale-chapter-15-chowder)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-ae93ja8.jpeg)
+Moby-Dick; or The Whale, Chapter 15: Chowder by Herman Melville is part of HackerNoon’s Book Blog Post series. 
+
+### [477. The Evolution of Modern Medicine: Chapter V - INTERNAL SECRETIONS](https://hackernoon.com/the-evolution-of-modern-medicine-chapter-v-internal-secretions)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-4593nxx.jpeg)
+The Evolution of Modern Medicine, by William Osler is part of HackerNoon’s Book Blog Post series. 
+
+### [478. The Essays of Adam Smith: Part VII, Section IV](https://hackernoon.com/the-essays-of-adam-smith-part-vii-section-iv)
+![](https://cdn.hackernoon.com/images/fisV3ygrKHQzoANO3juQvFMtA3r2-0i93j03.jpeg)
+To describe, in a general manner, what is the ordinary way of acting to which each virtue would prompt us, is still more easy. 
+
+### [479. Love and Mr. Lewisham by H. G. Wells - Table of Links](https://hackernoon.com/love-and-mr-lewisham-by-h-g-wells-table-of-links)
+![](https://cdn.hackernoon.com/images/t4EWQ6W18hPhx6xE6pfPwMH58EL2-np93lw3.jpeg)
+Love and Mr. Lewisham by H. G. Wells, is part of the HackerNoon Books Series. Read this book online for free on HackerNoon!
+
+### [480. The Jungle: Chapter XX](https://hackernoon.com/the-jungle-chapter-xx)
+![](https://cdn.hackernoon.com/images/H8IE003WryYGI5JHjZEKuN7X4zx2-h893jrh.jpeg)
+Thirty thousand of these pieces he handled every day, nine or ten million every year—how many in a lifetime it rested with the gods to say. 
+
+### [481. The Great Gatsby: Chapter 4](https://hackernoon.com/the-great-gatsby-chapter-4)
+![](https://cdn.hackernoon.com/images/1RRJkP1I2GZF1QhFVEA8zKyY1iz2-4d03gzx.jpeg)
+The Great Gatsby, Chapter 4 by F. Scott Fitzgerald is part of HackerNoon’s Book Blog Post series. 
+
+### [482. The Art of Money Getting or, Golden Rules for Making Money - Chapter 14](https://hackernoon.com/the-art-of-money-getting-or-golden-rules-for-making-money-chapter-14)
+![](https://cdn.hackernoon.com/images/aGrflO9Bw0UZmT8rtnoIyIQJAgj1-va93vv7.jpeg)
+The Art of Money Getting or, Golden Rules for Making Money by P. T. Barnum is part of HackerNoon’s Book Blog Post series.
+
+### [483. THE FIRST CIVILIZATIONS](https://hackernoon.com/the-first-civilizations)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-any3liw.jpeg)
+The settled folk had the weight of numbers on their side; the herdsmen might raid and loot, but they could not stay.
+
+### [484. Doctors](https://hackernoon.com/doctors)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-ldf3li4.jpeg)
+An Englishman looks at the world by H. G. Wells, is part of the HackerNoon Books Series. 
+
+
+### [485. The Murder Machine](https://hackernoon.com/the-murder-machine)
+![](https://cdn.hackernoon.com/images/mind-control-machine-claw50fzt000201s6bf6t9ip5.png)
+"When I am finished, Dale, I shall probably kill you."
+
+### [486. David Copperfield: Chapter 14 - My Aunt Makes Up Her Mind About Me](https://hackernoon.com/david-copperfield-chapter-14-my-aunt-makes-up-her-mind-about-me)
+![](https://cdn.hackernoon.com/images/u95KCwq4YOewwTvOFZTE2c39Icz1-zgb3ivn.jpeg)
+My spirits sank under these words, and I became very downcast and heavy of heart. 
+
+### [487. One Thousand Ways to Make Money, November 2017 by Page Fox: Preface](https://hackernoon.com/one-thousand-ways-to-make-money-november-2017-by-page-fox-preface)
+![](https://cdn.hackernoon.com/images/Dh779CmdTWcT0wfGv6t0L3Zkjkj1-eg93t1c.jpeg)
+One Thousand Ways to Make Money, November 2017 by Page Fox is part of HackerNoon’s Book Blog Post series.
+
+### [488. On-Line Data-Acquisition Systems in Nuclear Physics, 1969: Chapter 3- BREAKDOWN OF DATA FOR ANALYSIS](https://hackernoon.com/on-line-data-acquisition-systems-in-nuclear-physics-1969-chapter-3-breakdown-of-data-for-analysis)
+![](https://cdn.hackernoon.com/images/8LdafXdNDSdu5gzZmple4rnDqI23-tk93jto.jpeg)
+The very wide range of types of data-acquisition equipment in use necessarily contributes to the spread in DAS costs.
+
+### [489. An Inquiry into the Nature and Causes of the Wealth of Nations: Book IV, Chapter II](https://hackernoon.com/an-inquiry-into-the-nature-and-causes-of-the-wealth-of-nations-book-iv-chapter-ii)
+![](https://cdn.hackernoon.com/images/4O9wiIuRTiRbwA1feRRcV0OGCb92-jha3ito.jpeg)
+The general industry of the society can never exceed what the capital of the society can employ.
+
+### [490. Essays on some unsettled questions of Political Economy: Essay I](https://hackernoon.com/essays-on-some-unsettled-questions-of-political-economy-essay-i)
+![](https://cdn.hackernoon.com/images/pYMXIE2Hn6b0LwXTJpJeVhZ9N8u1-e593jmr.jpeg)
+The bargain is still advantageous to the foreigner, because the commodity which he receives in exchange, though it has cost us less, would have cost him more.
+
+### [491. Astounding Stories of Super-Science, April 1930 - Table of Links](https://hackernoon.com/astounding-stories-of-super-science-april-1930-table-of-links)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-vq93la6.png)
+Astounding Stories of Super-Science, April1930, by Astounding Stories is part of HackerNoon’s Book Blog Post series. 
+
+### [492. The Great Gatsby: Chapter 1 ](https://hackernoon.com/the-great-gatsby-chapter-1)
+![](https://cdn.hackernoon.com/images/1RRJkP1I2GZF1QhFVEA8zKyY1iz2-9w13g3w.jpeg)
+The Great Gatsby, Chapter 1 by F. Scott Fitzgerald is part of HackerNoon’s Book Blog Post series. 
+
+### [493. The Palmer Method of Business Writing: Lesson 64](https://hackernoon.com/the-palmer-method-of-business-writing-lesson-64)
+![](https://cdn.hackernoon.com/images/jvjajoMzXGenl6tjMR4f2EWBuIr1-xt93kv8.jpeg)
+As soon as fair progress has been made in making figure two, an effort should be made to bring the rate of speed to seventy-five a minute. 
+
+### [494. Mr. Britling Sees It Through by H. G. Wells - Table of Links](https://hackernoon.com/mr-britling-sees-it-through-by-h-g-wells-table-of-links)
+![](https://cdn.hackernoon.com/images/t4EWQ6W18hPhx6xE6pfPwMH58EL2-7y93lic.jpeg)
+Mr. Britling Sees It Through by H. G. Wells, is part of the HackerNoon Books Series. Read this book online for free on HackerNoon!
+
+### [495. THE GREEKS](https://hackernoon.com/the-greeks)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-6ik3l67.jpeg)
+The Greek tribes as we have told were a branch of the Aryan- speaking stem.
+
+### [496. IN THE GALLERY OF OLD IRON](https://hackernoon.com/in-the-gallery-of-old-iron)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-qqh3lh3.jpeg)
+So it was Lewisham enrolled his first ally in the cause of the red tie—of the red tie and of the Greatness that was presently to come.
+
+### [497. Astounding Stories of Super-Science August 1931: VOL. VII, NO. 2 - If The Sun Died](https://hackernoon.com/astounding-stories-of-super-science-august-1931-vol-vii-no-2-if-the-sun-died)
+![](https://cdn.hackernoon.com/images/eYmBPfrqu8d2TdijQi8nkPK2yGl2-akc3jaa.jpeg)
+
+
+### [498. An Inquiry into the Nature and Causes of the Wealth of Nations: Book IV, Chapter III](https://hackernoon.com/an-inquiry-into-the-nature-and-causes-of-the-wealth-of-nations-book-iv-chapter-iii)
+![](https://cdn.hackernoon.com/images/4O9wiIuRTiRbwA1feRRcV0OGCb92-isb3itd.jpeg)
+Of the Unreasonableness of those Restraints, even upon the Principles of the Commercial System.
+
+### [499. Tales of Space and Time by H. G. Wells - Table of Links](https://hackernoon.com/tales-of-space-and-time-by-h-g-wells-table-of-links)
+![](https://cdn.hackernoon.com/images/t4EWQ6W18hPhx6xE6pfPwMH58EL2-lu93knp.jpeg)
+Tales of Space and Time by H. G. Wells, is part of the HackerNoon Books Series. Read this book online for free on HackerNoon!
+
+### [500. The Palmer Method of Business Writing: Lesson 57](https://hackernoon.com/the-palmer-method-of-business-writing-lesson-57)
+![](https://cdn.hackernoon.com/images/jvjajoMzXGenl6tjMR4f2EWBuIr1-0z93kh9.jpeg)
+Nothing can be better at this stage of the work than easy words constantly repeated.
+
+### [501. The World Behind the Moon](https://hackernoon.com/the-world-behind-the-moon)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-gu93s7a.jpeg)
+Like pitiless jaws, a distant crater opened for their ship.
+
+### [502. The Normal Social Life](https://hackernoon.com/the-normal-social-life)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-al93pvm.jpeg)
+An Englishman looks at the world by H. G. Wells, is part of the HackerNoon Books Series. 
+
+### [503. He Began to Twist and Turn, as Though Torn by Some Invisible Force](https://hackernoon.com/he-began-to-twist-and-turn-as-though-torn-by-some-invisible-force)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-0of3t9j.jpeg)
+From twenty miles away stabbed the "atom-filtering" rays to Allen Baker in his cell in the death house.
+
+### [504. The Motion of the Planet Neptune Had Become Very Erratic](https://hackernoon.com/the-motion-of-the-planet-neptune-had-become-very-erratic)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-tc93rfl.jpeg)
+Ogilvy had already called attention to a suspected retardation in its velocity in December.
+
+### [505. The Palmer Method of Business Writing: Lesson 89](https://hackernoon.com/the-palmer-method-of-business-writing-lesson-89)
+![](https://cdn.hackernoon.com/images/jvjajoMzXGenl6tjMR4f2EWBuIr1-a793kxr.jpeg)
+Make it between two ruled lines, carry the pen lightly and see how many you can make in one row, with one dip of ink.
+
+### [506. The Palmer Method of Business Writing: Lesson 98](https://hackernoon.com/the-palmer-method-of-business-writing-lesson-98)
+![](https://cdn.hackernoon.com/images/jvjajoMzXGenl6tjMR4f2EWBuIr1-5e93kb5.jpeg)
+Pupils should not lose sight of the fact that motion determines form.
+
+### [507. Holocaust](https://hackernoon.com/astounding-stories-of-super-science-june-1931-vol-vi-no-3-holocaust)
+![](https://cdn.hackernoon.com/images/eYmBPfrqu8d2TdijQi8nkPK2yGl2-my93j6m.jpeg)
+It passed beneath the planes, that were motionless by contrast.
+
+### [508. David Copperfield: Chapter 38 - A Dissolution Of Partnership](https://hackernoon.com/david-copperfield-chapter-38-a-dissolution-of-partnership)
+![](https://cdn.hackernoon.com/images/u95KCwq4YOewwTvOFZTE2c39Icz1-n493jii.jpeg)
+I forgot them; while I was picking them up, I dropped the other fragments of the system; in short, it was almost heart-breaking.
+
+### [509. THE WEAR AND TEAR OF EPISCOPACY](https://hackernoon.com/the-wear-and-tear-of-episcopacy)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-szc3lp3.jpeg)
+He came to Princhester an innocent and trustful man.
+
+### [510. The Beautiful and Damned by F. Scott Fitzgerald -  Table of Links ](https://hackernoon.com/the-beautiful-and-damned-by-f-scott-fitzgerald-table-of-links)
+![](https://cdn.hackernoon.com/images/t4EWQ6W18hPhx6xE6pfPwMH58EL2-v0a3jyk.jpeg)
+The Beautiful and Damned, by F. Scott Fitzgerald is part of HackerNoon’s Book series. Read this book for free on HackerNoon!
+
+### [511. Read The Corpse on the Grating Online for Free](https://hackernoon.com/the-corpse-on-the-grating)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-2m93o99.jpeg)
+Read The Corpse on the Grating short story for free.
+
+### [512. The Art of Money Getting or, Golden Rules for Making Money - Chapter 10](https://hackernoon.com/the-art-of-money-getting-or-golden-rules-for-making-money-chapter-10)
+![](https://cdn.hackernoon.com/images/aGrflO9Bw0UZmT8rtnoIyIQJAgj1-ct93v9e.jpeg)
+The Art of Money Getting or, Golden Rules for Making Money by P.T Barnum
+
+### [513. David Copperfield: Chapter 2 - I Observe](https://hackernoon.com/david-copperfield-chapter-2-i-observe)
+![](https://cdn.hackernoon.com/images/u95KCwq4YOewwTvOFZTE2c39Icz1-kk93idu.jpeg)
+There comes out of the cloud, our house—not new to me, but quite familiar, in its earliest remembrance.
+
+### [514. The Essays of Adam Smith: THE IMITATIVE ARTS - Part II](https://hackernoon.com/the-essays-of-adam-smith-the-imitative-arts-part-ii)
+![](https://cdn.hackernoon.com/images/fisV3ygrKHQzoANO3juQvFMtA3r2-3xg3jqh.jpeg)
+
+AFTER the pleasures which arise from the gratification of the bodily appetites, there seem to be none more natural to man than Music and Dancing.
+
+### [515. The History of Mr. Polly by H. G. Wells - Table of Links](https://hackernoon.com/the-history-of-mr-polly-by-h-g-wells-table-of-links)
+![](https://cdn.hackernoon.com/images/t4EWQ6W18hPhx6xE6pfPwMH58EL2-fe93lj6.jpeg)
+The History of Mr. Polly by H. G. Wells, is part of the HackerNoon Books Series. Read this book online for free on HackerNoon!
+
+### [516. Second Variety by Philip Kindred Dick - Table of Links ](https://hackernoon.com/second-variety-by-philip-kindred-dick-table-of-links)
+![](https://cdn.hackernoon.com/images/t4EWQ6W18hPhx6xE6pfPwMH58EL2-oxa3jh1.jpeg)
+Second Variety, by Philip Kindred Dick is part of HackerNoon's Book series. Read this book online for free on HackerNoon!
+
+### [517. The Intensity of Psychic States](https://hackernoon.com/the-intensity-of-psychic-states)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-fd93o2y.jpeg)
+States of consciousness, sensations, feelings, passions, efforts, are capable of growth and diminution. This can cause the intensity to vary greatly. 
+
+### [518. The Idea of a University Defined and Illustrated: Lecture IV - Elementary Studies](https://hackernoon.com/the-idea-of-a-university-defined-and-illustrated-lecture-iv-elementary-studies)
+![](https://cdn.hackernoon.com/images/ejUZNC47pjbsT8faAmTgQxau7w22-8oa3j2e.jpeg)
+Again, compare one idea with another; adjust truths and facts; form them into one whole, or notice the obstacles which occur in doing so.
+
+### [519. The Essays of Adam Smith: Part VII, Section II](https://hackernoon.com/the-essays-of-adam-smith-part-vii-section-ii)
+![](https://cdn.hackernoon.com/images/fisV3ygrKHQzoANO3juQvFMtA3r2-wlb3jf4.jpeg)
+The great division of our affections is into the selfish and the benevolent.
+
+### [520. An Essay Concerning Humane Understanding, Volume I: Book II, Chapter XXVII.](https://hackernoon.com/an-essay-concerning-humane-understanding-volume-i-book-ii-chapter-xxvii)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-tz93nmj.jpeg)
+An Essay Concerning Humane Understanding, Volume I: Book II, Chapter XXVII, by John Locke is part of HackerNoon’s Book Blog Post series.
+
+
+### [521. Orris Led the Way to a Great Underground City](https://hackernoon.com/orris-led-the-way-to-a-great-underground-city)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-iya3t30.jpeg)
+It was now two years since Edwin Leland bought the estate for a song and took up his residence in the gloomy old house. 
+
+### [522. For the Story Teller: Story Telling and Stories to Tell: Preface](https://hackernoon.com/for-the-story-teller-story-telling-and-stories-to-tell-preface)
+![](https://cdn.hackernoon.com/images/UUZZjfJqIWXx3OTAxCc5FR9kPtw2-7ca3jc4.jpeg)
+Story telling to be a developing factor in a child’s life must be studied by the story teller.
+
+
+### [523. How to Select Hardware - Types of Hardware](https://hackernoon.com/computers-on-the-farm-how-to-select-hardware-types-of-hardware)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-8993n43.jpeg)
+The modem turns the computer from an information processor and storage machine into a piece of communications equipment.
+
+### [524. BACTERIA AND DISEASE](https://hackernoon.com/bacteria-chapter-viii-bacteria-and-disease)
+![](https://cdn.hackernoon.com/images/6DCcCABaKoUxm1mFlUV6h4Nl4Tf1-js93j84.jpeg)
+In the middle of the seventeenth century men learned, through the eyes of Leeuwenhoek, that drops of water contained "moving animalcules."
+
+### [525. Astounding Stories of Super-Science July 1931: The Exile of Time - Chapter XXIV](https://hackernoon.com/astounding-stories-of-super-science-july-1931-the-exile-of-time-chapter-xxiv)
+![](https://cdn.hackernoon.com/images/eYmBPfrqu8d2TdijQi8nkPK2yGl2-u2r3jo7.jpeg)
+Mary and I turned away into the New York City of 1935, to begin our life together.
+
+
+### [526. Invisible Death](https://hackernoon.com/invisible-death)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-ch93rco.jpeg)
+The inquest into the mysterious death of Darius Darrow, savant, inventor, recluse and eccentric, resembled a scientific convention.
+
+### [527. The Stolen Mind](https://hackernoon.com/the-stolen-mind)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-gi93r18.jpeg)
+The structure, pivoting downward, plunged Quest to his waist in the osmotic solution.
+
+### [528. The New Phase](https://hackernoon.com/the-new-phase)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-1me3kbh.jpeg)
+The World Set Free, by H. G. Wells, is part of the HackerNoon Books Series. 
+
+### [529. HESITATIONS](https://hackernoon.com/hesitations)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-9rc3l0n.jpeg)
+“Confound him!” said Mr. Lewisham, arguing the matter out with the bedroom furniture. “Why the devil can’t he mind his own business?”
+
+### [530. An Inquiry into the Nature and Causes of the Wealth of Nations: Book V, Chapter I - Part IV](https://hackernoon.com/an-inquiry-into-the-nature-and-causes-of-the-wealth-of-nations-book-v-chapter-i-part-iv)
+![](https://cdn.hackernoon.com/images/4O9wiIuRTiRbwA1feRRcV0OGCb92-drn3izh.jpeg)
+Over and above the expenses necessary for enabling the sovereign to perform his several duties, a certain expense is requisite for the support of his dignity.
+
+### [531. Socialism and The Family](https://hackernoon.com/socialism-and-the-family)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-j7d3l85.jpeg)
+The Socialist movement is an item in an altogether different scale.
+
+### [532. Food and Flavor: A Gastronomic Guide to Health and Good Living - Preface](https://hackernoon.com/food-and-flavor-a-gastronomic-guide-to-health-and-good-living-preface)
+![](https://cdn.hackernoon.com/images/b95vEI2NaBczE5DOQutUUWf1Dgj2-lda3jbt.jpeg)
+Everybody eats, and everybody wants to enjoy his meals; yet few know how to get the most benefit and pleasure out of them. 
+
+### [533. Astounding Stories of Super-Science, June 1930: Vol. II, No. 3 - Murder Madness](https://hackernoon.com/astounding-stories-of-super-science-june-1930-vol-ii-no-3-murder-madness)
+![](https://cdn.hackernoon.com/images/eYmBPfrqu8d2TdijQi8nkPK2yGl2-mdc3p4z.jpeg)
+Astounding Stories of Super-Science, June 1930, by Astounding Stories is part of HackerNoon’s Book Blog Post series. You can jump to any chapter in this book here: [LINK TO TABLE OF LINK]. Vol. II, No. 3: Murder Madness
+
+
+### [534. When the Mountain Came to Miramar](https://hackernoon.com/when-the-mountain-came-to-miramar)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-wf93pem.jpeg)
+The first tremor that set the timbers of the house to creaking brought Garry Connell out of his bunk and into the middle of the floor. 
+
+### [535. An Essay Concerning Humane Understanding, Volume I: Book II, Chapter XXX.](https://hackernoon.com/an-essay-concerning-humane-understanding-volume-i-book-ii-chapter-xxx)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-5293ng4.jpeg)
+An Essay Concerning Humane Understanding,.Volume I: Book II, Chapter XXX, by John Locke is part of HackerNoon’s Book Blog Post series
+
+
+### [536. Astounding Stories of Super-Science May 1931: Dark Moon - Chapter VIII](https://hackernoon.com/astounding-stories-of-super-science-may-1931-dark-moon-chapter-viii)
+![](https://cdn.hackernoon.com/images/eYmBPfrqu8d2TdijQi8nkPK2yGl2-6uf3jlr.jpeg)
+Flint knives came into play, then sharpened stakes that were thrust through the bleeding meat. 
+
+### [537. INTRODUCTION](https://hackernoon.com/introduction)
+![](https://cdn.hackernoon.com/images/Je6b3Wd7giUtSwVdI1ep4Ak1rXp1-v61i3kt1.jpeg)
+Love is of something, and that which love desires is not that which love is or has; for no man desires that which he is or has.
+
+### [538. On-Line Data-Acquisition Systems in Nuclear Physics, 1969: Preface](https://hackernoon.com/on-line-data-acquisition-systems-in-nuclear-physics-1969-preface)
+![](https://cdn.hackernoon.com/images/8LdafXdNDSdu5gzZmple4rnDqI23-qs93jke.jpeg)
+The first digital electronic device employed to collect nuclear data was the binary electronic counter (scaler) of the 1930's.
+
+### [539. Marriage by H. G. Wells - Table of Links](https://hackernoon.com/marriage-by-h-g-wells-table-of-links)
+![](https://cdn.hackernoon.com/images/t4EWQ6W18hPhx6xE6pfPwMH58EL2-ms93l9c.jpeg)
+Marriage by H. G. Wells, is part of the HackerNoon Books Series. Read this book online for free on HackerNoon!
+
+### [540. The Cave of Horror](https://hackernoon.com/the-cave-of-horror)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-ir93pq2.jpeg)
+"Suddenly, for no apparent reason at all, one of the men on guard was jerked into the air feet upwards."
+
+### [541. The Essays of Adam Smith: Part I, SEC. II, Chapter IV - Of the Social Passions.](https://hackernoon.com/the-essays-of-adam-smith-part-i-sec-ii-chapter-iv-of-the-social-passions)
+![](https://cdn.hackernoon.com/images/fisV3ygrKHQzoANO3juQvFMtA3r2-z2c3nid.jpeg)
+The Essays of Adam Smith, by Adam Smith is part of HackerNoon’s Book The sentiment of love is, in itself, agreeable to the person who feels it.
+
+### [542. Pride and Prejudice: Chapter 17](https://hackernoon.com/pride-and-prejudice-chapter-17)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-d693mlk.jpeg)
+Pride and Prejudice, by Jane Austen, is part of HackerNoon’s Book Blog Post series. 
+
+### [543. Tanks: The Deciding Battle of the War of 1932 ](https://hackernoon.com/tanks-the-deciding-battle-of-the-war-of-1932)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-jt93r25.jpeg)
+Row after row of the monsters roared by, going greedily with hungry guns into battle.
+
+### [544. The Palmer Method of Business Writing: Lesson 52 AND 53](https://hackernoon.com/the-palmer-method-of-business-writing-lesson-52-and-53)
+![](https://cdn.hackernoon.com/images/jvjajoMzXGenl6tjMR4f2EWBuIr1-um93klx.jpeg)
+LESSONS 52 AND 53
+
+
+### [545. Astounding Stories of Super-Science, January 1930 - Table of Links](https://hackernoon.com/astounding-stories-of-super-science-january-1930-table-of-links)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-9na3pvc.jpeg)
+Astounding Stories of Super-Science, January 1930, by Astounding Stories is part of HackerNoon’s Book Blog Post series. 
+
+### [546. The Palmer Method of Business Writing: Lesson 85](https://hackernoon.com/the-palmer-method-of-business-writing-lesson-85)
+![](https://cdn.hackernoon.com/images/jvjajoMzXGenl6tjMR4f2EWBuIr1-cj93ksk.jpeg)
+Careful study of the last part of K will be very much to the advantage of every student.
+
+### [547. Bacteria: Chapter II - BACTERIA IN WATER](https://hackernoon.com/bacteria-chapter-ii-bacteria-in-water)
+![](https://cdn.hackernoon.com/images/6DCcCABaKoUxm1mFlUV6h4Nl4Tf1-6p93j9c.jpeg)
+The collection of samples, though it appears simple enough, is sometimes a difficult and responsible undertaking.
+
+### [548. David Copperfield: Chapter 5 - I am Sent Away From Home](https://hackernoon.com/david-copperfield-chapter-5-i-am-sent-away-from-home)
+![](https://cdn.hackernoon.com/images/u95KCwq4YOewwTvOFZTE2c39Icz1-fcb3ijm.jpeg)
+We might have gone about half a mile, and my pocket-handkerchief was quite wet through, when the carrier stopped short.
+
+### [549. Astounding Stories of Super-Science August 1931: VOL. VII, NO. 2 - The Readers' Corner](https://hackernoon.com/astounding-stories-of-super-science-august-1931-vol-vii-no-2-the-readers-corner)
+![](https://cdn.hackernoon.com/images/eYmBPfrqu8d2TdijQi8nkPK2yGl2-ktg3j3k.jpeg)
+A Meeting Place for Readers of Astounding Stories
+
+### [550. The Destroyer](https://hackernoon.com/the-destroyer)
+![](https://cdn.hackernoon.com/images/a-dark-pit-in-the-ground-clc7vy50d000301s6bv1b4ntv.png)
+Slowly, insidiously, there stole over Allen Parker something uncanny. He could no longer control his hands—even his brain!
+
+### [551. Stories for Telling: The Little Rabbit Who Wanted Red Wings](https://hackernoon.com/stories-for-telling-the-little-rabbit-who-wanted-red-wings)
+![](https://cdn.hackernoon.com/images/UUZZjfJqIWXx3OTAxCc5FR9kPtw2-ekc3jnt.jpeg)
+Just think, this little White Rabbit wanted to be somebody else instead of the nice little rabbit that he was.
+
+### [552. The Essays of Adam Smith: Part I, SEC. II, Chapter II.](https://hackernoon.com/the-essays-of-adam-smith-part-i-sec-ii-chapter-ii)
+![](https://cdn.hackernoon.com/images/fisV3ygrKHQzoANO3juQvFMtA3r2-ida3not.jpeg)
+EVEN of the passions derived from the imagination, those which take their origin from a peculiar turn or habit it has acquired.
+
+### [553. An Inquiry into the Nature and Causes of the Wealth of Nations: Book II - Chapter III](https://hackernoon.com/an-inquiry-into-the-nature-and-causes-of-the-wealth-of-nations-book-ii-chapter-iii)
+![](https://cdn.hackernoon.com/images/4O9wiIuRTiRbwA1feRRcV0OGCb92-bn93i29.jpeg)
+There is one sort of labour which adds to the value of the subject upon which it is bestowed; there is another which has no such effect. 
+
+### [554. The Palmer Method of Business Writing: Lesson 70](https://hackernoon.com/the-palmer-method-of-business-writing-lesson-70)
+![](https://cdn.hackernoon.com/images/jvjajoMzXGenl6tjMR4f2EWBuIr1-io93klj.jpeg)
+Capital E is made with an application of the oval motion, as developed in capitals O, A and C, the application varying but little.
+
+### [555. Vampires of Venus](https://hackernoon.com/vampires-of-venus)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-wt93tfc.jpeg)
+Leslie Larner, an entomologist borrowed from the Earth, pits himself against the night-flying vampires that are ravaging the inhabitants of Venus.
+
+### [556. R.U.R. (Rossum's Universal Robots): PROPERTY LIST](https://hackernoon.com/rur-rossums-universal-robots-property-list)
+![](https://cdn.hackernoon.com/images/3NDlJQg55YOrqaEBVl3hNJKbpJH2-gvd3j1q.jpeg)
+Throughout: Dark grey carpet ground cloth.
+
+### [557. The Essays of Adam Smith: THE IMITATIVE ARTS - Part III](https://hackernoon.com/the-essays-of-adam-smith-the-imitative-arts-part-iii)
+![](https://cdn.hackernoon.com/images/fisV3ygrKHQzoANO3juQvFMtA3r2-xy93jt6.jpeg)
+The imitative powers of Dancing are much superior to those of instrumental Music, and are at least equal, perhaps superior, to those of any other art.
+
+### [558. The Evolution of Modern Medicine: Chapter III - MEDIAEVAL MEDICAL STUDIES](https://hackernoon.com/the-evolution-of-modern-medicine-chapter-iii-mediaeval-medical-studies)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-n893n36.jpeg)
+The Evolution of Modern Medicine, by William Osler is part of HackerNoon’s Book Blog Post series. 
+
+### [559. A Dream of Armageddon ](https://hackernoon.com/a-dream-of-armageddon)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-ot93uzw.jpeg)
+“Your dreams don’t mix with your memories?” he asked abruptly. “You don’t find yourself in doubt; did this happen or did it not?”
+
+### [560. Astounding Stories of Super-Science May 1931: The Exile of Time - Chapter XII](https://hackernoon.com/astounding-stories-of-super-science-may-1931-the-exile-of-time-chapter-xii)
+![](https://cdn.hackernoon.com/images/eYmBPfrqu8d2TdijQi8nkPK2yGl2-sr93jas.jpeg)
+"There are colors," said the Robot. "And the daylight and darkness of the days. But we are moving through them very rapidly, so they blend into gray."
+
+### [561. An Essay Concerning Humane Understanding, Volume II: Book III, Chapter VI.](https://hackernoon.com/an-essay-concerning-humane-understanding-volume-ii-book-iii-chapter-vi)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-g793n99.jpeg)
+An Essay Concerning Humane Understanding, Volume II: Book III, Chapter VI by John Locke is part of HackerNoon’s Book Blog Post series. 
+
+### [562. From the Ocean’s Depths](https://hackernoon.com/from-the-oceans-depths)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-ip93rkx.jpeg)
+Her head was a little to one side, in the attitude of one who listens intently.
+
+### [563. The Count of Monte Cristo, Illustrated: Chapter 31 - Italy: Sinbad the Sailor](https://hackernoon.com/the-count-of-monte-cristo-illustrated-chapter-31-italy-sinbad-the-sailor)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-1493nv7.jpeg)
+The Count of Monte Cristo,by Alexandre Dumas, père is part of HackerNoon’s Book Blog Post series. Volume Two, Chapter 31: Italy: Sinbad the Sailor
+
+### [564. How to Select Hardware - Checklist for Evaluating Hardware](https://hackernoon.com/computers-on-the-farm-how-to-select-hardware-checklist-for-evaluating-hardware)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-be93ndf.jpeg)
+Some agricultural programs use 48K or 64K of memory. 
+
+### [565. The Evolution of Modern Medicine: Chapter I - CHINESE AND JAPANESE MEDICINE](https://hackernoon.com/the-evolution-of-modern-medicine-chapter-i-chinese-and-japanese-medicine)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-zu93nrf.jpeg)
+The Evolution of Modern Medicine, by William Osler is part of HackerNoon’s Book Blog Post series.
+
+### [566. The Wall of Death](https://hackernoon.com/the-wall-of-death)
+![](https://cdn.hackernoon.com/images/a-monstrous-wall-of-alien-flesh-clc4uywq1000001s65bu72cnp.png)
+And then Kay had broken through and was hewing madly with great sweeps of the ax.
+
+### [567. The Art Of Writing & Speaking The English Language Word-Study: Chapter III ](https://hackernoon.com/the-art-of-writing-and-speaking-the-english-language-word-study-chapter-iii)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-hr93nb6.jpeg)
+By studying such words in pairs, confusion is very likely to be fixed forever in the mind.
+
+### [568. Out of the Dreadful Depths](https://hackernoon.com/out-of-the-dreadful-depths)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-99c3t3h.jpeg)
+Robert Thorpe seeks out the nameless horror that is sucking all human life out of ships in the South Pacific.
+
+### [569. The Country of the Blind](https://hackernoon.com/the-country-of-the-blind)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-yqf3t9t.jpeg)
+He started it again but ill, blindness overtook him, and he died of punishment in the mines; but the story he told begot a legend
+
+### [570. The Undying Fire by H. G. Wells - Table of Links](https://hackernoon.com/the-undying-fire-by-h-g-wells-table-of-links)
+![](https://cdn.hackernoon.com/images/t4EWQ6W18hPhx6xE6pfPwMH58EL2-cb93lle.jpeg)
+The Undying Fire by H. G. Wells, is part of the HackerNoon Books Series. Read this book online for free on HackerNoon!
+
+
+### [571. Our Knowledge of the External World as a Field for Scientific Method in Philosophy - Table of Links](https://hackernoon.com/our-knowledge-of-the-external-world-as-a-field-for-scientific-method-in-philosophy-table-of-links)
+![](https://cdn.hackernoon.com/images/t4EWQ6W18hPhx6xE6pfPwMH58EL2-sf93k8g.jpeg)
+Our Knowledge of the External World as a Field for Scientific Method in Philosophy, by Bertrand Russell, is part of the HackerNoon Books Series. Read this book 
+
+### [572. What a Computer Can Do for You  -  Other Uses](https://hackernoon.com/computers-on-the-farm-what-a-computer-can-do-for-you-other-uses)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-f693nds.jpeg)
+Other Uses
+
+
+### [573. The Dark Side of Antri](https://hackernoon.com/the-dark-side-of-antri)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-du93o60.png)
+“Behold one of those who live in the darkness.”
+
+### [574. Astounding Stories of Super-Science June 1931: Manape the Mighty - Chapter VIII](https://hackernoon.com/astounding-stories-of-super-science-june-1931-manape-the-mighty-chapter-viii)
+![](https://cdn.hackernoon.com/images/eYmBPfrqu8d2TdijQi8nkPK2yGl2-5o93j3u.jpeg)
+He did not fear the battle he knew he must fight. He hurried back because Apeman might realize himself beaten and escape into the jungle. 
+
+### [575. The Palmer Method of Business Writing: Lesson 60](https://hackernoon.com/the-palmer-method-of-business-writing-lesson-60)
+![](https://cdn.hackernoon.com/images/jvjajoMzXGenl6tjMR4f2EWBuIr1-ho93ke3.jpeg)
+Write from ten to twelve words a minute, four to a line, eight inches long. This is a good movement drill if properly practiced.
+
+### [576. The Adventures of Sherlock Holmes: Chapter XII - The Adventure of the Copper Beeches](https://hackernoon.com/the-adventures-of-sherlock-holmes-chapter-xii-the-adventure-of-the-copper-beeches)
+![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-uw93qru.jpeg)
+The Adventures of Sherlock Holmes, by Arthur Conan Doyle is part of HackerNoon’s Book Blog Post series. You can jump to any chapter in this book here: [LINK TO TABLE OF LINK]. Chapter XII: The Adventure of the Copper Beeches
+
+### [577. The Palmer Method of Business Writing: Lesson 103](https://hackernoon.com/the-palmer-method-of-business-writing-lesson-103)
+![](https://cdn.hackernoon.com/images/jvjajoMzXGenl6tjMR4f2EWBuIr1-at93kao.jpeg)
+In all your word practice a special effort should be made to space the letters evenly.
+
+### [578. SOMETHING MORE ABOUT SIZE](https://hackernoon.com/something-more-about-size)
+![](https://cdn.hackernoon.com/images/jvjajoMzXGenl6tjMR4f2EWBuIr1-g893k61.jpeg)
+It is a grave error to present for practice models larger than the pupils are expected to employ in their ordinary writing.
+
+### [579. THE ENCOUNTER AT STONEHENGE](https://hackernoon.com/the-encounter-at-stonehenge)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-wg103lym.jpeg)
+“Talking wanton nonsense.... Any professional archaeologist would laugh, simply laugh....”
+
+### [580. Understanding Essays About Logic](https://hackernoon.com/understanding-essays-about-logic)
+![](https://cdn.hackernoon.com/images/7WgLWfSFCnOqCc80htECj68zhNt1-v293kzi.jpeg)
+The key to understanding the doctrine of the essays which are herewith reprinted lies in the passages regarding the temporal development of experience.
+
+### [581. The Essays of Adam Smith: THE HISTORY OF ASTRONOMY, Section IV](https://hackernoon.com/the-essays-of-adam-smith-the-history-of-astronomy-section-iv)
+![](https://cdn.hackernoon.com/images/fisV3ygrKHQzoANO3juQvFMtA3r2-mlc3j3u.jpeg)
+OF all the phenomena of nature, the celestial appearances are, by their greatness and beauty, the most universal objects of the curiosity of mankind.
+
+### [582. The Ray Shot Down and Squadrons of Planes Frizzled Like Moths in the Air](https://hackernoon.com/the-ray-shot-down-and-squadrons-of-planes-frizzled-like-moths-in-the-air)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-2u93unt.jpeg)
+In the burning solitude of the great Arizona desert, a young scientist was about to perform an experiment that might have far-reaching results for humanity.
+
+### [583. The Attack from Space](https://hackernoon.com/the-attack-from-space)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-i9c3uzi.jpeg)
+We had been captured by a race of gigantic beetles.
+
+### [584. The Intricacies Of Knowledge](https://hackernoon.com/the-intricacies-of-knowledge)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-if93ol1.jpeg)
+An Essay Concerning Humane Understanding, Volume II: Book IV, Chapter XIII, by John Locke is part of HackerNoon’s Book Blog Post series.
+
+### [585. Stories for Telling: Old Man Rabbit’s Thanksgiving Dinner](https://hackernoon.com/stories-for-telling-old-man-rabbits-thanksgiving-dinner)
+![](https://cdn.hackernoon.com/images/UUZZjfJqIWXx3OTAxCc5FR9kPtw2-dt93jh7.jpeg)
+“You look a little unhappy,” said Old Man Rabbit, taking another bite of his turnip.
+
+### [586. The Time Machine: Epilogue](https://hackernoon.com/the-time-machine-by-h-g-wells-epilogue)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-2g93k22.jpeg)
+He may even now—if I may use the phrase—be wandering on some plesiosaurus-haunted Oolitic coral reef, or beside the lonely saline seas of the Triassic Age.
+
+### [587. The Great Gatsby: Chapter 3](https://hackernoon.com/the-great-gatsby-chapter-3)
+![](https://cdn.hackernoon.com/images/xyKefor0QEWyJg1HcXLA5QnHIOf1-or03gr4.jpeg)
+The Great Gatsby, Chapter 3 by F. Scott Fitzgerald is part of HackerNoon’s Book Blog Post series. 
+
+### [588. Astounding Stories of Super-Science June 1931: VOL. VI, NO. 3 - The Earthman's Burden](https://hackernoon.com/astounding-stories-of-super-science-june-1931-vol-vi-no-3-the-earthmans-burden)
+![](https://cdn.hackernoon.com/images/eYmBPfrqu8d2TdijQi8nkPK2yGl2-1na3j1k.jpeg)
+There is a foul play on Mercury--Until Denny Olear of the Interplanetary Flying Police gets after his man.
+
+### [589. The Lord of Space](https://hackernoon.com/the-lord-of-space)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-cne3twx.jpeg)
+On the day of the next full moon every living thing on earth will be wiped out of existence
+
+### [590. The Question of Rebates](https://hackernoon.com/random-reminiscences-of-men-and-events-chapter-iv-the-question-of-rebates)
+![](https://cdn.hackernoon.com/images/ZCxO2b4xyfXYAcCXiZrThqTfAXf1-6t93kzg.jpeg)
+The Standard gave advantages to the railroads for the purpose of reducing the cost of transportation of freight. 
+
+### [591. The Palmer Method of Business Writing: Lesson 86](https://hackernoon.com/the-palmer-method-of-business-writing-lesson-86)
+![](https://cdn.hackernoon.com/images/jvjajoMzXGenl6tjMR4f2EWBuIr1-d793kzx.jpeg)
+Give close attention to size, general appearance, and space between letters, and guard against irregular movement.
+
+### [592. The Palmer Method of Business Writing: Lesson 66](https://hackernoon.com/the-palmer-method-of-business-writing-lesson-66)
+![](https://cdn.hackernoon.com/images/jvjajoMzXGenl6tjMR4f2EWBuIr1-r393krk.jpeg)
+Figure five is in a large measure dependent upon the horizontal stroke at the top for its legibility.
+
+### [593. The Count of Monte Cristo, Illustrated: Chapter 17 - The Abbé’s Chamber](https://hackernoon.com/the-count-of-monte-cristo-illustrated-chapter-17-the-abbes-chamber)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-wi93nfd.jpeg)
+The Count of Monte Cristo, Volume One, Chapter 17: The Abbé’s Chamber by Alexandre Dumas, père is part of HackerNoon’s Book Blog Post series. 
+
+### [594. The Multiplicity of Conscious States ](https://hackernoon.com/the-multiplicity-of-conscious-states)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-ci93o6u.jpeg)
+
+Time and Free Will: An Essay on the Immediate Data of Consciousness, by Henri Bergson, is part of HackerNoon’s Book Blog Post series. 
+
+### [595. MONKEYS, APES AND SUB-MEN](https://hackernoon.com/monkeys-apes-and-sub-men)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-8kv3lao.jpeg)
+Now the past history of the Primates is one very difficult to decipher in the geological record.
+
+### [596. Boon, The Mind of the Race, The Wild Asses of the Devil, and The Last Trump - Table of Links](https://hackernoon.com/boon-the-mind-of-the-race-the-wild-asses-of-the-devil-and-the-last-trump-table-of-links)
+![](https://cdn.hackernoon.com/images/t4EWQ6W18hPhx6xE6pfPwMH58EL2-gy93lmf.jpeg)
+Boon, The Mind of the Race, The Wild Asses of the Devil, and The Last Trump by H. G. Wells, is part of the HackerNoon Books Series.
+
+### [597. THE ENVOY](https://hackernoon.com/the-envoy)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-fhf3lnz.jpeg)
+The gate closes upon him with a slam, and he vanishes from our ken.
+
+
+### [598. The Genetic Effects of Radiation - Conclusion](https://hackernoon.com/the-genetic-effects-of-radiation-conclusion)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-mh93o75.jpeg)
+It is unrealistic to suppose that all sources of man-made radiation should be abolished.
+
+
+### [599. The Organization of Conscious States ](https://hackernoon.com/the-organization-of-conscious-states)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-ui93o4p.jpeg)
+Time and Free Will: An Essay on the Immediate Data of Consciousness, by Henri Bergson, is part of HackerNoon’s Book Blog Post series. 
+
+### [600. Stories for Telling: The Great Stone Face](https://hackernoon.com/stories-for-telling-the-great-stone-face)
+![](https://cdn.hackernoon.com/images/UUZZjfJqIWXx3OTAxCc5FR9kPtw2-yh93jpm.jpeg)
+“Oh, mother, dear mother!” cried Ernest. “I do hope I shall live to see him.”
+
+### [601. The Palmer Method of Business Writing: Lesson 72](https://hackernoon.com/the-palmer-method-of-business-writing-lesson-72)
+![](https://cdn.hackernoon.com/images/jvjajoMzXGenl6tjMR4f2EWBuIr1-eu93knx.jpeg)
+The lower part of the letter should be as wide as the loop through the widest part, and some good penmen make it a little wider than this.
+
+### [602. This Is a Story of a Time beyond the Memory of Man](https://hackernoon.com/this-is-a-story-of-a-time-beyond-the-memory-of-man)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-tgi3kc1.jpeg)
+A Story of the Stone Age is of a time beyond the memory of man, before the beginning of history.
+
+### [603. Section 16 - Instinct](https://hackernoon.com/section-16-instinct)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-1993mgc.jpeg)
+All internal motions of animal bodies, which contribute to digest their aliment, produce their secretions and so forth, are performed without our attention
+
+### [604.  Beyond Fusion: The Unknown](https://hackernoon.com/worlds-within-worlds-the-story-of-nuclear-energy)
+![](https://cdn.hackernoon.com/images/P9UdA5H40seCaH3OOmFtrY8785H3-5g93p17.jpeg)
+Worlds Within Worlds: The Story of Nuclear Energy, Volume 3 (of 3), by Isaac Asimov is part of HackerNoon’s Book Blog Post series. You can jump to any chapter in this book here. Volume III, BEYOND FUSION: The Unknown
+
+### [605. The Terror of Air-Level Six](https://hackernoon.com/the-terror-of-air-level-six)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-hg93t69.jpeg)
+The SF-22 and her convoy were surrounded by these unearthly rays.
+
+### [606. Prisoners on the Electron](https://hackernoon.com/prisoners-on-the-electron)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-ap93u1q.jpeg)
+Fate throws two young Earthians into desperate conflict with the primeval monsters of an electron's savage jungles.
+
+### [607. An Inquiry into the Nature and Causes of the Wealth of Nations: Book IV, Chapter VII - Part II](https://hackernoon.com/an-inquiry-into-the-nature-and-causes-of-the-wealth-of-nations-book-iv-chapter-vii-part-ii)
+![](https://cdn.hackernoon.com/images/4O9wiIuRTiRbwA1feRRcV0OGCb92-qhg3iaz.jpeg)
+The progress of many of the ancient Greek colonies towards wealth and greatness seems accordingly to have been very rapid.
+
+### [608. On Taxes](https://hackernoon.com/on-the-principles-of-political-economy-and-taxation-chapter-vii-on-taxes)
+![](https://cdn.hackernoon.com/images/KP4e6RV2jgPi4eQXMsGNZwCmprw1-ne93k41.jpeg)
+Capital may therefore be increased by an increased production, or by a diminished consumption.
+
+### [609. Moby-Dick; or The Whale: Chapter 2 - The Carpet-Bag](https://hackernoon.com/moby-dick-or-the-whale-chapter-2-the-carpet-bag)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-ui93j0w.jpeg)
+Moby-Dick; or The Whale: Chapter 2 - The Carpet-Bag by Herman Melville is part of HackerNoon’s Book Blog Post series
+
+### [610. THE AWAKENING](https://hackernoon.com/the-awakening)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-wkc3lfs.jpeg)
+“Ha, ha, ha!” laughed one—a red-haired man in a short purple robe. “When the Sleeper wakes—When!”
+
+### [611. Traffic and Rebuilding](https://hackernoon.com/traffic-and-rebuilding)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-p9a3lws.jpeg)
+An Englishman looks at the world by H. G. Wells, is part of the HackerNoon Books Series.
+
+### [612. THE IMAGININGS OF MR. HOOPDRIVER'S HEART](https://hackernoon.com/the-imaginings-of-mr-hoopdrivers-heart)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-doe3l0c.jpeg)
+This proceeding in some occult way led to the purchase of a note-book and pencil, and that started the conception of an artist taking notes.
+
+### [613. The Door in the Wall
+And Other Stories, by H. G. Wells -Table of Links](https://hackernoon.com/the-door-in-the-wall-and-other-stories-by-h-g-wells)
+![](https://cdn.hackernoon.com/images/t4EWQ6W18hPhx6xE6pfPwMH58EL2-k693k1g.jpeg)
+The Door in the Wall And Other Stories, by H. G. Wells, is part of the HackerNoon Books Series. Read this book online for free on HackerNoon!
+
+### [614. THE THIRD VISION](https://hackernoon.com/the-third-vision)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-8rc3lby.jpeg)
+“It is not the poverty I fear,” said Lady Ella.
+
+### [615. The Essays of Adam Smith: Part II, SEC. II, Chapter II. ](https://hackernoon.com/the-essays-of-adam-smith-part-ii-sec-ii-chapter-ii)
+![](https://cdn.hackernoon.com/images/fisV3ygrKHQzoANO3juQvFMtA3r2-7ya3i7w.jpeg)
+THERE can be no proper motive for hurting our neighbour, there can be no incitement to do evil to another
+
+
+### [616. The Science of Getting Rich: Chapter 12](https://hackernoon.com/the-science-of-getting-rich-chapter-12)
+![](https://cdn.hackernoon.com/images/MWOFxJyDOLb9SogBhG2AsIszVL22-1493vyo.jpeg)
+The Science of Getting Rich by Wallace D. Wattles is part of HackerNoon’s Book Blog Post series.
+
+### [617. Bacteria by George Newman - Table of Links ](https://hackernoon.com/bacteria-by-george-newman-table-of-links)
+![](https://cdn.hackernoon.com/images/t4EWQ6W18hPhx6xE6pfPwMH58EL2-4m93jej.jpeg)
+Bacteria by George Newman is part of the HackerNoon Books Series. Read this book online for free on HackerNoon!
+
+### [618. THE WORLD OF FACT](https://hackernoon.com/the-world-of-fact)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-3gm3lib.jpeg)
+Fact expresses for me something in its nature primary and unanalyzable.
+
+### [619. The Palmer Method of Business Writing: Lesson 83](https://hackernoon.com/the-palmer-method-of-business-writing-lesson-83)
+![](https://cdn.hackernoon.com/images/jvjajoMzXGenl6tjMR4f2EWBuIr1-j793ksj.jpeg)
+On account of the check at the connective point, fewer letters are made to the minute than of small g, but the movement should be quick.
+
+### [620. Tono-Bungay by H. G. Wells - Table of Links](https://hackernoon.com/tono-bungay-by-h-g-wells-table-of-links)
+![](https://cdn.hackernoon.com/images/t4EWQ6W18hPhx6xE6pfPwMH58EL2-i593kkq.jpeg)
+Tono-Bungay by H. G. Wells, is part of the HackerNoon Books Series. Read this book online for free on HackerNoon!
+
+### [621. The Palmer Method of Business Writing: Lesson 94](https://hackernoon.com/the-palmer-method-of-business-writing-lesson-94)
+![](https://cdn.hackernoon.com/images/jvjajoMzXGenl6tjMR4f2EWBuIr1-d993kiu.jpeg)
+Capital L, rightly practiced, is always an excellent movement drill.
+
+
+### [622. An Essay Concerning Humane Understanding, Volume II: Book III, Chapter I.](https://hackernoon.com/an-essay-concerning-humane-understanding-volume-ii-book-iii-chapter-i)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-f193n6j.jpeg)
+An Essay Concerning Humane Understanding, Volume II: Book III, Chapter I, by John Locke is part of HackerNoon’s Book Blog Post series.
+
+
+### [623. The Plattner Story by H. G. Wells - Table of Links](https://hackernoon.com/the-plattner-story-by-h-g-wells-table-of-links)
+![](https://cdn.hackernoon.com/images/t4EWQ6W18hPhx6xE6pfPwMH58EL2-pw93k6b.jpeg)
+The Plattner Story by H. G. Wells, is part of the HackerNoon Books Series. Read this book online for free on HackerNoon!
+
+### [624. The War of the Worlds: Chapter V. THE HEAT-RAY](https://hackernoon.com/the-war-of-the-worlds-by-h-g-wells-v-the-heat-ray)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-o593km6.jpeg)
+“What ugly brutes!” he said. “Good God! What ugly brutes!” He repeated this over and over again.
+
+
+### [625. The Essays of Adam Smith: Part VII, Section II, Chapter III](https://hackernoon.com/the-essays-of-adam-smith-part-vii-section-ii-chapter-iii)
+![](https://cdn.hackernoon.com/images/fisV3ygrKHQzoANO3juQvFMtA3r2-m0e3jyy.jpeg)
+In the divine nature, according to these authors, benevolence or love was the sole principle of action, and directed the exertion of all the other attributes. 
+
+### [626. Tales of the Unexpected by H. G. Wells - Table of Links](https://hackernoon.com/tales-of-the-unexpected-by-h-g-wells-table-of-links)
+![](https://cdn.hackernoon.com/images/t4EWQ6W18hPhx6xE6pfPwMH58EL2-id93k3f.jpeg)
+Tales of the Unexpected by H. G. Wells, is part of the HackerNoon Books Series. Read this book online for free on HackerNoon!
+
+### [627. ADOLESCENCE](https://hackernoon.com/adolescence)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-mbr3lqx.jpeg)
+Joan and Peter by H. G. Wells, is part of the HackerNoon Books Series. You can jump to any chapter in this book here. ADOLESCENCE
+
+
+### [628. The Palmer Method of Business Writing: Lesson 75](https://hackernoon.com/the-palmer-method-of-business-writing-lesson-75)
+![](https://cdn.hackernoon.com/images/jvjajoMzXGenl6tjMR4f2EWBuIr1-qd93kuh.jpeg)
+The practice speed should be, for the first word, twenty, and for the word “killing” twelve to the minute. 
+
+### [629. The Soul Master](https://hackernoon.com/the-soul-master)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-gy93s4i.jpeg)
+A terrific force was emanating from that devilish globe above.
+
+### [630. BELIEFS](https://hackernoon.com/beliefs)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-7pu3l6m.jpeg)
+I draw my beliefs exactly as an artist draws lines to make a picture, to express my impression of the world and my purpose.
+
+### [631. When two lines are connected in an angle, a positive stop at the point of connection is necessary](https://hackernoon.com/the-palmer-method-of-business-writing-lesson-8)
+![](https://cdn.hackernoon.com/images/jvjajoMzXGenl6tjMR4f2EWBuIr1-fh93j7q.jpeg)
+When two lines are connected in an angle, a positive stop at the point of connection is necessary.
+
+### [632. The Time Machine: V. In the Golden Age](https://hackernoon.com/the-time-machine-by-h-g-wells-v-in-the-golden-age)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-st93k8f.jpeg)
+All were clad in the same soft, and yet strong, silky material.
+
+### [633. THE SURBITON INTERLUDE](https://hackernoon.com/the-surbiton-interlude)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-43e3l29.jpeg)
+“A mother's love,” she said. “I bear her THAT.”
+
+
+### [634. Stories for Telling: The Cap that Mother Made](https://hackernoon.com/stories-for-telling-the-cap-that-mother-made)
+![](https://cdn.hackernoon.com/images/UUZZjfJqIWXx3OTAxCc5FR9kPtw2-tg93j5t.jpeg)
+“Oh, no, I’m not so stupid as all that; no, I’m not!” Anders said.
+
+### [635. Adventures of Huckleberry Finn: Chapter: The Last](https://hackernoon.com/adventures-of-huckleberry-finn-chapter-the-last)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-ae93mnf.jpeg)
+Adventures of Huckleberry Finn, by Mark Twain (Samuel Clemens) is part of HackerNoon’s Book Blog Post series. You can jump to any chapter in this book here.
+
+### [636. Stolen Brains](https://hackernoon.com/stolen-brains)
+![](https://cdn.hackernoon.com/images/a-human-brain-on-a-petri-dish-clb22oljr000401s6ar5id8pn.png)
+Dr. Bird, scientific sleuth extraordinary, goes after a sinister stealer of brains.
+
+### [637. The Secret Places of the Heart by H. G. Wells - Table of Links](https://hackernoon.com/the-secret-places-of-the-heart-by-h-g-wells-table-of-links)
+![](https://cdn.hackernoon.com/images/t4EWQ6W18hPhx6xE6pfPwMH58EL2-a393lfb.jpeg)
+The Secret Places of the Heart by H. G. Wells, is part of the HackerNoon Books Series. Read this book online for free on HackerNoon!
+
+### [638. The Limitations of the Rich](https://hackernoon.com/random-reminiscences-of-men-and-events-chapter-vi-limitations-of-the-rich)
+![](https://cdn.hackernoon.com/images/ZCxO2b4xyfXYAcCXiZrThqTfAXf1-2s93kpj.jpeg)
+The novelty of being able to purchase anything one wants soon passes, because what people most seek cannot be bought with money.
+
+### [639. One Thousand Ways to Make Money by Page Fox: Introduction](https://hackernoon.com/one-thousand-ways-to-make-money-by-page-fox-introduction)
+![](https://cdn.hackernoon.com/images/Dh779CmdTWcT0wfGv6t0L3Zkjkj1-6u93lpb.jpeg)
+One Thousand Ways to Make Money, November 2017 by Page Fox is part of HackerNoon’s Book Blog Post series.
+
+### [640. Indian Currency and Finance - Table of Links](https://hackernoon.com/indian-currency-and-finance-table-of-links)
+![](https://cdn.hackernoon.com/images/t4EWQ6W18hPhx6xE6pfPwMH58EL2-q693ike.jpeg)
+Indian Currency and Finance, by John Maynard Keynes is part of HackerNoon’s Books series. Read this book online for free on HackerNoon!
+
+### [641. Read Spawn of the Stars Online for Free](https://hackernoon.com/spawn-of-the-stars)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-to93owx.jpeg)
+The sky was alive with winged shapes, and high in the air shone the glittering menace, trailing five plumes of gas.
+
+### [642. The Palmer Method of Business Writing: Lesson 100](https://hackernoon.com/the-palmer-method-of-business-writing-lesson-100)
+![](https://cdn.hackernoon.com/images/jvjajoMzXGenl6tjMR4f2EWBuIr1-1593kgi.jpeg)
+Do not forget that your advancement depends upon movement, and that movement depends much upon position.
+
+### [643. OF THE ARTIFICIAL IN MAN, AND OF THE ZEITGEIST](https://hackernoon.com/of-the-artificial-in-man-and-of-the-zeitgeist)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-byb3l4s.jpeg)
+She still scarcely realises, you see, the scrape she has got into.
+
+### [644. How to Select Hardware - Where to Look for Good Hardware](https://hackernoon.com/computers-on-the-farm-how-to-select-hardware-where-to-look-for-good-hardware)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-4793nzr.jpeg)
+A reliable dealer who handles several brands can help you make this decision.
+
+### [645. Moby-Dick; or The Whale: Chapter 93 - The Castaway](https://hackernoon.com/moby-dick-or-the-whale-chapter-93-the-castaway)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-vr93odq.jpeg)
+Moby-Dick; or The Whale, Chapter 93: The Castaway by Herman Melville is part of HackerNoon’s Book Blog Post series. 
+
+### [646. Vandals of the Stars](https://hackernoon.com/vandals-of-the-stars)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-rv93rnz.png)
+IT came suddenly, without warning, and it brought consternation to the people of the world.
+
+### [647. On-Line Data-Acquisition Systems in Nuclear Physics, 1969: Chapter 2 - A PROCESS-CONTROL SYSTEM](https://hackernoon.com/on-line-data-acquisition-systems-in-nuclear-physics-1969-chapter-2-a-process-control-system)
+![](https://cdn.hackernoon.com/images/8LdafXdNDSdu5gzZmple4rnDqI23-pq93jt3.jpeg)
+It can also perform most of the calculations necessary for real-time guidance of the course of the experiments. 
+
+### [648. An Englishman Looks at the World by H. G. Wells - Table of Links](https://hackernoon.com/an-englishman-looks-at-the-world-by-h-g-wells-table-of-links)
+![](https://cdn.hackernoon.com/images/t4EWQ6W18hPhx6xE6pfPwMH58EL2-p693li6.jpeg)
+An Englishman Looks at the World by H. G. Wells, is part of the HackerNoon Books Series. Read this book online for free on HackerNoon!
+
+### [649. Moby-Dick; or The Whale: Chapter 11 - Nightgown](https://hackernoon.com/moby-dick-or-the-whale-chapter-11-nightgown)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-sn93jon.jpeg)
+Moby-Dick; or The Whale, Chapter 11: Nightgown by Herman Melville is part of HackerNoon’s Book Blog Post series.  
+
+### [650. The Art Of Writing & Speaking The English Language : Chapter XIV ](https://hackernoon.com/the-art-of-writing-and-speaking-the-english-language-chapter-xiv)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-9q93nip.jpeg)
+There is no art in the slavish copying of persons in real life. 
+
+### [651. How to Select Software - Checklist for Evaluating Software](https://hackernoon.com/computers-on-the-farm-how-to-select-software-checklist-for-evaluating-software)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-2c93nor.jpeg)
+Some software programs may come to you with bugs (errors) in them.
+
+### [652. R.U.R. (Rossum's Universal Robots): STORY OF THE PLAY](https://hackernoon.com/rur-rossums-universal-robots-story-of-the-play)
+![](https://cdn.hackernoon.com/images/3NDlJQg55YOrqaEBVl3hNJKbpJH2-bs93j2f.jpeg)
+“Robot” is a Czech word meaning “worker.” 
+
+### [653. SOCIALISM MEANS REVOLUTION](https://hackernoon.com/socialism-means-revolution)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-0si3lnq.jpeg)
+I want to change everything in the world that made that; and I do not greatly care what has to go in the process. Do you?
+
+### [654. Great Expectations: Chapter II](https://hackernoon.com/great-expectations-chapter-ii)
+![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-ph93uwc.jpeg)
+My sister, Mrs. Joe Gargery, was more than twenty years older than I, and had established a great reputation with herself and the neighbours...
+
+### [655. The Evolution of Modern Medicine: Chapter II - GALEN](https://hackernoon.com/the-evolution-of-modern-medicine-chapter-ii-galen)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-u193n7j.jpeg)
+The Evolution of Modern Medicine, by William Osler is part of HackerNoon’s Book Blog Post series. 
+
+### [656. The Evolution of Modern Medicine: Chapter II - ALEXANDRIAN SCHOOL](https://hackernoon.com/the-evolution-of-modern-medicine-chapter-ii-alexandrian-school)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-sg93nyc.jpeg)
+The Evolution of Modern Medicine, by William Osler is part of HackerNoon’s Book Blog Post series. 
+
+### [657. Marooned Under the Sea](https://hackernoon.com/marooned-under-the-sea)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-c0a3tvj.jpeg)
+We were going on some mysterious cruise to the South Seas, the details of which I did not know.
+
+### [658. The Hound of the Baskervilles - TABLE OF LINKS](https://hackernoon.com/the-hound-of-the-baskervilles-table-of-links)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-3093j6s.jpeg)
+The Hound of the Baskervilles, by Arthur Conan Doyle is part of HackerNoon’s Book Blog Post series. The table of Links for this book can be found here.
+
+### [659. The Story of Nuclear Energy, Volume 2 of 3: Particle Accelerators](https://hackernoon.com/the-story-of-nuclear-energy-volume-2-of-3-particle-accelerators)
+![](https://cdn.hackernoon.com/images/P9UdA5H40seCaH3OOmFtrY8785H3-m693qub.jpeg)
+Worlds Within Worlds: The Story of Nuclear Energy, Volume 2 (of 3), by Isaac Asimov is part of HackerNoon’s Book Blog Post series. You can jump to any chapter in this book here. Volume II, THE STRUCTURE OF THE NUCLEUS: Particle Accelerators
+
+### [660. Relativity: The Special and General Theory: Chapter II - THE SYSTEMS OF CO-ORDINATE](https://hackernoon.com/relativity-the-special-and-general-theory-chapter-ii-the-systems-of-co-ordinate)
+![](https://cdn.hackernoon.com/images/ARlhLhQxvPRGtNtib2JQKCqumM53-9na2hvz.jpeg)
+Relativity: The Special and General Theory by Albert Einstein is part of HackerNoon’s Book Blog Post series. You can jump to any chapter in this book here.
+
+### [661. The Beetle Horde - Chapter II: Beetles and Humans](https://hackernoon.com/astounding-stories-of-super-science-january-1930-the-beetle-horde-chapter-ii)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-vu93pal.jpeg)
+How long he had remained unconscious, Tommy had no means of determining.
+
+### [662. The Human Side of Animals by Royal Dixon - Table of Links](https://hackernoon.com/the-human-side-of-animals-by-royal-dixon-table-of-links)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-6293nlk.jpeg)
+The Human Side of Animals, by Royal Dixon, is part of HackerNoon’s Book Blog Post series. 
+
+### [663. AT THIS POINT A DISPUTE ARISES](https://hackernoon.com/at-this-point-a-dispute-arises)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-84g3lkw.jpeg)
+Such arguments are not to be swept aside with a wave of the hand.
+
+### [664. Introduction To Geometry](https://hackernoon.com/introduction-to-geometry)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-z093ogj.jpeg)
+An Essay on the Foundations of Geometry, by Bertrand Russell is part of HackerNoon’s Book Blog Post series. 
+
+### [665. The Moon Master](https://hackernoon.com/the-moon-master)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-v0b3t4t.jpeg)
+Through infinite deeps of space Jerry Foster hurtles to the Moon—only to be trapped by a barbaric race and offered as a living sacrifice to Oong
+
+### [666. The Evolution of Modern Medicine: Chapter III - MEDIAEVAL MEDICINE](https://hackernoon.com/the-evolution-of-modern-medicine-chapter-iii-mediaeval-medicine)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-m693nol.jpeg)
+The Evolution of Modern Medicine, by William Osler is part of HackerNoon’s Book Blog Post series. 
+
+### [667. The Art Of Writing & Speaking The English Language : Chapter V - Ridicule](https://hackernoon.com/the-art-of-writing-and-speaking-the-english-language-chapter-v-ridicule)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-lw93nmp.jpeg)
+They are not precisely English―nor will we insult a great nation by calling them Kickapoo; perhaps they are Channingese.
+
+### [668. Frankenstein or, The Modern Prometheus: Chapter IX](https://hackernoon.com/frankenstein-or-the-modern-prometheus-chapter-ix)
+![](https://cdn.hackernoon.com/images/KGKqGgldsBeFIitE2M9aXBqZ4al1-e1h3iu3.jpeg)
+At these moments I wept bitterly and wished that peace would revisit my mind only that I might afford them consolation and happiness.
+
+### [669. PRIMITIVE THOUGHT](https://hackernoon.com/primitive-thought)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-ab153l7i.jpeg)
+The sources to which scientific men have gone in their attempts to reconstruct that primitive mentality are very various.
+
+### [670. More About Counting](https://hackernoon.com/the-palmer-method-of-business-writing-lesson-15)
+![](https://cdn.hackernoon.com/images/jvjajoMzXGenl6tjMR4f2EWBuIr1-zwa3jdm.jpeg)
+In writing, as in music, regularity of movement is an important factor
+
+### [671. The Palmer Method of Business Writing: Lesson 81](https://hackernoon.com/the-palmer-method-of-business-writing-lesson-81)
+![](https://cdn.hackernoon.com/images/jvjajoMzXGenl6tjMR4f2EWBuIr1-xw93knq.jpeg)
+Many of the forms in this book are not given for their beauty, but because ninety per cent. of our best business penmen use them.
+
+### [672. Astounding Stories of Super-Science May 1931: The Exile of Time - Chapter XI](https://hackernoon.com/astounding-stories-of-super-science-may-1931-the-exile-of-time-chapter-xi)
+![](https://cdn.hackernoon.com/images/eYmBPfrqu8d2TdijQi8nkPK2yGl2-as93jw3.jpeg)
+There was a device upon the table. I have already described a similar one, the Time-telespectroscope.
+
+### [673. The Story of Nuclear Energy, Volume 1 (of 3): Atomic Weights](https://hackernoon.com/the-story-of-nuclear-energy-volume-1-of-3-atomic-weights)
+![](https://cdn.hackernoon.com/images/P9UdA5H40seCaH3OOmFtrY8785H3-eea3pbl.jpeg)
+Worlds Within Worlds: The Story of Nuclear Energy, Volume 1 (of 3), by Isaac Asimov is part of HackerNoon’s Book Blog Post series. You can jump to any chapter in this book here. Volume I: ATOMIC WEIGHTS
+
+
+### [674. The Palmer Method of Business Writing: Lesson 45](https://hackernoon.com/the-palmer-method-of-business-writing-lesson-45)
+![](https://cdn.hackernoon.com/images/jvjajoMzXGenl6tjMR4f2EWBuIr1-y593kmz.jpeg)
+Small x is simple in construction. 
+
+### [675. Pride and Prejudice: Chapter 7](https://hackernoon.com/pride-and-prejudice-chapter-7)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-t593j7t.jpeg)
+Pride and Prejudice, by Jane Austen, is part of HackerNoon’s Book Blog Post series. 
+
+### [676. An Essay Concerning Humane Understanding, Volume I: Book II, Chapter XXXIII.](https://hackernoon.com/an-essay-concerning-humane-understanding-volume-i-book-ii-chapter-xxxiii)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-p393n7u.jpeg)
+An Essay Concerning Humane Understanding, Volume I: Book II, Chapter XXXIII by John Locke is part of HackerNoon’s Book Blog Post series. 
+
+### [677. The Story of Nuclear Energy, Volume 1 (of 3): Electricity - Cathode Rays](https://hackernoon.com/the-story-of-nuclear-energy-volume-1-of-3-electricity-cathode-rays)
+![](https://cdn.hackernoon.com/images/P9UdA5H40seCaH3OOmFtrY8785H3-ij93qkq.jpeg)
+Worlds Within Worlds: The Story of Nuclear Energy, Volume 1 (of 3), by Isaac Asimov is part of HackerNoon’s Book Blog Post series. You can jump to any chapter in this book here. Volume I, ELECTRICITY: Cathode Rays
+
+
+### [678. The Science of Getting: Chapter 3](https://hackernoon.com/the-science-of-getting-chapter-3)
+![](https://cdn.hackernoon.com/images/MWOFxJyDOLb9SogBhG2AsIszVL22-ex93vq7.jpeg)
+The Science of Getting Rich by Wallace D. Wattles is part of HackerNoon’s Book Blog Post series.
+
+### [679. Time and Free Will: An Essay on the Immediate Data of Consciousness -  Table of Links](https://hackernoon.com/time-and-free-will-an-essay-on-the-immediate-data-of-consciousness-table-of-links)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-7y93oub.jpeg)
+Time and Free Will: An Essay on the Immediate Data of Consciousness, by Henri Bergson is part of HackerNoon’s series. This piece links to each chapter 
+
+### [680. The Essays of Adam Smith: ADAM SMITH ON THE EXTERNAL SENSES - Of the Sense of TOUCHING](https://hackernoon.com/the-essays-of-adam-smith-adam-smith-on-the-external-senses-of-the-sense-of-touching)
+![](https://cdn.hackernoon.com/images/fisV3ygrKHQzoANO3juQvFMtA3r2-1bb3j0a.jpeg)
+This power or quality of resistance we call Solidity; and the thing which possesses it, the Solid Body or Thing.
+
+### [681. This Side of Paradise by F. Scott Fitzgerald -  Table of Links ](https://hackernoon.com/this-side-of-paradise-by-f-scott-fitzgerald-table-of-links)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-ey93l7t.jpeg)
+This Side of Paradise, by F. Scott Fitzgerald, is part of the HackerNoon Books 
+series. Read this book online for free on HackerNoon!
+
+### [682. The World Set Free](https://hackernoon.com/the-world-set-free)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-91c3t7b.jpeg)
+THEY waited two days at Settler's Station. To push along the line into the desert would have been useless, both men were convinced that an airplane would arrive
+
+### [683. WRITING](https://hackernoon.com/writing)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-oq1a3lz5.jpeg)
+The door is not half open; the light is but a light new lit. Our world to-day is only in the beginning of knowledge.
+
+### [684. Pride and Prejudice: Chapter 60](https://hackernoon.com/pride-and-prejudice-chapter-60)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-bn93n84.jpeg)
+Pride and Prejudice, by Jane Austen is part of HackerNoon’s Book Blog Post series. 
+
+### [685. THE DISCOVERY OF THE FOOD](https://hackernoon.com/the-discovery-of-the-food)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-ca93l5v.jpeg)
+That either dream is to be regarded as in any way significant or prophetic beyond what I have categorically said, I do not for one moment suggest.
+
+### [686. THE NEED OF A NEW MAP OF EUROPE](https://hackernoon.com/the-need-of-a-new-map-of-europe)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-jsb3ljx.jpeg)
+That is why I think we liberal English should draw our new map of Europe now, first of all on paper and then upon the face of the earth.
+
+### [687. The Idea of a University Defined and Illustrated: Note on Page 478](https://hackernoon.com/the-idea-of-a-university-defined-and-illustrated-note-on-page-478)
+![](https://cdn.hackernoon.com/images/ejUZNC47pjbsT8faAmTgQxau7w22-dfe3jfq.jpeg)
+I think it worthwhile, in illustration of what I have said above at the page specified, to append the following passage from Grandorgæus's catalogue of Muratori
+
+### [688. The Palmer Method of Business Writing: Lesson 118](https://hackernoon.com/the-palmer-method-of-business-writing-lesson-118)
+![](https://cdn.hackernoon.com/images/jvjajoMzXGenl6tjMR4f2EWBuIr1-kw93ktn.jpeg)
+Do not lose sight of the fact that position at the desk has much to do with the development of writing.
+
+### [689. The Time Machine: XV. The Time Traveller’s Return](https://hackernoon.com/the-time-machine-by-h-g-wells-xv-the-time-travellers-return)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-2693kn1.jpeg)
+The fluctuating contours of the land ebbed and flowed.
+
+### [690. L'Envoi](https://hackernoon.com/lenvoi)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-ov93u85.png)
+MY solution of the message practically ends the story. 
+
+### [691. “AS THE WIND BLOWS.”](https://hackernoon.com/as-the-wind-blows)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-fr93lc7.jpeg)
+ “Tu, nisi ventis 
+   Debes ludibrium, cave.”
+
+### [692. The Human Side of Animals: Chapter 6 - Animal Mathematics](https://hackernoon.com/the-human-side-of-animals-chapter-6-animal-mathematics)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-2893ng6.jpeg)
+The Human Side of Animals by Royal Dixon is part of HackerNoon’s Book Blog Post series. 
+
+
+### [693. The War in the Air by H. G. Wells - Table of Links](https://hackernoon.com/the-war-in-the-air-by-h-g-wells-table-of-links)
+![](https://cdn.hackernoon.com/images/t4EWQ6W18hPhx6xE6pfPwMH58EL2-a793kad.jpeg)
+The War in the Air by H. G. Wells, is part of the HackerNoon Books Series. Read this book online for free on HackerNoon!
+
+### [694. Astounding Stories of Super-Science July 1931: The Exile of Time - Chapter XXI](https://hackernoon.com/astounding-stories-of-super-science-july-1931-the-exile-of-time-chapter-xxi)
+![](https://cdn.hackernoon.com/images/eYmBPfrqu8d2TdijQi8nkPK2yGl2-zfm3jw9.jpeg)
+His labored voice came up. "George? Thank God! Get us—out of here. Almost—gone, George!"
+
+
+### [695. The Palmer Method of Business Writing: Lesson 61](https://hackernoon.com/the-palmer-method-of-business-writing-lesson-61)
+![](https://cdn.hackernoon.com/images/jvjajoMzXGenl6tjMR4f2EWBuIr1-id93g8h.jpeg)
+Nothing is more important to the average bookkeeper or office clerk than good figures. 
+
+### [696. The Count of Monte Cristo, Illustrated: Chapter 64 - The Beggar](https://hackernoon.com/the-count-of-monte-cristo-illustrated-chapter-64-the-beggar)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-pv93oow.jpeg)
+The Count of Monte Cristo,Volume Three, Chapter 64:  The Beggar by Alexandre Dumas, père is part of HackerNoon’s Book Blog Post series. 
+
+### [697. PHYSICAL TRAINING IN PENMANSHIP PRACTICE](https://hackernoon.com/the-palmer-method-of-business-writing-lesson-2-physical-training-in-penmanship-practice)
+![](https://cdn.hackernoon.com/images/jvjajoMzXGenl6tjMR4f2EWBuIr1-k093jgg.jpeg)
+No written or spoken words can explain these more fully and plainly than the fifteen accompanying pictures given as models. 
+
+### [698. Astounding Stories of Super-Science, January 1931 - Table of Links](https://hackernoon.com/astounding-stories-of-super-science-january-1931-table-of-links)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-lq93onw.png)
+Astounding Stories of Super-Science, January 1931, by Astounding Stories is part of HackerNoon’s Book Blog Post series. 
+
+### [699. The Palmer Method of Business Writing: Lesson 77](https://hackernoon.com/the-palmer-method-of-business-writing-lesson-77)
+![](https://cdn.hackernoon.com/images/jvjajoMzXGenl6tjMR4f2EWBuIr1-wj93keu.jpeg)
+Write several lines of the first word before changing to the second. 
+
+### [700. Mankind in the Making by H. G. Wells - Table of Links](https://hackernoon.com/mankind-in-the-making-by-h-g-wells-table-of-links)
+![](https://cdn.hackernoon.com/images/t4EWQ6W18hPhx6xE6pfPwMH58EL2-bd93lwl.jpeg)
+Mankind in the Making by H. G. Wells, is part of the HackerNoon Books Series. Read this book online for free on HackerNoon!
+
+### [701. The War of the Worlds: Chapter 1. THE EVE OF THE WAR](https://hackernoon.com/the-war-of-the-worlds-by-h-g-wells-i-the-eve-of-the-war)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-dl93kmw.jpeg)
+“The chances against anything manlike on Mars are a million to one,” he said.
+
+
+### [702. Computers on the Farm: Components of a Microcomputer](https://hackernoon.com/computers-on-the-farm-components-of-a-microcomputer)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-wj93ntd.jpeg)
+USDA Farmers' Bulletin No. 2277: Computers on the Farm, by Deborah Takiff Smith is part of HackerNoon’s Book Blog Post series. 
+
+### [703. On-Line Data-Acquisition Systems in Nuclear Physics, 1969 by H. W. Fulbright et al. - Table of Links](https://hackernoon.com/on-line-data-acquisition-systems-in-nuclear-physic-1969-by-h-w-fulbright-et-al-table-of-links)
+![](https://cdn.hackernoon.com/images/t4EWQ6W18hPhx6xE6pfPwMH58EL2-j0a3j0s.jpeg)
+On-Line Data-Acquisition Systems in Nuclear Physic, 1969, by H. W. Fulbright et al.,is part of the HackerNoon Books series.
+
+### [704. An Essay Concerning Humane Understanding, Volume I: Book II, Chapter XXVI.](https://hackernoon.com/an-essay-concerning-humane-understanding-volume-i-book-ii-chapter-xxvi)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-dl93ns6.jpeg)
+An Essay Concerning Humane Understanding, Volume I: Book II, Chapter XXVI: OF CAUSE AND EFFECT, by John Locke is part of HackerNoon’s Book Blog Post series. 
+
+
+### [705. The Evolution of Modern Medicine: THE SILLIMAN FOUNDATION](https://hackernoon.com/the-evolution-of-modern-medicine-the-silliman-foundation)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-4l93niu.jpeg)
+The Evolution of Modern Medicine, by William Osler is part of HackerNoon’s Book Blog Post series. 
+
+### [706. Pride and Prejudice: Chapter 13](https://hackernoon.com/pride-and-prejudice-chapter-13)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-4493m03.jpeg)
+Pride and Prejudice, by Jane Austen, is part of HackerNoon’s Book Blog Post series. 
+
+### [707. The Beetle Horde - Chapter VI: Escape!](https://hackernoon.com/the-beetle-horde-chapter-vi-escape)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-s193px1.jpeg)
+I heard what he said. You shall not die. We shall go away to your place, where there are no beetles to eat us
+
+### [708. Adventures of Huckleberry Finn: Chapter XL](https://hackernoon.com/adventures-of-huckleberry-finn-chapter-xl)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-fr93mrq.jpeg)
+Adventures of Huckleberry Finn, by Mark Twain (Samuel Clemens) is part of HackerNoon’s Book Blog Post series. 
+
+### [709. The Evolution of Modern Medicine: Chapter III - THE RISE OF THE UNIVERSITIES](https://hackernoon.com/the-evolution-of-modern-medicine-chapter-iii-the-rise-of-the-universities)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-z293nof.jpeg)
+The Evolution of Modern Medicine, by William Osler is part of HackerNoon’s Book Blog Post series. 
+
+### [710. The Essays of Adam Smith: Part II, SEC. I, Chapter III](https://hackernoon.com/the-essays-of-adam-smith-part-ii-sec-i-chapter-iii)
+![](https://cdn.hackernoon.com/images/fisV3ygrKHQzoANO3juQvFMtA3r2-m2a3ig5.jpeg)
+Little gratitude seems due in the one case, and all sort of resentment seems unjust in the other.
+
+### [711. On-Line Data-Acquisition Systems in Nuclear Physics, 1969: Chapter 3](https://hackernoon.com/on-line-data-acquisition-systems-in-nuclear-physics-1969-chapter-3)
+![](https://cdn.hackernoon.com/images/8LdafXdNDSdu5gzZmple4rnDqI23-5l93jsn.jpeg)
+The laboratories are Colorado, Kansas, Maryland, Minnesota, Texas, Wisconsin, Washington, Yale Linac, and Yale Van de Graaff.
+
+### [712. Adventures of Huckleberry Finn: Chapter XXXVIII](https://hackernoon.com/adventures-of-huckleberry-finn-chapter-xxxviii)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-b593mpu.jpeg)
+Adventures of Huckleberry Finn, by Mark Twain (Samuel Clemens) is part of HackerNoon’s Book Blog Post series.
+
+### [713. The Story of Nuclear Energy, Volume 1 (of 3): The Energy of Radioactivity](https://hackernoon.com/the-story-of-nuclear-energy-volume-1-of-3-the-energy-of-radioactivity)
+![](https://cdn.hackernoon.com/images/P9UdA5H40seCaH3OOmFtrY8785H3-wa93pz1.jpeg)
+Worlds Within Worlds: The Story of Nuclear Energy, Volume 1 (of 3), by Isaac Asimov is part of HackerNoon’s Book Blog Post series. You can jump to any chapter in this book here. Volume I, ENERGY: The Energy of Radioactivity
+
+### [714. Oliver Twist: Chapter XXII](https://hackernoon.com/oliver-twist-chapter-xxii)
+![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-rf93res.jpeg)
+Oliver Twist, by Charles Dickens is part of HackerNoon’s Book Blog Post series. You can jump to any chapter in this book here: [LINK TO TABLE OF LINK]. Chapter XXII: The Burglary
+
+### [715. Adventures of Huckleberry Finn: Chapter V](https://hackernoon.com/adventures-of-huckleberry-finn-chapter-v)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-ou93jms.jpeg)
+Adventures of Huckleberry Finn, by Mark Twain (Samuel Clemens) is part of HackerNoon’s Book Blog Post series. 
+
+### [716. A Tract on Monetary Reform: Chapter V - III. Other Countries](https://hackernoon.com/a-tract-on-monetary-reform-chapter-v-iii-other-countries)
+![](https://cdn.hackernoon.com/images/dS8vTXHOEGNxenpaKFuzuCW5Y1x1-lyg3i93.jpeg)
+It is necessary to presume to begin with that we are dealing with countries which have not lost control of their currencies.
+
+### [717. The Palmer Method of Business Writing: Lesson 3](https://hackernoon.com/the-palmer-method-of-business-writing-lesson-3)
+![](https://cdn.hackernoon.com/images/jvjajoMzXGenl6tjMR4f2EWBuIr1-rq93j3y.jpeg)
+As progress is made in the grades the use of muscular movement can be permanently established.
+
+### [718. Oliver Twist: Chapter XLVII](https://hackernoon.com/oliver-twist-chapter-xlvii)
+![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-jf93s7e.jpeg)
+Oliver Twist, by Charles Dickens is part of HackerNoon’s Book Blog Post series. You can jump to any chapter in this book here: [LINK TO TABLE OF LINK]. Chapter XLVII: Fatal Consequences
+
+### [719. The Art Of Writing & Speaking The English Language : Chapter XII - Harmony Of Style](https://hackernoon.com/the-art-of-writing-and-speaking-the-english-language-chapter-xii-harmony-of-style)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-x893n39.jpeg)
+A work of literary art is like a piece of music: one false note makes a discord that spoils the effect of the whole.
+
+### [720. A Short History of the World by H. G. Wells - Table of Links](https://hackernoon.com/a-short-history-of-the-world-by-h-g-wells-table-of-links)
+![](https://cdn.hackernoon.com/images/t4EWQ6W18hPhx6xE6pfPwMH58EL2-ob93kdk.jpeg)
+A Short History of the World by H. G. Wells, is part of the HackerNoon Books Series. Read this book online for free on HackerNoon!
+
+### [721. Free as in Freedom: Richard Stallman's Crusade for Free Software, by Sam Williams - Table of Links](https://hackernoon.com/free-as-in-freedom-by-sam-williams-table-of-links)
+![](https://cdn.hackernoon.com/images/t4EWQ6W18hPhx6xE6pfPwMH58EL2-hw93kbj.jpeg)
+Free as in Freedom, by Sam Williams, is part of the HackerNoon Books Series. Read this book online for free on HackerNoon!
+
+### [722. How to Live on 24 Hours a Day: Preface](https://hackernoon.com/how-to-live-on-24-hours-a-day-preface)
+![](https://cdn.hackernoon.com/images/ZtuZGtc0DdTsudmzUvyyyxl9l4L2-s993oi1.jpeg)
+How to Live on 24 Hours a Day, by Arnold Bennett is part of HackerNoon’s Book Blog Post series. 
+
+### [723. Astounding Stories of Super-Science June 1931: The Exile of Time - Chapter XIV](https://hackernoon.com/astounding-stories-of-super-science-june-1931-the-exile-of-time-chapter-xiv)
+![](https://cdn.hackernoon.com/images/eYmBPfrqu8d2TdijQi8nkPK2yGl2-gm93jqi.jpeg)
+There came a girl's scream, and muffled, frantic words.
+
+### [724. The Time Traveller Returns](https://hackernoon.com/the-time-machine-by-h-g-wells-iii-the-time-traveller-returns)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-fq93knl.jpeg)
+“It seems a pity to let the dinner spoil,” said the Editor of a well-known daily paper; and thereupon the Doctor rang the bell.
+
+### [725. AN INTERLUDE](https://hackernoon.com/an-interlude)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-gk93llg.jpeg)
+“Unspeakable cad! My dear girl! Possible I AM an unspeakable cad. Who wouldn't be—for you?”
+
+### [726. 1811 Dictionary in the Vulgar Tongue: Section O](https://hackernoon.com/1811-dictionary-in-the-vulgar-tongue-section-o)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-tz93n6e.jpeg)
+1811 Dictionary in the Vulgar Tongue, by Francis Grose is part of HackerNoon’s Book Blog Post series. 
+
+
+### [727. How A Vacuum Tube Can Be Used as A Radio Amplifier ](https://hackernoon.com/how-a-vacuum-tube-can-be-used-as-a-radio-amplifier)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-px93o5u.jpeg)
+A Vacuum tube is more sensitive than a crystal detector because it rectifies the oscillating current in receiving circuits and works as an amplifier all at once
+
+### [728. The Problem of Philosophy, by Bertrand Russell - Table Of Links](https://hackernoon.com/the-problem-of-philosophy-by-bertrand-russell-table-of-links)
+![](https://cdn.hackernoon.com/images/t4EWQ6W18hPhx6xE6pfPwMH58EL2-m6a3k2g.jpeg)
+The Problem of Philosophy, by Bertrand Russell, is part of the HackerNoon Books Series. Read this book online for free on HackerNoon!
+
+### [729. David Copperfield: Chapter 43 - Another Retrospect](https://hackernoon.com/david-copperfield-chapter-43-another-retrospect)
+![](https://cdn.hackernoon.com/images/u95KCwq4YOewwTvOFZTE2c39Icz1-kt93jxi.jpeg)
+Once again, let me pause upon a memorable period of my life. Let me stand aside, to see the phantoms of those days go by me, accompanying the shadow of myself.
+
+### [730. Pride and Prejudice: Chapter 49](https://hackernoon.com/pride-and-prejudice-chapter-49)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-0a93nvr.jpeg)
+Pride and Prejudice, by Jane Austen, is part of HackerNoon’s Book Blog Post series. 
+
+### [731. Astounding Stories of Super-Science May 1931: The Exile of Time - Chapter IX](https://hackernoon.com/astounding-stories-of-super-science-may-1931-the-exile-of-time-chapter-ix)
+![](https://cdn.hackernoon.com/images/eYmBPfrqu8d2TdijQi8nkPK2yGl2-0el3jqp.jpeg)
+Mary Atwood and I lay on the metal grid floor of the largest Time-cage.
+
+### [732. Pride and Prejudice: Chapter 12](https://hackernoon.com/pride-and-prejudice-chapter-12)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-rj93jha.jpeg)
+Pride and Prejudice, by Jane Austen, is part of HackerNoon’s Book Blog Post series.
+
+### [733. On-Line Data-Acquisition Systems in Nuclear Physics, 1969: A LARGE SYSTEM BASED ON A SINGLE COMPUTER](https://hackernoon.com/on-line-data-acquisition-systems-in-nuclear-physics-1969-a-large-system-based-on-a-single-computer)
+![](https://cdn.hackernoon.com/images/8LdafXdNDSdu5gzZmple4rnDqI23-ng93jjl.jpeg)
+Since early 1966, Yale and IBM Research have been engaged in a joint study in the application of computers to nuclear-data acquisition.
+
+### [734. The Essays of Adam Smith: Part I, SEC. III, Chapter III.](https://hackernoon.com/the-essays-of-adam-smith-part-i-sec-iii-chapter-iii)
+![](https://cdn.hackernoon.com/images/fisV3ygrKHQzoANO3juQvFMtA3r2-lmg3nud.jpeg)
+In equal degrees of merit there is scarce any man who does not respect more the rich and the great, than the poor and the humble.
+
+### [735. Venza the Venus Girl](https://hackernoon.com/venza-the-venus-girl)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-an93tgw.jpeg)
+IT WAS shortly after that mid-day meal when I encountered Venza sitting on the starlit deck.
+
+### [736. A Tract on Monetary Reform: Chapter III - III. The Seasonal Fluctuation](https://hackernoon.com/a-tract-on-monetary-reform-chapter-iii-iii-the-seasonal-fluctuation)
+![](https://cdn.hackernoon.com/images/dS8vTXHOEGNxenpaKFuzuCW5Y1x1-c693ite.jpeg)
+“The arrangement would not last for any appreciable period unless, as a preliminary, the Governments took the necessary steps to balance their budgets.
+
+
+### [737. The Origin of Philosophy](https://hackernoon.com/the-essays-of-adam-smith-the-history-of-astronomy-section-iii)
+![](https://cdn.hackernoon.com/images/fisV3ygrKHQzoANO3juQvFMtA3r2-7wb3j60.jpeg)
+Comets, eclipses, thunder, lightning, and other meteors, by their greatness, naturally overawe him, and he views them with a reverence that approaches to fear.
+
+### [738. Astounding Stories of Super-Science April 1931:  The Exile of Time - Chapter III](https://hackernoon.com/astounding-stories-of-super-science-april-1931-the-exile-of-time-chapter-iii)
+![](https://cdn.hackernoon.com/images/eYmBPfrqu8d2TdijQi8nkPK2yGl2-2493qvt.jpeg)
+Astounding Stories of Super-Science April 1931, by Astounding Stories is part of HackerNoon’s Book Blog Post series. You can jump to any chapter in this book here. The Exile of Time - Chapter III: Tugh, the Cripple
+
+
+### [739. Pride and Prejudice: Chapter 38](https://hackernoon.com/pride-and-prejudice-chapter-38)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-i993nto.jpeg)
+Pride and Prejudice, by Jane Austen, is part of HackerNoon’s Book Blog Post series. 
+
+### [740. An Essay Concerning Humane Understanding, Volume II: Book III, Chapter II. ](https://hackernoon.com/an-essay-concerning-humane-understanding-volume-ii-book-iii-chapter-ii)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-7l93n74.jpeg)
+An Essay Concerning Humane Understanding, Volume II Book III, Chapter II, by John Locke is part of HackerNoon’s Book Blog Post series. 
+
+
+### [741. Stories for Telling: The Three Cakes](https://hackernoon.com/stories-for-telling-the-three-cakes)
+![](https://cdn.hackernoon.com/images/UUZZjfJqIWXx3OTAxCc5FR9kPtw2-28a3jiu.jpeg)
+“With all my heart,” said the cook, and she made a cake. It was as big as—let me see—as big as the moon.
+
+### [742. The Science of Getting Rich: Chapter 11](https://hackernoon.com/the-science-of-getting-rich-chapter-11)
+![](https://cdn.hackernoon.com/images/MWOFxJyDOLb9SogBhG2AsIszVL22-1a93vks.jpeg)
+The Science of Getting Rich by Wallace D. Wattles is part of HackerNoon’s Book Blog Post series.
+
+### [743. The Human Side of Animals: Chapter 3 - Animals at play](https://hackernoon.com/the-human-side-of-animals-chapter-3-animals-at-play)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-kh93nb3.jpeg)
+The Human Side of Animals by Royal Dixon is part of HackerNoon’s Book Blog Post series. 
+
+### [744. The Count of Monte Cristo, Illustrated: Chapter 49 - Haydée](https://hackernoon.com/the-count-of-monte-cristo-illustrated-chapter-49-haydee)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-8793nrt.jpeg)
+The Count of Monte Cristo, Volume Three, Chapter 49: Haydée by Alexandre Dumas, père is part of HackerNoon’s Book Blog Post series. 
+
+### [745. THE TREASURE IN THE FOREST](https://hackernoon.com/the-treasure-in-the-forest)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-dfj3l9b.jpeg)
+"This curved and twisting line is the river—I could do with a drink now!—and this star is the place."
+
+### [746. The Art Of Writing & Speaking The English Language : Chapter XI - The Power of Simplicity](https://hackernoon.com/the-art-of-writing-and-speaking-the-english-language-chapter-xi-the-power-of-simplicity)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-w793n4h.jpeg)
+Edward Everett afterward remarked, “I wish I could have produced in two hours the effect that Lincoln produced in two minutes.” 
+
+### [747. THE FUNDAMENTAL IDEA OF SOCIALISM](https://hackernoon.com/the-fundamental-idea-of-socialism)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-irl3liu.jpeg)
+He wants a complete organization for all those human affairs that are of collective importance.
+
+### [748. The Count of Monte Cristo, Illustrated: Chapter 10 - The King’s Closet at the Tuileries](https://hackernoon.com/the-count-of-monte-cristo-illustrated-chapter-10-the-kings-closet-at-the-tuileries)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-4h93mc3.jpeg)
+The Count of Monte Cristo, Volume One, Chapter 10: The King’s Closet at the Tuileries by Alexandre Dumas, père is part of HackerNoon’s Book Blog Post series. 
+
+### [749. Frankenstein or, The Modern Prometheus: Chapter XXIII](https://hackernoon.com/frankenstein-or-the-modern-prometheus-chapter-xxiii)
+![](https://cdn.hackernoon.com/images/KGKqGgldsBeFIitE2M9aXBqZ4al1-aff3jzl.jpeg)
+I had been calm during the day, but so soon as night obscured the shapes of objects, a thousand fears arose in my mind. 
+
+### [750. The Odyssey: Book XVIII](https://hackernoon.com/the-odyssey-book-xviii)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-2d93ne5.jpeg)
+The Odyssey, by Homer and translated by Samuel Butler is part of HackerNoon’s Book Blog Post series. 
+
+### [751. The Evolution of Modern Medicine: Chapter II - ASKLEPIOS](https://hackernoon.com/the-evolution-of-modern-medicine-chapter-ii-asklepios)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-7f93nwl.jpeg)
+The Evolution of Modern Medicine, by William Osler is part of HackerNoon’s Book Blog Post series. 
+
+### [752. The Hound of the Baskervilles: Chapter 3 - The Problem](https://hackernoon.com/the-hound-of-the-baskervilles-chapter-3-the-problem)
+![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-3a93vmt.jpeg)
+The Hound of the Baskervillesby Arthur Conan Doyle is part of HackerNoon’s Book Blog Post series. You can jump to any chapter in this book here.
+
+### [753. THE DEPARTURE](https://hackernoon.com/the-departure)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-7sx3lhp.jpeg)
+Dr. Martineau said something of no consequence about its being a very comfortable little car.
+
+### [754. The Man of Science](https://hackernoon.com/the-man-of-science)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-k8c3lcz.jpeg)
+"This—ahem—gentleman," said the Vicar, "or—ah—Angel"—the Angel bowed—"is suffering from a gunshot wound."
+
+### [755. THE PURPLE PILEUS](https://hackernoon.com/the-purple-pileus)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-tvq3ld7.jpeg)
+A small shopman is in such a melancholy position, if his wife turns out a disloyal partner.
+
+### [756. The Jungle: Chapter XVI ](https://hackernoon.com/the-jungle-chapter-xvi)
+![](https://cdn.hackernoon.com/images/H8IE003WryYGI5JHjZEKuN7X4zx2-im93jns.jpeg)
+Ah, if only he could have foreseen it—but then, he would have foreseen it, if he had not been a fool!
+
+### [757. Oliver Twist: Chapter VI](https://hackernoon.com/oliver-twist-chapter-vi)
+![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-mr93nmv.jpeg)
+Oliver Twist, by Charles Dickens is part of HackerNoon’s Book Blog Post series. You can jump to any chapter in this book here: [LINK TO TABLE OF LINK]. Chapter VI: Oliver, Being Goaded by the Taunts of Noah, Rouses Into Action, and rather Astonishes Him
+
+### [758. Pride and Prejudice: Chapter 24](https://hackernoon.com/pride-and-prejudice-chapter-24)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-pb93nuc.jpeg)
+Pride and Prejudice, by Jane Austen, is part of HackerNoon’s Book Blog Post series. 
+
+### [759. The Science of Getting Rich: Chapter 17](https://hackernoon.com/the-science-of-getting-rich-chapter-17)
+![](https://cdn.hackernoon.com/images/MWOFxJyDOLb9SogBhG2AsIszVL22-x493p6i.jpeg)
+The Science of Getting Rich  by Wallace D. Wattles is part of
+ [HackerNoon’s Book Blog Post series](https://hackernoon.com/u/hackernoonbooks) . The table of Links for this book can be found here:
+[https://app.hackernoon.com/drafts/0rPO8JkhRaDY0rLVCaVL] (https://app.hackernoon.com/drafts/0rPO8JkhRaDY0rLVCaVL*)
+
+
+### [760. An Essay Concerning Humane Understanding, Volume I: Book II, Chapter XX.](https://hackernoon.com/an-essay-concerning-humane-understanding-volume-i-book-ii-chapter-xx)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-fb93npe.jpeg)
+An Essay Concerning Humane Understanding, Volume I: Book II, Chapter XX
+, by John Locke is part of HackerNoon’s Book Blog Post series. 
+
+### [761. The Evolution of Modern Medicine: CHAPTER IV — THE RENAISSANCE AND THE RISE OF ANATOMY AND PHYSIOLOG](https://hackernoon.com/the-evolution-of-modern-medicine-chapter-iv-the-renaissance-and-the-rise-of-anatomy-and-physiolog)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-ia93n4j.jpeg)
+The Evolution of Modern Medicine, by William Osler is part of HackerNoon’s Book Blog Post series. 
+
+### [762. The Machinery of Inheritance](https://hackernoon.com/the-machinery-of-inheritance)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-mm93onn.jpeg)
+An introduction to Asimov's Genetics of Radiation. 
+
+
+### [763. Great Expectations - TABLE OF LINKS](https://hackernoon.com/great-expectations-table-of-links)
+![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-mh93uue.jpeg)
+Great Expectations, by Charles Dickens is part of HackerNoon’s Book Blog Post series. 
+
+### [764. THE CAREER PREVAILS](https://hackernoon.com/the-career-prevails)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-zef3lkj.jpeg)
+He was pointed out to a raw hand, by the raw hand’s experienced fellow-townsman, as “that beast Lewisham—awful swat.
+
+### [765. The Art Of Writing & Speaking The English Language : Chapter VII - Reserve](https://hackernoon.com/the-art-of-writing-and-speaking-the-english-language-chapter-vii-reserve)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-g093nmz.jpeg)
+It has been hinted that the rhetorical, impassioned, and lofty styles are in a measure dangerous. The natural corrective of that danger is artistic reserve.
+
+### [766. PEOPLE WHOSE BOOTS DON’T HURT THEM](https://hackernoon.com/people-whose-boots-dont-hurt-them)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-hif3lsv.jpeg)
+Everybody does not suffer misery from boots.
+
+### [767. HOW TO FIND THE PLANETS](https://hackernoon.com/how-to-find-the-planets)
+![](https://cdn.hackernoon.com/images/4grCCSQyiCgNmngRUPrMzNtQ2wm2-yh1i3kl6.jpeg)
+There is no reason why everybody should not know the principal planets at sight nearly as well as everybody knows the moon.
+
+### [768. The Count of Monte Cristo, Illustrated: Chapter 51 - Pyramus and Thisbe](https://hackernoon.com/the-count-of-monte-cristo-illustrated-chapter-51-pyramus-and-thisbe)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-pf93nvu.jpeg)
+The Count of Monte Cristo,Volume Three, Chapter 51 by Alexandre Dumas, père is part of HackerNoon’s Book Blog Post series. 
+
+
+### [769. Astounding Stories of Super-Science June 1931: Manape the Mighty - Chapter XI](https://hackernoon.com/astounding-stories-of-super-science-june-1931-manape-the-mighty-chapter-xi)
+![](https://cdn.hackernoon.com/images/eYmBPfrqu8d2TdijQi8nkPK2yGl2-po93j60.jpeg)
+Slowly she began to move. Moans escaped her lips, little pathetic moans, and the name of Lee Bentley.
+
+
+### [770. Taxes on Profits](https://hackernoon.com/on-the-principles-of-political-economy-and-taxation-chapter-xiii-taxes-on-profits)
+![](https://cdn.hackernoon.com/images/KP4e6RV2jgPi4eQXMsGNZwCmprw1-0r93kt4.jpeg)
+Taxes on those commodities, which are generally denominated luxuries, fall on those only who make use of them.
+
+### [771. THE AGE OF REPTILES](https://hackernoon.com/the-age-of-reptiles)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-62d3lbq.jpeg)
+Age by age and with abundant fluctuations that mitigation came.
+
+### [772. THE EARTH IN SPACE AND TIME](https://hackernoon.com/the-earth-in-space-and-time)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-he93l50.jpeg)
+Astronomers and geologists and those who study physics have been able to tell us something of the origin and history of the earth.
+
+### [773. Astounding Stories of Super-Science June 1931: Manape the Mighty - Chapter XIII](https://hackernoon.com/astounding-stories-of-super-science-june-1931-manape-the-mighty-chapter-xiii)
+![](https://cdn.hackernoon.com/images/eYmBPfrqu8d2TdijQi8nkPK2yGl2-w9e3j1d.jpeg)
+He had read somewhere that the great apes sorrowed when any of their members died.
+
+### [774. Zoonomia; Or, The Laws of Organic Life - Table of Links](https://hackernoon.com/zoonomia-or-the-laws-of-organic-life-table-of-links)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-6sa3osy.jpeg)
+Zoonomia, Vol. I Or, the Laws of Organic Life, by Erasmus Darwin, is part of HackerNoon’s Book Blog Post series. 
+
+### [775. The Story of Nuclear Energy, Volume 1 (of 3): Energy - Chemical Energy](https://hackernoon.com/the-story-of-nuclear-energy-volume-1-of-3-energy-chemical-energy)
+![](https://cdn.hackernoon.com/images/P9UdA5H40seCaH3OOmFtrY8785H3-jra3q5t.jpeg)
+Worlds Within Worlds: The Story of Nuclear Energy, Volume 1 (of 3), by Isaac Asimov is part of HackerNoon’s Book Blog Post series. You can jump to any chapter in this book here. Volume I, ENERGY: Chemical Energy
+
+### [776. Astounding Stories of Super-Science June 1931: Manape the Mighty - Chapter VI ](https://hackernoon.com/astounding-stories-of-super-science-june-1931-manape-the-mighty-chapter-vi)
+![](https://cdn.hackernoon.com/images/eYmBPfrqu8d2TdijQi8nkPK2yGl2-prd3j6h.jpeg)
+The thing that Barter then contrived was destined to remain forever in the memory of Bentley as the most ghastly thing he had ever experienced.
+
+### [777. The Wonderful Visit by H. G. Wells - Table of Links](https://hackernoon.com/the-wonderful-visit-by-h-g-wells-table-of-links)
+![](https://cdn.hackernoon.com/images/t4EWQ6W18hPhx6xE6pfPwMH58EL2-sk93lmb.jpeg)
+The Wonderful Visit by H. G. Wells, is part of the HackerNoon Books Series. Read this book online for free on HackerNoon!
+
+### [778. Astounding Stories of Super-Science June 1931: Manape the Mighty - Chapter X](https://hackernoon.com/astounding-stories-of-super-science-june-1931-manape-the-mighty-chapter-x)
+![](https://cdn.hackernoon.com/images/eYmBPfrqu8d2TdijQi8nkPK2yGl2-0f93jym.jpeg)
+What was Barter doing now? Would he not be striving to watch the course of his experiment?
+
+
+### [779. Fly Through the Shires of Literature on a Motor-Car](https://hackernoon.com/fly-through-the-shires-of-literature-on-a-motor-car)
+![](https://cdn.hackernoon.com/images/MUo6MihNAVUIcUvRBbcToKZ7MKh1-ez93qav.jpeg)
+How to Live on 24 Hours a Day, by Arnold Bennett is part of HackerNoon’s Book Blog Post series. Chapter XI: Serious Reading 
+
+### [780. Adventures of Huckleberry Finn: Chapter XXXIX](https://hackernoon.com/adventures-of-huckleberry-finn-chapter-xxxix)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-x793m6a.jpeg)
+Adventures of Huckleberry Finn, by Mark Twain (Samuel Clemens) is part of HackerNoon’s Book Blog Post series. 
+
+### [781. The Atom-Smasher](https://hackernoon.com/the-atom-smasher)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-bub3sic.jpeg)
+It was sublime and terrible, and on the result of that conflict.
+
+### [782. Frankenstein or, The Modern Prometheus: Chapter XV](https://hackernoon.com/frankenstein-or-the-modern-prometheus-chapter-xv)
+![](https://cdn.hackernoon.com/images/KGKqGgldsBeFIitE2M9aXBqZ4al1-zfb3jlv.jpeg)
+What did this mean? Who was I? What was I? Whence did I come? What was my destination? These questions continually recurred, but I was unable to solve them.
+
+### [783. Pride and Prejudice: Chapter 27](https://hackernoon.com/pride-and-prejudice-chapter-27)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-i793n4x.jpeg)
+Pride and Prejudice, by Jane Austen, is part of HackerNoon’s Book Blog Post series. 
+
+### [784. Parenthesis on Angels](https://hackernoon.com/parenthesis-on-angels)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-ira3lqh.jpeg)
+Her callings are domestic and sympathetic, she watches over a cradle or assists a sister soul heavenward.
+
+### [785. The Schoolmaster and the Empire](https://hackernoon.com/the-schoolmaster-and-the-empire)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-tjd3loi.jpeg)
+An Englishman looks at the world by H. G. Wells, is part of the HackerNoon Books Series. 
+
+### [786. SOME PALMER METHOD FACTS—A PERSONAL TALK](https://hackernoon.com/the-palmer-method-of-business-writing-some-palmer-method-factsa-personal-talk)
+![](https://cdn.hackernoon.com/images/jvjajoMzXGenl6tjMR4f2EWBuIr1-el93jar.jpeg)
+
+The Palmer Method is a text-book on practical writing and should be studied as such—not treated as a copy-book.
+
+### [787. Dissecting Vacuum Tube Transmitters](https://hackernoon.com/dissecting-vacuum-tube-transmitters)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-9m93pth.jpeg)
+To make a tube set up powerful oscillations then, it is only necessary that an oscillation circuit shall be provided.
+
+### [788. The Count of Monte Cristo, Illustrated: Chapter 4 - Conspiracy](https://hackernoon.com/the-count-of-monte-cristo-illustrated-chapter-4-conspiracy)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-k393mfb.jpeg)
+The Count of Monte Cristo, Volume One, Chapter 4: Conspiracy by Alexandre Dumas, père is part of HackerNoon’s Book Blog Post series.
+
+### [789. THE RACES OF MANKIND](https://hackernoon.com/the-races-of-mankind)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-b6i3l11.jpeg)
+It is necessary now to discuss plainly what is meant by a phrase, used often very carelessly, “The Races of Mankind.”
+
+### [790. THE SWORD OF PEACE](https://hackernoon.com/the-sword-of-peace)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-0oi3l7m.jpeg)
+Europe is at war!
+
+
+### [791. Astounding Stories of Super-Science May 1931: Dark Moon - Chapter IX](https://hackernoon.com/astounding-stories-of-super-science-may-1931-dark-moon-chapter-ix)
+![](https://cdn.hackernoon.com/images/eYmBPfrqu8d2TdijQi8nkPK2yGl2-l2g3jqm.jpeg)
+The memory that had registered only in some corner of a mind deeper than the conscious, came to the surface. 
+
+### [792. David Copperfield: Chapter 6 - I Enlarge My Circle of Acquaintance](https://hackernoon.com/david-copperfield-chapter-6-i-enlarge-my-circle-of-acquaintance)
+![](https://cdn.hackernoon.com/images/u95KCwq4YOewwTvOFZTE2c39Icz1-3ec3i2k.jpeg)
+One day I was informed by Mr. Mell that Mr. Creakle would be home that evening.
+
+### [793. An Inquiry into the Nature and Causes of the Wealth of Nations: Book III - Chapter II](https://hackernoon.com/an-inquiry-into-the-nature-and-causes-of-the-wealth-of-nations-book-iii-chapter-ii)
+![](https://cdn.hackernoon.com/images/4O9wiIuRTiRbwA1feRRcV0OGCb92-r7d3iy7.jpeg)
+This original engrossing of uncultivated lands, though a great, might have been but a transitory evil.
+
+### [794. The Essays of Adam Smith: Of the Affinity between Music, Dancing, and Poetry.](https://hackernoon.com/the-essays-of-adam-smith-of-the-affinity-between-music-dancing-and-poetry)
+![](https://cdn.hackernoon.com/images/fisV3ygrKHQzoANO3juQvFMtA3r2-iia3jzw.jpeg)
+The simple note of such instruments, it is true, is generally a very clear, or what is called a melodious, sound.
+
+### [795. The Count of Monte Cristo, Illustrated: Chapter 76 - Progress of Cavalcanti the Younger](https://hackernoon.com/the-count-of-monte-cristo-illustrated-chapter-76-progress-of-cavalcanti-the-younger)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-ou93o7c.jpeg)
+The Count of Monte Cristo Volume Four, Chapter 76: Progress of Cavalcanti the Younger,by Alexandre Dumas, père is part of HackerNoon’s Book Blog Post series.
+
+
+### [796. The Palmer Method of Business Writing: Lesson 80](https://hackernoon.com/the-palmer-method-of-business-writing-lesson-80)
+![](https://cdn.hackernoon.com/images/jvjajoMzXGenl6tjMR4f2EWBuIr1-ze93k7o.jpeg)
+Regularity and continuity of motion are very essential.
+
+### [797. The Palmer Method of Business Writing: Lesson 50](https://hackernoon.com/the-palmer-method-of-business-writing-lesson-50)
+![](https://cdn.hackernoon.com/images/jvjajoMzXGenl6tjMR4f2EWBuIr1-na93kfm.jpeg)
+If slant is troublesome, study and practice this drill faithfully.
+
+
+### [798. "THE WHITE MAN'S BURTHEN"](https://hackernoon.com/the-white-mans-burthen)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-mos3l1t.jpeg)
+The ghosts of the thirst-tormented Hereros rise up in their thousands from the African dust, protesting.
+
+### [799. Oliver Twist: Chapter XVIII](https://hackernoon.com/oliver-twist-chapter-xviii)
+![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-sz93rpl.jpeg)
+Oliver Twist, by Charles Dickens is part of HackerNoon’s Book Blog Post series. You can jump to any chapter in this book here: [LINK TO TABLE OF LINK]. Chapter XVIII: HOW OLIVER PASSED HIS TIME IN THE IMPROVING SOCIETY OF HIS REPUTABLE FRIENDS
+
+### [800. The Contemporary Novel](https://hackernoon.com/the-contemporary-novel)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-igg3l5z.jpeg)
+An Englishman looks at the world by H. G. Wells, is part of the HackerNoon Books Series. 
+
+### [801. THE END OF THE OLD ORDER](https://hackernoon.com/the-end-of-the-old-order)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-i7m3lyq.jpeg)
+Graham hesitated, and then walked forward to where the broken verge of wall dropped sheer. He stood looking down, a lonely, tall, black figure against the sky.
+
+### [802. The Human Side of Animals: Foreward](https://hackernoon.com/the-human-side-of-animals-foreward)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-aj93n3p.jpeg)
+The Human Side of Animals by Royal Dixon is part of HackerNoon’s Book Blog Post series. 
+
+
+### [803. Stories for Telling: Little In-a-Minute](https://hackernoon.com/stories-for-telling-little-in-a-minute)
+![](https://cdn.hackernoon.com/images/UUZZjfJqIWXx3OTAxCc5FR9kPtw2-k993jke.jpeg)
+“Come back. Oh, do come back!” called Dicky to the little ship, but the ship only sailed the faster.
+
+### [804. THE NEW EDUCATION](https://hackernoon.com/the-new-education)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-g4o3lvf.jpeg)
+The exact sciences lead to the administrative work of industrialism, and to general economics.
+
+### [805. Frankenstein or, The Modern Prometheus: Chapter XXII](https://hackernoon.com/frankenstein-or-the-modern-prometheus-chapter-xxii)
+![](https://cdn.hackernoon.com/images/KGKqGgldsBeFIitE2M9aXBqZ4al1-7ue3j0t.jpeg)
+I soon found that I had overtaxed my strength and that I must repose before I could continue my journey.
+
+### [806. An Essay Concerning Humane Understanding, Volume I: THE EPISTLE TO THE READER](https://hackernoon.com/an-essay-concerning-humane-understanding-volume-i-the-epistle-to-the-reader)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-ub93j6a.jpeg)
+An Essay Concerning Humane Understanding, Volume I, THE EPISTLE TO THE READER by John Locke is part of HackerNoon’s Book Blog Post series. 
+
+### [807. Great Expectations: Chapter I ](https://hackernoon.com/great-expectations-chapter-i)
+![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-4d93u9y.jpeg)
+Great Expectations, by Charles Dickens is part of HackerNoon’s Book Blog Post series. 
+
+### [808. Lady Hammergallow's View](https://hackernoon.com/lady-hammergallows-view)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-h1j3lgc.jpeg)
+"Mr Hilyer, I protest. I know. Not anything you can say will alter my opinion one jot. Don't try. I never suspected you were nearly such an interesting man."
+
+### [809. David Copperfield: Chapter 34 - My Aunt Astonishes Me](https://hackernoon.com/david-copperfield-chapter-34-my-aunt-astonishes-me)
+![](https://cdn.hackernoon.com/images/u95KCwq4YOewwTvOFZTE2c39Icz1-1c93jty.jpeg)
+As if, in love, joy, sorrow, hope, or disappointment; in all emotions; my heart turned naturally there, and found its refuge and best friend.
+
+### [810. Oliver Twist: Chapter XLII](https://hackernoon.com/oliver-twist-chapter-xlii)
+![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-5593s5p.jpeg)
+Oliver Twist, by Charles Dickens is part of HackerNoon’s Book Blog Post series. You can jump to any chapter in this book here: [LINK TO TABLE OF LINK]. Chapter XLII: An Old Acquintance Of Oliver's, Exhibiting Decided Marks Of Genius, Becomes A Public Character In The Metropolis
+
+### [811. An Inquiry into the Nature and Causes of the Wealth of Nations - Table of Links](https://hackernoon.com/an-inquiry-into-the-nature-and-causes-of-the-wealth-of-nations-table-of-links)
+![](https://cdn.hackernoon.com/images/t4EWQ6W18hPhx6xE6pfPwMH58EL2-4993j6a.jpeg)
+An Inquiry into the Nature and Causes of the Wealth of Nations, by Adam Smith is part of HackerNoon’s Books series. Raed this book online for free on HackerNoon
+
+### [812. The Radio Amateur's Hand Book: Introduction](https://hackernoon.com/the-radio-amateurs-hand-book-introduction)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-ta93oly.jpeg)
+Before delving into the mysteries of receiving and sending messages without wires, we look at the history of the art and its present-day applications. 
+
+### [813. Small Puddle of Freedom](https://hackernoon.com/small-puddle-of-freedom)
+![](https://cdn.hackernoon.com/images/YDCOrSwgPAhTZ4zeN2IT63aiq0K3-a593l50.jpeg)
+Free software is a moral issue for Richard Stallman believes in freedom and free software.
+
+### [814. Volume 2: Discovery of the Neutron](https://hackernoon.com/volume-2-discovery-of-the-neutron)
+![](https://cdn.hackernoon.com/images/P9UdA5H40seCaH3OOmFtrY8785H3-z8b3q6y.jpeg)
+Worlds Within Worlds: The Story of Nuclear Energy, Volume 2 (of 3), by Isaac Asimov is part of HackerNoon’s Book Blog Post series. You can jump to any chapter in this book here. Volume II, THE NEUTRON: Discovery of the Neutron
+
+### [815. A CATASTROPHE](https://hackernoon.com/a-catastrophe)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-o693k72.jpeg)
+An irritable old gentleman, very hot and red about the face, and in a heavy fur-lined cloak, came in noisily. Mrs. Winslow vanished.
+
+### [816. An Essay Concerning Humane Understanding, Volume I: Book II, Chapter XXIX.](https://hackernoon.com/an-essay-concerning-humane-understanding-volume-i-book-ii-chapter-xxix)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-sn93nmp.jpeg)
+An Essay Concerning Humane Understanding, Volume I Book II, Chapter XXIX, by John Locke is part of HackerNoon’s Book Blog Post series.
+
+### [817. Astounding Stories of Super-Science June 1931: Manape the Mighty - Chapter VII](https://hackernoon.com/astounding-stories-of-super-science-june-1931-manape-the-mighty-chapter-vii)
+![](https://cdn.hackernoon.com/images/eYmBPfrqu8d2TdijQi8nkPK2yGl2-gje3jqb.jpeg)
+
+
+### [818. The Palmer Method of Business Writing: Lesson 78](https://hackernoon.com/the-palmer-method-of-business-writing-lesson-78)
+![](https://cdn.hackernoon.com/images/jvjajoMzXGenl6tjMR4f2EWBuIr1-o393kdw.jpeg)
+Good movement leads to good writing; good position leads to good movement.
+
+### [819. Frankenstein or, The Modern Prometheus: Chapter XII](https://hackernoon.com/frankenstein-or-the-modern-prometheus-chapter-xii)
+![](https://cdn.hackernoon.com/images/KGKqGgldsBeFIitE2M9aXBqZ4al1-zi93j35.jpeg)
+"The cottagers arose the next morning before the sun. The young woman arranged the cottage and prepared the food, and the youth departed after the first meal."
+
+### [820. David Copperfield: Chapter 25 - Good And Bad Angles](https://hackernoon.com/david-copperfield-chapter-25-good-and-bad-angles)
+![](https://cdn.hackernoon.com/images/u95KCwq4YOewwTvOFZTE2c39Icz1-ix93j5v.jpeg)
+I could scarcely lay claim to the name: I was so disturbed by the conviction that the letter came from Agnes.
+
+### [821. IN THE SILENT ROOMS](https://hackernoon.com/in-the-silent-rooms)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-mrg3lf5.jpeg)
+“Thi Man huwdbi Kin” forced itself on him as “The Man who would be King.”
+
+### [822. Making Bread - (continued)](https://hackernoon.com/no-iv-making-breadcontinued)
+![](https://cdn.hackernoon.com/images/3OocmXO29OchssYFGtBysl7PHez1-4293kei.jpeg)
+Cottage Economy,To Which Is Added The Poor Man's Friend, by William Cobbett is part of HackerNoon’s Book Blog Post series. You can jump to any chapter in this book here: [LINK TO TABLE OF LINK]. No. IV. MAKING BREAD—(CONTINUED.)
+
+### [823. The Art Of Writing & Speaking The English Language : Chapter VI](https://hackernoon.com/the-art-of-writing-and-speaking-the-english-language-chapter-vi)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-bh93ngy.jpeg)
+The Puritans were men whose minds had derived a peculiar character from the daily contemplation of superior beings and eternal interests.
+
+### [824. The Art Of Writing & Speaking The English Language Word-Study: General Introduction](https://hackernoon.com/the-art-of-writing-and-speaking-the-english-language-word-study-general-introduction)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-0b93nal.jpeg)
+In such a flood it would seem that we should have no difficulty in obtaining good guides for our study.
+
+### [825. David Copperfield: Chapter 47 - Martha](https://hackernoon.com/david-copperfield-chapter-47-martha)
+![](https://cdn.hackernoon.com/images/u95KCwq4YOewwTvOFZTE2c39Icz1-dqk3j4s.jpeg)
+A glimpse of the river through a dull gateway, where some waggons were housed for the night, seemed to arrest my feet.
+
+### [826. The Evolution of Modern Medicine: Chapter III - BYZANTINE MEDICINE](https://hackernoon.com/the-evolution-of-modern-medicine-chapter-iii-byzantine-medicine)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-sc93n62.jpeg)
+The Evolution of Modern Medicine, by William Osler is part of HackerNoon’s Book Blog Post series. 
+
+### [827. The War of the Worlds: Chapter XIII. HOW I FELL IN WITH THE CURATE](https://hackernoon.com/the-war-of-the-worlds-by-h-g-wells-xiii-how-i-fell-in-with-the-curate)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-6093kge.jpeg)
+“I was walking through the roads to clear my brain,” he said. “And suddenly—fire, earthquake, death!”
+
+
+### [828. The Strange Case Of Dr. Jekyll And Mr. Hyde: Chapter IV - The Carew murder case ](https://hackernoon.com/the-strange-case-of-dr-jekyll-and-mr-hyde-chapter-iv-the-carew-murder-case)
+![](https://cdn.hackernoon.com/images/jY39imIt1lbinKxzZTAT18igh0D2-eeb3h9z.jpeg)
+The murderer was gone long ago; but there lay his victim in the middle of the lane, incredibly mangled.
+
+### [829. The Essays of Adam Smith: Part VI, Section II, Chapter I.](https://hackernoon.com/the-essays-of-adam-smith-part-vi-section-ii-chapter-i)
+![](https://cdn.hackernoon.com/images/fisV3ygrKHQzoANO3juQvFMtA3r2-ald3jed.jpeg)
+Every man feels his own pleasures and his own pains more sensibly than those of other people. 
+
+### [830. The Spokesmen of the Gens](https://hackernoon.com/the-spokesmen-of-the-gens)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-tc93unp.jpeg)
+FOR a long moment Sarka looked broodingly out across the world beyond the metalized glass which formed the curving dome of his laboratory roof.
+
+### [831. The Essays of Adam Smith: ADAM SMITH ON THE EXTERNAL SENSES - Of the Sense of HEARING.](https://hackernoon.com/the-essays-of-adam-smith-adam-smith-on-the-external-senses-of-the-sense-of-hearing)
+![](https://cdn.hackernoon.com/images/fisV3ygrKHQzoANO3juQvFMtA3r2-7ee3j1b.jpeg)
+Sound is not naturally felt as resisting or pressing upon the organ, or as in any respect external to, or independent of, the organ.
+
+### [832. Moby-Dick; or The Whale: Chapter 9 - The Sermon](https://hackernoon.com/moby-dick-or-the-whale-chapter-9-the-sermon)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-dt93jxh.jpeg)
+Moby-Dick; or The Whale: Chapter 9 - The Sermon by Herman Melville is part of HackerNoon’s Book Blog Post series.  
+
+
+### [833. The Science of Getting Rich: Chapter 5](https://hackernoon.com/the-science-of-getting-rich-chapter-5)
+![](https://cdn.hackernoon.com/images/MWOFxJyDOLb9SogBhG2AsIszVL22-b593vnc.jpeg)
+The Science of Getting Rich by Wallace D. Wattles is part of HackerNoon’s Book Blog Post series.
+
+### [834. The Evolution of Modern Medicine: Chapter III - MEDIAEVAL PRACTICE](https://hackernoon.com/the-evolution-of-modern-medicine-chapter-iii-mediaeval-practice)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-k093nls.jpeg)
+The Evolution of Modern Medicine, by William Osler is part of HackerNoon’s Book Blog Post series. 
+
+### [835. Oliver Twist: Chapter XXI](https://hackernoon.com/oliver-twist-chapter-xxi)
+![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-tm93r48.jpeg)
+Oliver Twist, by Charles Dickens is part of HackerNoon’s Book Blog Post series. You can jump to any chapter in this book here: [LINK TO TABLE OF LINK]. Chapter XXI:  The Expedition
+
+### [836. SUMERIA, EARLY EGYPT AND WRITING](https://hackernoon.com/sumeria-early-egypt-and-writing)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-1m1h3lof.jpeg)
+About the same time, for chronology is still vague, the great history of Egypt was beginning.
+
+### [837. The Human Side of Animals: Chapter 5 - Miners and Excavators](https://hackernoon.com/the-human-side-of-animals-chapter-5-miners-and-excavators)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-eo93nvj.jpeg)
+The Human Side of Animals by Royal Dixon is part of HackerNoon’s Book Blog Post series. 
+
+
+### [838. The Fifth-Dimension Catapult](https://hackernoon.com/the-fifth-dimension-catapult)
+![](https://cdn.hackernoon.com/images/a-futuristic-time-machine-cldwv3mjk000201s6e2394mye.png)
+The story of Tommy Reames' rescue of Professor Denham and his daughter marooned in the fifth dimension.
+
+### [839. ASH-MAIDEN](https://hackernoon.com/ash-maiden)
+![](https://cdn.hackernoon.com/images/YYVm40lm97OUFI8gTZUmuTBbo353-zao3jpn.jpeg)
+And now the bird threw down to her a dress which was more splendid and magnificent than any she had yet had, and the slippers were golden.
+
+
+### [840. The Art Of Writing & Speaking The English Language : Chapter VIII - Criticism](https://hackernoon.com/the-art-of-writing-and-speaking-the-english-language-chapter-viii-criticism)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-fi93na1.jpeg)
+Matthew Arnold does not embellish his criticism, nor does he make any special appeal to the feelings or emotions of his readers. Not so Ruskin.
+
+### [841. Black Emptiness for Twenty Million Times a Million Miles](https://hackernoon.com/black-emptiness-for-twenty-million-times-a-million-miles)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-h8h3kq5.jpeg)
+The Star was a 'strange wanderer' that appeared early in the 20th century. 
+
+
+### [842. The Odyssey: Book XXI](https://hackernoon.com/the-odyssey-book-xxi)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-kh93ngd.jpeg)
+The Odyssey, by Homer and translated by Samuel Butler is part of HackerNoon’s Book Blog Post series. 
+
+### [843. David Copperfield: Chapter 52 - I Assist At An Explosion](https://hackernoon.com/david-copperfield-chapter-52-i-assist-at-an-explosion)
+![](https://cdn.hackernoon.com/images/u95KCwq4YOewwTvOFZTE2c39Icz1-6593jt9.jpeg)
+I saw, in my aunt’s face, that she began to give way now, and Dora brightened again, as she saw it too.
+
+### [844. Oliver Twist: Chapter XX](https://hackernoon.com/oliver-twist-chapter-xx)
+![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-zf93re9.jpeg)
+Oliver Twist, by Charles Dickens is part of HackerNoon’s Book Blog Post series. You can jump to any chapter in this book here: [LINK TO TABLE OF LINK]. Chapter XX: Wherein Oliver is Delivered Over to Mr. William Sikes
+
+### [845. Pride and Prejudice: Chapter 8](https://hackernoon.com/pride-and-prejudice-chapter-8)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-1693j05.jpeg)
+Pride and Prejudice, by Jane Austen is part of HackerNoon’s Book Blog Post series. You can jump to any chapter in this book here: [LINK TO TABLE OF LINK]. Chapter VIII
+
+### [846. An Essay Concerning Humane Understanding, Volume I: Book II, Chapter I. ](https://hackernoon.com/an-essay-concerning-humane-understanding-volume-i-book-ii-chapter-i)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-mf93m7s.jpeg)
+An Essay Concerning Humane Understanding, Volume I,  Volume I: Book II, Chapter I: by John Locke is part of HackerNoon’s Book Blog Post series. 
+
+
+### [847. Anticipations by H. G. Wells - Table of Links](https://hackernoon.com/anticipations-by-h-g-wells-table-of-links)
+![](https://cdn.hackernoon.com/images/t4EWQ6W18hPhx6xE6pfPwMH58EL2-li93ky2.jpeg)
+Anticipations Of the Reaction of Mechanical and Scientific Progress upon Human life and Thought by H. G. Wells, is part of the HackerNoon Books Series.
+
+### [848. David Copperfield: Chapter 44 - Our Housekeeping](https://hackernoon.com/david-copperfield-chapter-44-our-housekeeping)
+![](https://cdn.hackernoon.com/images/u95KCwq4YOewwTvOFZTE2c39Icz1-fc93jq3.jpeg)
+—all the romance of our engagement put away upon a shelf, to rust—no one to please but one another—one another to please, for life.
+
+### [849. The Cipher Message](https://hackernoon.com/the-cipher-message)
+![](https://cdn.hackernoon.com/images/cipher-message-claw5cjhc000501s66mxu94qq.png)
+BENDA conducted me personally to a room very much like an ordinary hotel room.
+
+### [850. An Essay Concerning Humane Understanding, Volume I: Book II, Chapter XXXII. ](https://hackernoon.com/an-essay-concerning-humane-understanding-volume-i-book-ii-chapter-xxxii)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-we93n6d.jpeg)
+An Essay Concerning Humane Understanding, Volume I: Book II, Chapter XXXII, by John Locke is part of HackerNoon’s Book Blog Post series. 
+
+
+### [851. The Jungle: Chapter XXX](https://hackernoon.com/the-jungle-chapter-xxx)
+![](https://cdn.hackernoon.com/images/H8IE003WryYGI5JHjZEKuN7X4zx2-h293jgo.jpeg)
+Life was a struggle for existence, and the strong overcame the weak, and in turn were overcome by the strongest. 
+
+### [852. Astounding Stories of Super-Science June 1931: Manape the Mighty - Chapter  I ](https://hackernoon.com/astounding-stories-of-super-science-june-1931-manape-the-mighty-chapter-i)
+![](https://cdn.hackernoon.com/images/eYmBPfrqu8d2TdijQi8nkPK2yGl2-wzn3jxq.jpeg)
+High in jungle treetops swings young Bentley—his human brain imprisoned in a mighty ape.
+
+### [853. Language: An Introduction to the Study of Speech: Chapter 11 - Language and Literature](https://hackernoon.com/language-an-introduction-to-the-study-of-speech-chapter-11-language-and-literature)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-5s93nwr.jpeg)
+Language: An Introduction to the Study of Speech, by Edward Sapir, is part of HackerNoon’s Book Blog Post series.
+
+
+### [854. David Copperfield: Chapter 29 - I Visit Steerforth At His Home, Again](https://hackernoon.com/david-copperfield-chapter-29-i-visit-steerforth-at-his-home-again)
+![](https://cdn.hackernoon.com/images/u95KCwq4YOewwTvOFZTE2c39Icz1-zec3jgr.jpeg)
+I mentioned to Mr. Spenlow in the morning, that I wanted leave of absence for a short time
+
+### [855. Of not liking Hallery and the Royal Society for the Discouragement of Literature](https://hackernoon.com/of-not-liking-hallery-and-the-royal-society-for-the-discouragement-of-literature)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-pdm3lng.jpeg)
+“Ordinary people snuggle up to God as a lost leveret in a freezing wilderness might snuggle up to a Siberian tiger….
+
+### [856. David Copperfield: Chapter 31 -  A Greater Loss](https://hackernoon.com/david-copperfield-chapter-31-a-greater-loss)
+![](https://cdn.hackernoon.com/images/u95KCwq4YOewwTvOFZTE2c39Icz1-tr93jdg.jpeg)
+For years and years, Mr. Barkis had carried this box, on all his journeys, every day. 
+
+### [857. The Count of Monte Cristo, Illustrated: Chapter 52 - Toxicology](https://hackernoon.com/the-count-of-monte-cristo-illustrated-chapter-52-toxicology)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-wk93op5.jpeg)
+The Count of Monte Cristo,Volume Three, Chapter 52: Toxicology by Alexandre Dumas, père is part of HackerNoon’s Book Blog Post series. 
+
+### [858. Food and Flavor: A Gastronomic Guide to Health and Good Living- Chapter II ](https://hackernoon.com/food-and-flavor-a-gastronomic-guide-to-health-and-good-living-chapter-ii)
+![](https://cdn.hackernoon.com/images/b95vEI2NaBczE5DOQutUUWf1Dgj2-xq93j5r.jpeg)
+the most important problem now before the American public is to learn to enjoy the pleasures of the table and to insist on having savory food at every meal.
+
+### [859. Computers on the Farm: Information available Online From USDA, State, and Private Sources](https://hackernoon.com/computers-on-the-farm-information-available-online-from-usda-state-and-private-sources)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-wm93nqa.jpeg)
+USDA Farmers' Bulletin No. 2277: Computers on the Farm, by Deborah Takiff Smith is part of HackerNoon’s Book Blog Post series.
+
+
+### [860. THE UNITED STATES, FRANCE, BRITAIN, AND RUSSIA](https://hackernoon.com/the-united-states-france-britain-and-russia)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-70r3lb5.jpeg)
+The mind plunges hopelessly through that tangle to the elements of a speech which is as yet unknown.
+
+### [861. Astounding Stories of Super-Science June 1931: The Exile of Time - Chapter XVII](https://hackernoon.com/astounding-stories-of-super-science-june-1931-the-exile-of-time-chapter-xvii)
+![](https://cdn.hackernoon.com/images/eYmBPfrqu8d2TdijQi8nkPK2yGl2-hs93jsb.jpeg)
+None of the Robots would admit having seen Migul; nor the arrival of the cage; nor the strangers from the past. 
+
+### [862. The Radio Amateur's Hand Book - Table of Links](https://hackernoon.com/the-radio-amateurs-hand-book-table-of-links)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-yp93o8o.jpeg)
+The Radio Amateur's Hand Book, by A. Frederick Collins, is part of HackerNoon’s Book Blog Post series. The table of Links for this book can be found here. 
+
+### [863. A Simple Vacuum Tube Detector Receiver ](https://hackernoon.com/a-simple-vacuum-tube-detector-receiver)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-vy93o12.jpeg)
+Though the vacuum tube detector has more complicated circuits than a crystal detector, it doesn't require constant adjustment like the crystal detector. 
+
+### [864. An Essay Concerning Humane Understanding, Volume II: Book III, Chapter IV.](https://hackernoon.com/an-essay-concerning-humane-understanding-volume-ii-book-iii-chapter-iv)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-e093nkg.jpeg)
+An Essay Concerning Humane Understanding, Volume II: Book III, Chapter IV by John Locke is part of HackerNoon’s Book Blog Post series. 
+
+
+### [865. INSOMNIA](https://hackernoon.com/insomnia)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-d0a3l64.jpeg)
+“I dare make no experiments.”
+
+### [866. IN PERSPECTIVE](https://hackernoon.com/ann-veronica-a-modern-love-story-chap-17-in-perspective)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-hw93khn.jpeg)
+“My charm of manner, I suppose. But, indeed, he’s very human.”
+
+### [867. Bacteria: Chapter IV - BACTERIA AND FERMENTATION](https://hackernoon.com/bacteria-chapter-iv-bacteria-and-fermentation)
+![](https://cdn.hackernoon.com/images/6DCcCABaKoUxm1mFlUV6h4Nl4Tf1-84b3jy1.jpeg)
+It was Pasteur who in 1857 first propounded the true cause and process of fermentation.
+
+### [868. A Tract on Monetary Reform: Chapter II - Public Finance and Changes in the Value of Money](https://hackernoon.com/a-tract-on-monetary-reform-chapter-ii-public-finance-and-changes-in-the-value-of-money)
+![](https://cdn.hackernoon.com/images/dS8vTXHOEGNxenpaKFuzuCW5Y1x1-7f93ih2.jpeg)
+A Government can live for a long time, even the German Government or the Russian Government, by printing paper money. 
+
+
+### [869. The Economic Consequences of the Peace: Chapter I - Introductory](https://hackernoon.com/the-economic-consequences-of-the-peace-chapter-i-introductory)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-6h93jr4.jpeg)
+The Economic Consequences of the Peace, Chapter I: Introductory by John Maynard Keynes is part of HackerNoon’s Book Blog Post series.  
+
+### [870. THE RED ROOM](https://hackernoon.com/the-red-room)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-z993keh.jpeg)
+“If,” I said a little louder, “if you will show me to this haunted room of yours, I will relieve you from the task of entertaining me.”
+
+### [871. THE REMARKABLE CASE OF DAVIDSON'S EYES.](https://hackernoon.com/the-remarkable-case-of-davidsons-eyes)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-x8g3l62.jpeg)
+Davidson felt about, and puzzled over it, and answered presently that he could feel it all right, but he couldn't see it.
+
+### [872. Oliver Twist: Chapter V](https://hackernoon.com/oliver-twist-chapter-v)
+![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-d893nef.jpeg)
+Oliver Twist, by Charles Dickens is part of HackerNoon’s Book Blog Post series. You can jump to any chapter in this book here: [LINK TO TABLE OF LINK]. Chapter V: Oliver Mingles with New Associates. Going to a Funeral for the First Time, He Forms an Unfavourable Notion of His Master's Business
+
+### [873. The Essays of Adam Smith: Part V, Chapter I](https://hackernoon.com/the-essays-of-adam-smith-part-v-chapter-i)
+![](https://cdn.hackernoon.com/images/fisV3ygrKHQzoANO3juQvFMtA3r2-9g93jja.jpeg)
+When two objects have frequently been seen together, the imagination acquires a habit of passing easily from the one to the other.
+
+### [874. The Great Gatsby: Chapter 7](https://hackernoon.com/the-great-gatsby-chapter-7)
+![](https://cdn.hackernoon.com/images/1RRJkP1I2GZF1QhFVEA8zKyY1iz2-1a93ghd.jpeg)
+The Great Gatsby, Chapter 7 by F. Scott Fitzgerald is part of HackerNoon’s Book Blog Post series. 
+
+### [875. David Copperfield: Chapter 40 - The Wanderer](https://hackernoon.com/david-copperfield-chapter-40-the-wanderer)
+![](https://cdn.hackernoon.com/images/u95KCwq4YOewwTvOFZTE2c39Icz1-bpa3jn0.jpeg)
+The wind had gone down with the light, and so the snow had come on. It was a heavy, settled fall, I recollect, in great flakes; and it lay thick.
+
+### [876. The Science of Getting Rich: Chapter 4](https://hackernoon.com/the-science-of-getting-rich-chapter-4)
+![](https://cdn.hackernoon.com/images/MWOFxJyDOLb9SogBhG2AsIszVL22-t393rze.jpeg)
+The Science of Getting Rich by Wallace D. Wattles is part of HackerNoon’s Book Blog Post series. 
+
+### [877. LADY HARDY](https://hackernoon.com/lady-hardy)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-juw3lg5.jpeg)
+He was a man of extensive reservations. His private life was in some respects exceptionally private.
+
+### [878. The Angel's Debut](https://hackernoon.com/the-angels-debut)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-syo3loz.jpeg)
+"Did you really make that up yourself?" said Mrs Jehoram, sparkling her eyes at him, "as you went along. Really, it is wonderful! Nothing less than wonderful."
+
+### [879. The Mystery of the Stolen Body ](https://hackernoon.com/the-mystery-of-the-stolen-body)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-6pj3kim.jpeg)
+Twelve Stories and a Dream, by H. G. Wells, is part of the HackerNoon Books Series. You can jump to any chapter in this book here. THE STOLEN BODY
+
+
+### [880. Understanding Reality](https://hackernoon.com/understanding-reality)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-4e93obf.jpeg)
+An Essay Concerning Humane Understanding, Volume II: Book IV, Chapter XI, by John Locke is part of HackerNoon’s Book Blog Post series. 
+
+
+### [881. The Vicar and the Angel](https://hackernoon.com/the-vicar-and-the-angel)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-km93l3k.jpeg)
+"All kinds of artists, Angels with wonderful imaginations, who invent men and cows and eagles and a thousand impossible creatures."
+
+### [882. Pride and Prejudice: Chapter 9](https://hackernoon.com/pride-and-prejudice-chapter-9)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-cg93j1x.jpeg)
+Pride and Prejudice, by Jane Austen, is part of HackerNoon’s Book Blog Post series. 
+
+### [883. Chapter XVIII: The Pirate Planet ](https://hackernoon.com/chapter-xviii-the-pirate-planet)
+![](https://cdn.hackernoon.com/images/eYmBPfrqu8d2TdijQi8nkPK2yGl2-4393qod.jpeg)
+Astounding Stories of Super-Science February 1931, by Astounding Stories is part of HackerNoon’s Book Blog Post series. You can jump to any chapter in this book here. The Pirate Planet: Chapter XVIII
+
+
+### [884. Making Use Of Propositions](https://hackernoon.com/making-use-of-propositions)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-vm93ovb.jpeg)
+An Essay Concerning Humane Understanding, Volume II: Book IV, Chapter, by John Locke is part of HackerNoon’s Book Blog Post series.
+
+
+### [885. Why Probability Is Important](https://hackernoon.com/why-probability-is-important)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-4q93olg.jpeg)
+An Essay Concerning Humane Understanding, Volume II: Book IV, Chapter XV: OF PROBABILITY, by John Locke is part of HackerNoon’s Book Blog Post series. 
+
+
+### [886. THE LANGUAGES OF MANKIND](https://hackernoon.com/the-languages-of-mankind)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-2is3lif.jpeg)
+The first languages were probably small collections of such words; they consisted of interjections and nouns.
+
+### [887. The Trail to the Sea](https://hackernoon.com/the-trail-to-the-sea)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-0n2q3lqj.jpeg)
+They tried poor inadequate congratulation....
+
+
+### [888. The Jungle: Chapter XI](https://hackernoon.com/the-jungle-chapter-xi)
+![](https://cdn.hackernoon.com/images/H8IE003WryYGI5JHjZEKuN7X4zx2-ojb3jkj.jpeg)
+During the summer the packing houses were in full activity again, and Jurgis made more money. 
+
+
+### [889. An Essay Concerning Humane Understanding, Volume II: Book III, Chapter V.](https://hackernoon.com/an-essay-concerning-humane-understanding-volume-ii-book-iii-chapter-v)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-rr93nop.jpeg)
+An Essay Concerning Humane Understanding, Volume II: Book III, Chapter V: , by John Locke is part of HackerNoon’s Book Blog Post series. 
+
+
+### [890. ARE THERE PLANETS AMONG THE STARS?](https://hackernoon.com/are-there-planets-among-the-stars)
+![](https://cdn.hackernoon.com/images/4grCCSQyiCgNmngRUPrMzNtQ2wm2-5v93k2m.jpeg)
+"even if the power of our telescopes were increased a hundredfold, and consequently no such systems are known."
+
+### [891. A Secret Service Man Sat in the President's Chair and Looked Back Into the Eye of Allah](https://hackernoon.com/a-secret-service-man-sat-in-the-presidents-chair-and-looked-back-into-the-eye-of-allah)
+![](https://cdn.hackernoon.com/images/an-eye-symbol-carved-into-a-wooden-desk-cldwvcwds000501s63bxc44nr.png)
+THE great discovery came when a box was brought to the dingy room and Mr. Collins was asked to show what was inside it.
+
+### [892. The Nature Of Knowledge](https://hackernoon.com/the-nature-of-knowledge)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-zx93n4u.jpeg)
+An Essay Concerning Humane Understanding, Volume II: Book IV, Chapter IV, by John Locke is part of HackerNoon’s Book Blog Post series. 
+
+
+### [893. David Copperfield: Chapter 60 - Agnes](https://hackernoon.com/david-copperfield-chapter-60-agnes)
+![](https://cdn.hackernoon.com/images/u95KCwq4YOewwTvOFZTE2c39Icz1-e4e3jv5.jpeg)
+‘You will find her,’ pursued my aunt, ‘as good, as beautiful, as earnest, as disinterested, as she has always been.
+
+### [894. An Essay Concerning Humane Understanding, Volume I: ESSAY CONCERNING HUMAN UNDERSTANDING](https://hackernoon.com/an-essay-concerning-humane-understanding-volume-i-essay-concerning-human-understanding)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-1c93j93.jpeg)
+An Essay Concerning Humane Understanding, Volume I, by John Locke is part of HackerNoon’s Book Blog Post series.
+
+
+### [895. Oliver Twist: Chapter XLVI](https://hackernoon.com/oliver-twist-chapter-xlvi)
+![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-ah93stu.jpeg)
+Oliver Twist, by Charles Dickens is part of HackerNoon’s Book Blog Post series. You can jump to any chapter in this book here: [LINK TO TABLE OF LINK]. Chapter XLVI: The Appointment Kept
+
+### [896. R.U.R. (Rossum's Universal Robots): Epilogue - A Laboratory. One year later](https://hackernoon.com/rur-rossums-universal-robots-epilogue-a-laboratory-one-year-later)
+![](https://cdn.hackernoon.com/images/3NDlJQg55YOrqaEBVl3hNJKbpJH2-8cc3jhf.jpeg)
+Alquist. Kill me—kill me, then. What will your future be?
+
+
+### [897. The Essays of Adam Smith - Table of Links](https://hackernoon.com/the-essays-of-adam-smith-table-of-links)
+![](https://cdn.hackernoon.com/images/t4EWQ6W18hPhx6xE6pfPwMH58EL2-0ea3mc6.jpeg)
+The Essays of Adam Smith, by Adam Smith is part of HackerNoon’s Books series. Read this book online for free on HackerNoon!
+
+### [898. Language: An Introduction to the Study of Speech: Chapter 10 - Language, Race and Culture](https://hackernoon.com/language-an-introduction-to-the-study-of-speech-chapter-10-language-race-and-culture)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-a693ne3.jpeg)
+Language: An Introduction to the Study of Speech, by Edward Sapir, is part of HackerNoon’s Book Blog Post series. 
+
+
+### [899. The Art Of Writing & Speaking The English Language : Chapter IX - The Style Of Fiction](https://hackernoon.com/the-art-of-writing-and-speaking-the-english-language-chapter-ix-the-style-of-fiction)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-cd93nyj.jpeg)
+We must take each style separately and master it thoroughly before trying to combine the three in a work of fiction
+
+### [900. The American Population](https://hackernoon.com/the-american-population)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-rz93lwy.jpeg)
+An Englishman looks at the world by H. G. Wells, is part of the HackerNoon Books Series. 
+
+### [901. The Count of Monte Cristo, Illustrated: Chapter 70 - The Ball](https://hackernoon.com/the-count-of-monte-cristo-illustrated-chapter-70-the-ball)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-qb93os9.jpeg)
+The Count of Monte Cristo, Volume Three, Chapter 70: The Ball by Alexandre Dumas, père is part of HackerNoon’s Book Blog Post series. 
+
+### [902. Oliver Twist: Chapter XLIII](https://hackernoon.com/oliver-twist-chapter-xliii)
+![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-8m93s3p.jpeg)
+Oliver Twist, by Charles Dickens is part of HackerNoon’s Book Blog Post series. You can jump to any chapter in this book here: [LINK TO TABLE OF LINK]. Chapter XLIII: Wherein Is Shown How The Artful Dodger Got Into Trouble 
+
+### [903. The Art Of Writing & Speaking The English Language : Chapter XV - Contrast](https://hackernoon.com/the-art-of-writing-and-speaking-the-english-language-chapter-xv-contrast)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-9c93n4v.jpeg)
+The best way to cultivate breadth is to cultivate the use of contrast in your writing.
+
+### [904. Pride and Prejudice: Chapter 36](https://hackernoon.com/pride-and-prejudice-chapter-36)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-3193nwn.jpeg)
+Pride and Prejudice, by Jane Austen, is part of HackerNoon’s Book Blog Post series. 
+
+### [905. Bacteria: Chapter V - BACTERIA IN THE SOIL](https://hackernoon.com/bacteria-chapter-v-bacteria-in-the-soil)
+![](https://cdn.hackernoon.com/images/6DCcCABaKoUxm1mFlUV6h4Nl4Tf1-cv93jfl.jpeg)
+Surface soils and those rich in organic matter supply a varied field for the bacteriologist.
+
+### [906. The Immortal Parts of Our Lives](https://hackernoon.com/the-immortal-parts-of-our-lives)
+![](https://cdn.hackernoon.com/images/5wpKgV75aONqkTJlafw2yQmK9yd2-ix93pjm.jpeg)
+our immortal part acquires during this life certain habits of action or of sentiment.
+
+### [907. The Essays of Adam Smith: THE HISTORY OF THE ANCIENT LOGICS AND METAPHYSICS](https://hackernoon.com/the-essays-of-adam-smith-the-history-of-the-ancient-logics-and-metaphysics)
+![](https://cdn.hackernoon.com/images/fisV3ygrKHQzoANO3juQvFMtA3r2-2le3jlq.jpeg)
+According to Plato and Timæus, the principles out of which the Deity formed the World, and which were themselves eternal, were three in number. 
+
+### [908. The Hound of the Baskervilles: Chapter 2 - The Curse of the Baskervilles](https://hackernoon.com/the-hound-of-the-baskervilles-chapter-2-the-curse-of-the-baskervilles)
+![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-6793ukh.jpeg)
+The Hound of the Baskervilles, by Arthur Conan Doyle is part of HackerNoon’s Book Blog Post series. You can jump to any chapter in this book here.
+
+### [909. Adventures of Huckleberry Finn: Chapter XLI](https://hackernoon.com/adventures-of-huckleberry-finn-chapter-xli)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-m893m3a.jpeg)
+Adventures of Huckleberry Finn, by Mark Twain (Samuel Clemens) is part of HackerNoon’s Book Blog Post series. 
+
+### [910. CONSTRUCTIVE SOCIALISM](https://hackernoon.com/constructive-socialism)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-ftv3lbo.jpeg)
+One has to recognize that this mind is at present a mind in a state of confusion, full of warring suggestions and warring impulses.
+
+### [911. David Copperfield: Chapter 26 - I Fall Into Captivity](https://hackernoon.com/david-copperfield-chapter-26-i-fall-into-captivity)
+![](https://cdn.hackernoon.com/images/u95KCwq4YOewwTvOFZTE2c39Icz1-2i93jdd.jpeg)
+I could not get over this farewell glimpse of them for a long time. 
+
+### [912. Oliver Twist: Chapter XII](https://hackernoon.com/oliver-twist-chapter-xii)
+![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-v4a3qda.jpeg)
+Oliver Twist, by Charles Dickens is part of HackerNoon’s Book Blog Post series. You can jump to any chapter in this book here: [LINK TO TABLE OF LINK]. Chapter XII: In Which Oliver is Taken Better Care of Than He Ever Was Before. And in Which the Narrative Reverts to the Merry Old Gentleman and His Youthful Friends
+
+### [913. "Why, This Is Treason!"](https://hackernoon.com/why-this-is-treason)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-pl93tbe.jpeg)
+There was a gasp. The audience sat frozen. On the stage, with no one lifting a hand to stop her, the crimson murderess made a leap and vanished.
+
+### [914. The Idea of a University Defined and Illustrated: Discourse I](https://hackernoon.com/the-idea-of-a-university-defined-and-illustrated-discourse-i)
+![](https://cdn.hackernoon.com/images/ejUZNC47pjbsT8faAmTgQxau7w22-k0b3jhw.jpeg)
+The past never returns; the course of events, old in its texture, is ever new in its colouring and fashion
+
+### [915. The Angel Explores the Village](https://hackernoon.com/the-angel-explores-the-village)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-xth3lrv.jpeg)
+So soon as the Angel had passed, one of the three hummed this tune in an aggressive tone.
+
+### [916. The Count of Monte Cristo, Illustrated: Chapter 19 - The Third Attack](https://hackernoon.com/the-count-of-monte-cristo-illustrated-chapter-19-the-third-attack)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-re93n9c.jpeg)
+The Count of Monte Cristo,  Volume One, Chapter 19: The Third Attack by Alexandre Dumas, père is part of HackerNoon’s Book Blog Post series.
+
+### [917. Astounding Stories of Super-Science August 1931: Brood of the Dark Moon - Chapter II](https://hackernoon.com/astounding-stories-of-super-science-august-1931-brood-of-the-dark-moon-chapter-ii)
+![](https://cdn.hackernoon.com/images/eYmBPfrqu8d2TdijQi8nkPK2yGl2-f1t3js6.jpeg)
+ A pulsing pain that stabbed through his head was Chet's first conscious impression. 
+
+### [918. THE PSYCHOLOGY OF ERRORS](https://hackernoon.com/the-psychology-of-errors)
+![](https://cdn.hackernoon.com/images/bZAHgjrB23cbcXIZIhzMZ7wDfus1-fm93ktn.jpeg)
+We begin with an investigation, not with hypotheses.
+
+### [919. The Strange Case Of Dr. Jekyll And Mr. Hyde: Chapter I - Story of the door](https://hackernoon.com/the-strange-case-of-dr-jekyll-and-mr-hyde-chapter-i-story-of-the-door)
+![](https://cdn.hackernoon.com/images/jY39imIt1lbinKxzZTAT18igh0D2-ml93hlj.jpeg)
+It chanced on one of these rambles that their way led them down a by-street in a busy quarter of London. 
+
+### [920. The Great Gatsby: Chapter 8](https://hackernoon.com/the-great-gatsby-chapter-8)
+![](https://cdn.hackernoon.com/images/1RRJkP1I2GZF1QhFVEA8zKyY1iz2-ku93giz.jpeg)
+The Great Gatsby, Chapter 8 by F. Scott Fitzgerald is part of HackerNoon’s Book Blog Post series. 
+
+### [921. THE NEW WORLD](https://hackernoon.com/the-new-world)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-m9b3loz.jpeg)
+“Your servant, your most humble helper in God (your God),
+
+### [922. What is Epistemological Realism?](https://hackernoon.com/epistemological-realism-the-alleged-ubiquity-of-the-knowledge-relation)
+![](https://cdn.hackernoon.com/images/7WgLWfSFCnOqCc80htECj68zhNt1-s693kp1.jpeg)
+In short, the moral is quite literally, "Forget it," or "Cut it out."
+
+### [923. The Evolution of Modern Medicine: PREFACE](https://hackernoon.com/the-evolution-of-modern-medicine-preface)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-7f93nny.jpeg)
+The Evolution of Modern Medicine, by William Osler is part of HackerNoon’s Book Blog Post series.
+
+### [924. The Essays of Adam Smith: Part V, Chapter II](https://hackernoon.com/the-essays-of-adam-smith-part-v-chapter-ii)
+![](https://cdn.hackernoon.com/images/fisV3ygrKHQzoANO3juQvFMtA3r2-opa3jfe.jpeg)
+Of the Influence of Custom and Fashion upon Moral Sentiments.
+
+### [925. The Essays of Adam Smith: Part VI - Of the Character of Virtue, Section I](https://hackernoon.com/the-essays-of-adam-smith-part-vi-of-the-character-of-virtue-section-i)
+![](https://cdn.hackernoon.com/images/fisV3ygrKHQzoANO3juQvFMtA3r2-k1b3jas.jpeg)
+THE preservation and healthful state of the body seem to be the objects which Nature first recommends to the care of every individual. 
+
+### [926. For the Story Teller: Chapter 11 - 
+Imagination and the Fairy Story](https://hackernoon.com/for-the-story-teller-chapter-11-imagination-and-the-fairy-story)
+![](https://cdn.hackernoon.com/images/UUZZjfJqIWXx3OTAxCc5FR9kPtw2-7o93j63.jpeg)
+While all the world was out searching for the Blue Robin, it had come of its own accord to the poor little faithful boy in his poor little home.
+
+### [927. Stories for Telling: The Prince’s Visit](https://hackernoon.com/stories-for-telling-the-princes-visit)
+![](https://cdn.hackernoon.com/images/UUZZjfJqIWXx3OTAxCc5FR9kPtw2-5w93jcb.jpeg)
+“Hurrah! Hurrah! There he is! The Prince! The Prince!”
+
+### [928. David Copperfield: Chapter 51 - The Beginning Of A Longer Journey](https://hackernoon.com/david-copperfield-chapter-51-the-beginning-of-a-longer-journey)
+![](https://cdn.hackernoon.com/images/u95KCwq4YOewwTvOFZTE2c39Icz1-21o3jjb.jpeg)
+And Mrs. Gummidge took his hand, and kissed it with a homely pathos and affection, in a homely rapture of devotion and gratitude, that he well deserved.
+
+### [929. This Side of Paradise: Book I, Chapter I - Amory, Son of Beatrice](https://hackernoon.com/this-side-of-paradise-book-i-chapter-i-amory-son-of-beatrice)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-7f93llo.jpeg)
+Amory Blaine inherited from his mother every trait, except the stray inexpressible few, that made him worthwhile.
+
+### [930. An Essay Concerning Humane Understanding, Volume I: Book I, Chapter I. ](https://hackernoon.com/an-essay-concerning-humane-understanding-volume-i-book-i-chapter-i)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-3i93jx3.jpeg)
+An Essay Concerning Humane Understanding, Volume I, Book I, Chapter I by John Locke is part of HackerNoon’s Book Blog Post series. 
+
+
+### [931. David Copperfield: Chapter 50 - Mr. Peggotty's Dream Comes True](https://hackernoon.com/david-copperfield-chapter-50-mr-peggottys-dream-comes-true)
+![](https://cdn.hackernoon.com/images/u95KCwq4YOewwTvOFZTE2c39Icz1-dgn3jgo.jpeg)
+A fearful cry followed the word. I paused a moment, and looking in, saw him supporting her insensible figure in his arms. 
+
+### [932. An Extra Man](https://hackernoon.com/an-extra-man)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-6c93upm.jpeg)
+"Harry turns into a thick smoke, and gets sucked into a big hole in the machine."
+
+### [933. David Copperfield: Chapter 49 - I am Involved In My Mystery](https://hackernoon.com/david-copperfield-chapter-49-i-am-involved-in-my-mystery)
+![](https://cdn.hackernoon.com/images/u95KCwq4YOewwTvOFZTE2c39Icz1-orm3j09.jpeg)
+I never saw a man so hot in my life. I tried to calm him, that we might come to something rational; but he got hotter and hotter, and wouldn’t hear a word.
+
+### [934. The Essays of Adam Smith: Part VII, Section III, Chapter III.](https://hackernoon.com/the-essays-of-adam-smith-part-vii-section-iii-chapter-iii)
+![](https://cdn.hackernoon.com/images/fisV3ygrKHQzoANO3juQvFMtA3r2-h2c3jlr.jpeg)
+THOSE systems which make sentiment the principle of approbation may be divided into two different classes.
+
+### [935. The Idea of a University Defined and Illustrated: Discourse II - Theology A Branch Of Knowledge.](https://hackernoon.com/the-idea-of-a-university-defined-and-illustrated-discourse-ii-theology-a-branch-of-knowledge)
+![](https://cdn.hackernoon.com/images/ejUZNC47pjbsT8faAmTgQxau7w22-5sc3jhh.jpeg)
+The word “God” is a Theology in itself, indivisibly one, inexhaustibly various, from the vastness and the simplicity of its meaning.
+
+### [936. Oliver Twist: Chapter XIX](https://hackernoon.com/oliver-twist-chapter-xix)
+![](https://cdn.hackernoon.com/images/ZXvwWhuaiAY0BoWkm8U7fJ1XTLI2-gd93r03.jpeg)
+Oliver Twist, by Charles Dickens is part of HackerNoon’s Book Blog Post series. You can jump to any chapter in this book here: [LINK TO TABLE OF LINK]. Chapter XIX: In Which A Notable Plan is Discussed and Determined On
+
+### [937. The Magic Shop](https://hackernoon.com/the-magic-shop)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-aib3kf6.jpeg)
+I had seen the Magic Shop from afar several times; I had passed it once or twice, a shop window of alluring little objects.
+
+### [938. THE LATER POSTGLACIAL PALÆOLITHIC MEN, THE FIRST TRUE MEN](https://hackernoon.com/the-later-postglacial-palaeolithic-men-the-first-true-men)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-n5153lcp.jpeg)
+Now here again, with every desire to be plain and explicit with the reader, we have still to trouble him with qualified statements and notes of interrogation.
+
+### [939. David Copperfield: Chapter 39 - Wickfield And Heep](https://hackernoon.com/david-copperfield-chapter-39-wickfield-and-heep)
+![](https://cdn.hackernoon.com/images/u95KCwq4YOewwTvOFZTE2c39Icz1-gu93jtl.jpeg)
+‘My dear Copperfield, a man who labours under the pressure of pecuniary embarrassments, is, with the generality of people, at a disadvantage.
+
+### [940. The Human Side of Animals: Chapter 9 - Self-defense and Home-Government](https://hackernoon.com/the-human-side-of-animals-chapter-9-self-defense-and-home-government)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-7p93nu7.jpeg)
+The Human Side of Animals by Royal Dixon is part of HackerNoon’s Book Blog Post series. 
+
+### [941. On Value](https://hackernoon.com/on-the-principles-of-political-economy-and-taxation-chapter-i-on-value)
+![](https://cdn.hackernoon.com/images/KP4e6RV2jgPi4eQXMsGNZwCmprw1-y293jd8.jpeg)
+Utility then is not the measure of exchangeable value, although it is absolutely essential to it.
+
+### [942. The Essays of Adam Smith: THE HISTORY OF ASTRONOMY, Section II ](https://hackernoon.com/the-essays-of-adam-smith-the-history-of-astronomy-sec-ii)
+![](https://cdn.hackernoon.com/images/fisV3ygrKHQzoANO3juQvFMtA3r2-oqa3jra.jpeg)
+IT is evident that the mind takes pleasure in observing the resemblances that are discoverable betwixt different objects. 
+
+### [943. How To Use Words](https://hackernoon.com/how-to-use-words)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-f893nib.jpeg)
+An Essay Concerning Humane Understanding, Volume II: Book III, Chapter IX, by John Locke is part of HackerNoon’s Book Blog Post series.
+
+
+### [944. Astounding Stories of Super-Science June 1931: VOL. VI, NO. 3 - The Man From 2071](https://hackernoon.com/astounding-stories-of-super-science-june-1931-vol-vi-no-3-the-man-from-2071)
+![](https://cdn.hackernoon.com/images/eYmBPfrqu8d2TdijQi8nkPK2yGl2-xw93j76.jpeg)
+Out of the flow of time there appears to Commander John Hanson a man of mystery from the forgotten past.
+
+### [945. David Copperfield: Chapter 41 - Dora's Aunts](https://hackernoon.com/david-copperfield-chapter-41-doras-aunts)
+![](https://cdn.hackernoon.com/images/u95KCwq4YOewwTvOFZTE2c39Icz1-c293j2g.jpeg)
+His honest face, as he looked at me with a serio-comic shake of his head, impresses me more in the remembrance than it did in the reality.
+
+### [946. The Count of Monte Cristo, Illustrated: Chapter 2 - Father and Son](https://hackernoon.com/the-count-of-monte-cristo-illustrated-chapter-2-father-and-son)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-qe93jwb.jpeg)
+The Count of Monte Cristo,by Alexandre Dumas, père Volume One, Chapter 2: Father and Son is part of HackerNoon’s Book Blog Post series. 
+
+### [947. The Human Side of Animals: Chapter 10 - Animals Architects, Engineers, and House Builders](https://hackernoon.com/the-human-side-of-animals-chapter-10-animals-architects-engineers-and-house-builders)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-yg93n1m.jpeg)
+The Human Side of Animals by Royal Dixon is part of HackerNoon’s Book Blog Post series. 
+
+### [948. An Inquiry into the Nature and Causes of the Wealth of Nations: Book V, Chapter II - Part I](https://hackernoon.com/an-inquiry-into-the-nature-and-causes-of-the-wealth-of-nations-book-v-chapter-ii-part-i)
+![](https://cdn.hackernoon.com/images/4O9wiIuRTiRbwA1feRRcV0OGCb92-gfq3i2k.jpeg)
+Small republics have sometimes derived a considerable revenue from the profit of mercantile projects.
+
+### [949. Behind Them Poured a Stream of Hideous Monsters, Giants of the Ray](https://hackernoon.com/behind-them-poured-a-stream-of-hideous-monsters-giants-of-the-ray)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-e093tiz.jpeg)
+Madly the three raced for their lives up the shaft of the radium mine, for behind them poured a stream of hideous monsters—giants of the ray!
+
+### [950. The Adventures of Sherlock Holmes: Chapter VIII- The Adventure of the Speckled Band](https://hackernoon.com/the-adventures-of-sherlock-holmes-chapter-viii-the-adventure-of-the-speckled-band)
+![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-zw93u19.jpeg)
+The Adventures of Sherlock Holmes, by Arthur Conan Doyle is part of HackerNoon’s Book Blog Post series. 
+
+### [951. The Human Side of Animals: Chapter 12 - Tourists and Sight-seeing](https://hackernoon.com/the-human-side-of-animals-chapter-12-tourists-and-sight-seeing)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-g693l88.jpeg)
+The Human Side of Animals by Royal Dixon is part of HackerNoon’s Book Blog Post series. 
+
+### [952. The Door in the Wall ](https://hackernoon.com/the-door-in-the-wall)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-ky93kj9.jpeg)
+To him at least the Door in the Wall was a real door leading through a real wall to immortal realities.
+
+### [953. The Odyssey: Book VII](https://hackernoon.com/the-odyssey-book-vii)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-5193nnr.jpeg)
+The Odyssey, by Homer and translated by Samuel Butler is part of HackerNoon’s Book Blog Post series. 
+
+### [954. THE STORY OF THE LATE MR. ELVESHAM](https://hackernoon.com/the-story-of-the-late-mr-elvesham)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-sg93k4n.jpeg)
+My own case, I know, is hopeless, and I am now in some measure prepared to meet my fate.
+
+### [955. The Story of the Inexperienced Ghost](https://hackernoon.com/the-story-of-the-inexperienced-ghost)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-oef3kns.jpeg)
+“Caught a ghost, did you?” said Sanderson. “Where is it?”
+
+
+### [956. Of The First and Last Things: Part 4](https://hackernoon.com/of-the-first-and-last-things-part-4)
+![](https://cdn.hackernoon.com/images/NkFW78GAEJeB762bbk9rCsIeC323-z993pq9.jpeg)
+Human, All Too Human, A Book for Free Spirits by Friedrich Nietzsche is part of HackerNoon’s Book Blog Post Series. The table of Links for this book can be found here. History of the Moral Feelings 
+
+### [957. IN THE LAND OF THE FORGOTTEN PEOPLES](https://hackernoon.com/in-the-land-of-the-forgotten-peoples)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-inz3lwr.jpeg)
+“She is much more incapable than I am,” said Sir Richmond as if he delivered a weighed and very important judgment.
+
+### [958. David Copperfield: Chapter 30 - A Loss](https://hackernoon.com/david-copperfield-chapter-30-a-loss)
+![](https://cdn.hackernoon.com/images/u95KCwq4YOewwTvOFZTE2c39Icz1-emd3jd3.jpeg)
+‘Why, bless my life and soul!’ said Mr. Omer, ‘how do you find yourself? Take a seat.—-Smoke not disagreeable, I hope?’
+
+### [959. For the Story Teller: Chapter 12 - Making Over Stories ](https://hackernoon.com/for-the-story-teller-chapter-12-making-over-stories)
+![](https://cdn.hackernoon.com/images/UUZZjfJqIWXx3OTAxCc5FR9kPtw2-m393jok.jpeg)
+To meet these story needs as applied to oral delivery, a story has, ordinarily, to be made over before it is told. 
+
+### [960. For the Story Teller: Chapter 9 - 
+Stoty Telling an Aid to Verbal Expression](https://hackernoon.com/for-the-story-teller-chapter-9-stoty-telling-an-aid-to-verbal-expression)
+![](https://cdn.hackernoon.com/images/UUZZjfJqIWXx3OTAxCc5FR9kPtw2-as93jmz.jpeg)
+“First she leaped, and then she ran,
+’Till she came to the cow and thus began.”
+
+### [961. The Idea of a University Defined and Illustrated: Discourse V - Knowledge Its Own End](https://hackernoon.com/the-idea-of-a-university-defined-and-illustrated-discourse-v-knowledge-its-own-end)
+![](https://cdn.hackernoon.com/images/ejUZNC47pjbsT8faAmTgQxau7w22-o293jef.jpeg)
+Knowledge is one thing, virtue is another; good sense is not conscience, refinement is not humility, nor is largeness and justness of view faith.  
+
+### [962. THE COMING OF THE DAY](https://hackernoon.com/the-coming-of-the-day)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-4bc3luw.jpeg)
+To-night all over the world ships must be in flight and ships pursuing; ten thousand towns must be ringing with the immediate excitement of war....
+
+### [963. The Great Gatsby: Chapter 9](https://hackernoon.com/the-great-gatsby-chapter-9)
+![](https://cdn.hackernoon.com/images/1RRJkP1I2GZF1QhFVEA8zKyY1iz2-f393hvp.jpeg)
+The Great Gatsby, Chapter 9 by F. Scott Fitzgerald is part of HackerNoon’s Book Blog Post series. 
+
+### [964. Language: An Introduction to the Study of Speech: Chapter 1 - Language Defined](https://hackernoon.com/language-an-introduction-to-the-study-of-speech-chapter-1-language-defined)
+![](https://cdn.hackernoon.com/images/OQ8w9673DVgSKBLD5tvDpKrOj4J2-rj93ngy.jpeg)
+Language: An Introduction to the Study of Speech, by Edward Sapir is part of HackerNoon’s Book Blog Post series. 
+
+
+### [965. A Stark Moral Choice](https://hackernoon.com/a-stark-moral-choice)
+![](https://cdn.hackernoon.com/images/red-pill-blue-pull-clal6inzx000101s65n1fdcdk.png)
+On September 27, 1983, computer programmers logging on to the Usenet newsgroup net.unix-wizards encountered an unusual message.
+
+### [966. A Strange Metal Creature Comes to Earth on a Dreadful Mission](https://hackernoon.com/a-strange-metal-creature-comes-to-earth-on-a-dreadful-mission)
+![](https://cdn.hackernoon.com/images/metal-creature-cldwuxwp5000101s667jmfhjk.png)
+HE sat in a small half-darkened booth well over in the corner—the man with the strangely glowing blue-green eyes.
+
+
+### [967. David Copperfield: Chapter 32 - The Beginning Of A Long Journey](https://hackernoon.com/david-copperfield-chapter-32-the-beginning-of-a-long-journey)
+![](https://cdn.hackernoon.com/images/u95KCwq4YOewwTvOFZTE2c39Icz1-sf93jhe.jpeg)
+What is natural in me, is natural in many other men, I infer, and so I am not afraid to write that I never had loved Steerforth 
+
+### [968. The Idea of a University Defined and Illustrated: Lecture VI - University Preaching](https://hackernoon.com/the-idea-of-a-university-defined-and-illustrated-lecture-vi-university-preaching)
+![](https://cdn.hackernoon.com/images/ejUZNC47pjbsT8faAmTgQxau7w22-4v93jfr.jpeg)
+Nothing is so fatal to the effect of a sermon as the habit of preaching on three or four subjects at once.
+
+### [969. LOVE AMONG THE WRECKAGE](https://hackernoon.com/tono-bungay-book-4-chap-2-love-among-the-wreckage)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-yl93kos.jpeg)
+“I saw you yesterday. And I rode over to see you.” I had now come close to her, and stood looking up into her face.
+
+### [970. The Science of Getting Rich: Chapter 13](https://hackernoon.com/the-science-of-getting-rich-chapter-13)
+![](https://cdn.hackernoon.com/images/MWOFxJyDOLb9SogBhG2AsIszVL22-ah93oow.jpeg)
+You must use your thought as directed in previous chapters, and begin to do what you can do where you are; and you must do ALL that you can do where you are.
+
+### [971. Ion ](https://hackernoon.com/ion)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-oa93nn3.jpeg)
+Ion, by Plato and translated by Benjamin Jowett is part of HackerNoon’s Book Blog Post series.
+
+### [972. For the Story Teller: Chapter 1 - The Apperceptive Basic of Story Telling](https://hackernoon.com/for-the-story-teller-chapter-1-the-apperceptive-basic-of-story-telling)
+![](https://cdn.hackernoon.com/images/UUZZjfJqIWXx3OTAxCc5FR9kPtw2-xl93jnz.jpeg)
+APPERCEPTION is a formidable and sometimes confusing term for a very simple and easy-to-understand mental process.
+
+### [973. Astounding Stories of Super-Science August 1931: Brood of the Dark Moon - Chapter III](https://hackernoon.com/astounding-stories-of-super-science-august-1931-brood-of-the-dark-moon-chapter-iii)
+![](https://cdn.hackernoon.com/images/eYmBPfrqu8d2TdijQi8nkPK2yGl2-2793jtc.jpeg)
+Walter Harkness had built this ship with Chet's help. They had designed it for space-travel. 
+
+### [974. The Adventures of Sherlock Holmes: Chapter X - The Adventure of the Noble Bachelor](https://hackernoon.com/the-adventures-of-sherlock-holmes-chapter-x-the-adventure-of-the-noble-bachelor)
+![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-s893u0n.jpeg)
+The Adventures of Sherlock Holmes, by Arthur Conan Doyle is part of HackerNoon’s Book Blog Post series.
+
+### [975. The Essays of Adam Smith: Part III, Chapter III - Of the Influence and Authority of Conscience.](https://hackernoon.com/the-essays-of-adam-smith-part-iii-chapter-iii-of-the-influence-and-authority-of-conscience)
+![](https://cdn.hackernoon.com/images/fisV3ygrKHQzoANO3juQvFMtA3r2-jf93j5b.jpeg)
+It is never objected to us that we have too little fellow-feeling with the joy of success. 
+
+### [976. Astounding Stories of Super-Science August 1931: VOL. VII, NO. 2 - The Port of Missing Planes](https://hackernoon.com/astounding-stories-of-super-science-august-1931-vol-vii-no-2-the-port-of-missing-planes)
+![](https://cdn.hackernoon.com/images/eYmBPfrqu8d2TdijQi8nkPK2yGl2-dcf3jn6.jpeg)
+
+
+
+### [977. The Two Shark-Faced Creatures Were Dragging at my Arms and Legs](https://hackernoon.com/the-two-shark-faced-creatures-were-dragging-at-my-arms-and-legs)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-tt93sic.jpeg)
+I read the telegram for the second time. Then I folded it up, put it in my pocket, and pressed the little button on my desk. My mind was made up.
+
+### [978. The Terrible Tentacles of L-472](https://hackernoon.com/the-terrible-tentacles-of-l-472)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-myb3t16.jpeg)
+Commander John Hanson of the Special Patrol Service records another of his thrilling interplanetary assignments.
+
+### [979. Read Old Crompton's Secret Online for Free Full Text](https://hackernoon.com/astounding-stories-of-super-science-february-1930-vol-i-no-2-old-cromptons-secret)
+![](https://cdn.hackernoon.com/images/ugoTV1vwcgR4mN8MMDUUN4vt6p02-i993onb.jpeg)
+Tom Forsythe, the only son of an old recluse, moved in to a secluded laboratory in the woods. 
+
+### [980. The Count of Monte Cristo, Illustrated: Chapter 53 - Robert le Diable](https://hackernoon.com/the-count-of-monte-cristo-illustrated-chapter-53-robert-le-diable)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-8x93okx.jpeg)
+The Count of Monte Cristo, Volume Three, Chapter 53: Robert le Diable by Alexandre Dumas, père is part of HackerNoon’s Book Blog Post series. 
+
+### [981. Mutual Affinites of Organic Beings](https://hackernoon.com/mutual-affinites-of-organic-beings)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-qk93oxd.jpeg)
+On the Origin of Species 1st Edition by Charles Darwin is part of HackerNoon’s Book Blog Post series. 
+
+### [982. Astounding Stories of Super-Science June 1931: VOL. VI, NO. 3 - The Readers' Corner](https://hackernoon.com/astounding-stories-of-super-science-june-1931-vol-vi-no-3-the-readers-corner)
+![](https://cdn.hackernoon.com/images/eYmBPfrqu8d2TdijQi8nkPK2yGl2-zoc3jyx.jpeg)
+People read every day of "miracles" and scarcely give them a second thought, while a hundred years ago their perpetrators would have been destroyed as witches.
+
+### [983. The Adventures of Sherlock Holmes: Chapter III - A Case of Identity](https://hackernoon.com/the-adventures-of-sherlock-holmes-chapter-iii-a-case-of-identity)
+![](https://cdn.hackernoon.com/images/M6G22rxQzLTqx37eMqcSVG1Ybvj2-od93un6.jpeg)
+The Adventures of Sherlock Holmes, by Arthur Conan Doyle is part of HackerNoon’s Book Blog Post series. 
+
+### [984. The Count of Monte Cristo, Illustrated: Chapter 28 - The Prison Register](https://hackernoon.com/the-count-of-monte-cristo-illustrated-chapter-28-the-prison-register)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-8293n7s.jpeg)
+The Count of Monte Cristo Chapter 28 The Prison Register by Alexandre Dumas, père is part of HackerNoon’s Book Blog Post series.
+
+### [985. Adventures of Huckleberry Finn: Chapter XXIX](https://hackernoon.com/adventures-of-huckleberry-finn-chapter-xxix)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-1j93mwd.jpeg)
+Adventures of Huckleberry Finn, by Mark Twain (Samuel Clemens) is part of HackerNoon’s Book Blog Post series. 
+
+### [986. The War in South Africa](https://hackernoon.com/the-war-in-south-africa)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-6qf3le5.jpeg)
+I remember I felt singularly unwanted.
+
+### [987. GODS AND STARS, PRIESTS AND KINGS](https://hackernoon.com/gods-and-stars-priests-and-kings)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-lj1c3lz9.jpeg)
+Like the early Aryan life, it was a life in a sort of family-tribe household.
+
+### [988. Food and Flavor: A Gastronomic Guide to Health and Good Living - Chapter I ](https://hackernoon.com/food-and-flavor-a-gastronomic-guide-to-health-and-good-living-chapter-i)
+![](https://cdn.hackernoon.com/images/b95vEI2NaBczE5DOQutUUWf1Dgj2-56b3jes.jpeg)
+In one of his books of travel Charles Dudley Warner declared that after leaving Philadelphia the tourist "will not find one good meal decently served" 
+
+### [989. An Essay Concerning Humane Understanding, Volume I: Book II, Chapter XVII.](https://hackernoon.com/an-essay-concerning-humane-understanding-volume-i-book-ii-chapter-xvii)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-9z93nc1.jpeg)
+An Essay Concerning Humane Understanding, Volume I: Book II, Chapter XVII: OF INFINITY, by John Locke is part of HackerNoon’s Book Blog Post series. 
+
+
+### [990. THE BEGINNINGS OF THE MIND AND LANGUAGE](https://hackernoon.com/the-beginnings-of-the-mind-and-language)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-wqa3l1z.jpeg)
+The newborn child is at first no more than an animal. 
+
+### [991. EXEGETICAL](https://hackernoon.com/exegetical)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-dq93lge.jpeg)
+“My faith in God grows,” he said.
+
+### [992. Food and Flavor: A Gastronomic Guide to Health and Good Living: Chapter VIII - EPICUREAN ITALY](https://hackernoon.com/food-and-flavor-a-gastronomic-guide-to-health-and-good-living-chapter-viii-epicurean-italy)
+![](https://cdn.hackernoon.com/images/b95vEI2NaBczE5DOQutUUWf1Dgj2-oid3jnh.jpeg)
+T
+THE fact that Roquefort cheese was relished by Roman epicures twenty centuries ago indicates that French gastronomy is not entirely a product of modern times
+
+### [993. The Idea of a University Defined and Illustrated: Lecture III - English Catholic Literature](https://hackernoon.com/the-idea-of-a-university-defined-and-illustrated-lecture-iii-english-catholic-literature)
+![](https://cdn.hackernoon.com/images/ejUZNC47pjbsT8faAmTgQxau7w22-a993jwr.jpeg)
+Every great people has a character of its own, which it manifests and perpetuates in a variety of ways. 
+
+### [994. On the Geological Succession of Organic Beings](https://hackernoon.com/on-the-geological-succession-of-organic-beings)
+![](https://cdn.hackernoon.com/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-y293oh7.jpeg)
+On the Origin of Species 1st Edition by Charles Darwin is part of HackerNoon’s Book Blog Post series. 
+
+### [995. Philosophical Theories of Geometry](https://hackernoon.com/philosophical-theories-of-geometry)
+![](https://cdn.hackernoon.com/images/ARCWTrgYpoc531106B2eMedWoT42-sw93odr.jpeg)
+An Essay on the Foundations of Geometry, by Bertrand Russell is part of HackerNoon’s Book Blog Post series. 
+
+
+### [996. The Jungle: Chapter I ](https://hackernoon.com/the-jungle-chapter-i)
+![](https://cdn.hackernoon.com/images/H8IE003WryYGI5JHjZEKuN7X4zx2-lb93j1q.jpeg)
+Gradually there was effected a separation between the spectators and the guests—a separation at least sufficiently complete for working purposes. 
+
+### [997. THE NEW HAROUN AL RASCHID](https://hackernoon.com/the-new-haroun-al-raschid)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-fia3lin.jpeg)
+His definition of Prejudice impressed White as being the most bloodless and philosophical formula that ever dominated the mind of a man.
+
+### [998. Essays on some unsettled questions of Political Economy: Essay V](https://hackernoon.com/essays-on-some-unsettled-questions-of-political-economy-essay-v)
+![](https://cdn.hackernoon.com/images/pYMXIE2Hn6b0LwXTJpJeVhZ9N8u1-y3c3jjs.jpeg)
+The art of practical mechanics teaches how we may avail ourselves of those laws and properties, to increase our command over external nature.
+
+### [999. Bacteria: Chapter VI - BACTERIA IN MILK, MILK PRODUCTS, AND OTHER FOODS](https://hackernoon.com/bacteria-chapter-vi-bacteria-in-milk-milk-products-and-other-foods)
+![](https://cdn.hackernoon.com/images/6DCcCABaKoUxm1mFlUV6h4Nl4Tf1-91a3jb9.jpeg)
+This fact of the sterility of cleanly drawn milk is not a new one, and has been established by many bacteriologists.
+
+### [1000. THE HIGH CROSS PREPARATORY SCHOOL](https://hackernoon.com/the-high-cross-preparatory-school)
+![](https://cdn.hackernoon.com/images/avQYvrjJIBaKPhWX8YvQNBgKlXv2-hwn3lbx.jpeg)
+“And if I might make so bold as to add a ’arf bottle of good Guinness, m’lady. It’s a tonic. Run down as you are.”
+
