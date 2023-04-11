@@ -1,3 +1,5 @@
+The Learn repo is HackerNoon library ordered by time reading created. 
+
 <img src="g.gif" alt="drawing" width="1012"/>
 
 * [artificial-intelligence](./artificial-intelligence/README.md) - These stories include everything from machine learning development and deep learning to general AI and AI ethics.
