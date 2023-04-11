@@ -13,7 +13,7 @@
 * [artificial-intelligence](./artificial-intelligence.md) - Humans with irrational brains writing about machines with rational brains. 
 * [artificial-intelligence-trends](./artificial-intelligence-trends.md)
 * [artificial-intellingence](./artificial-intellingence.md)
-* [chatbot](./chatbot.md)
+* [chatbot](./chatbot.md) A chatbot is a machine that never shuts up and kinda always knows the second best answer. 
 * [computer-vision](./computer-vision.md) - Harnessing Artificial Intelligence to teach computers and systems how to  obtain meaningful information from Images. We look at tricks of the trade, evolving techniques and so forth.
 * [conversational-ai](./conversational-ai.md) - The automated chatbot that most websites nowadays have as customer service; does basic answer and response tasks. 
 * [deep-learning](./deep-learning.md) - Curious about the deepfakes and self-driving cars? One must have an opinion on the algorithms mimicking the human brain. 
