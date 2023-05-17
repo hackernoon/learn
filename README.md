@@ -1,4 +1,4 @@
-The Learn repo is HackerNoon library ordered by time reading created. 
+THE LEARN REPO orders technology stories by editor determined subject matter and community determined time reading created. It is an open source lever within the HackerNoon Story Classification System. 
 
 <img src="g.gif" alt="drawing" width="1012"/>
 
