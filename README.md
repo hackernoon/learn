@@ -2,13 +2,15 @@ THE LEARN REPO orders technology stories by editor determined subject matter and
 
 <img src="g.gif" alt="drawing" width="1012"/>
 
-* [artificial-intelligence](./artificial-intelligence/README.md) - These stories include everything from machine learning development and deep learning to general AI and AI ethics.
+THE ESSENTIAL [TECHNOLOGY CATEGORIES](https://hackernoon.com/c/):
+
+* [artificial-intelligence](./artificial-intelligence/README.md) - These stories include everything from machine learning development and deep learning to general AI and AI ethics. also note: 
 * [blockchain](./blockchain/README.md) - Public ledger > private database. Blockchains are to finance what the Internet is to Communications. 
 * [business](./business/README.md) - Businesses are the lifeblood of the economy, but also the reason why people like <enter billionaire name here> exist. For all your AirBnBs and WeWorks, but also the entrpreneuers that make them.
 * [companies](./companies/README.md) - "When I grow up, I want to be a stock ticker," said no start-up ever. If it has a strict dress code, is located in a skyscrapper, and involves excel sheets and finance, then it probably belongs here.
 * [cryptocurrency](./cryptocurrency/README.md) - Cryptocurrencies have emerged as the biggest use-case of Blockchains. They're shiny. They're messy. Most of them are just noise but quite a few of them are the tickets to building generational wealth #NFA #DYOR
 * [cybersecurity](./cybersecurity/README.md) - Online security isn't a topic for nerds alone. It should matter to us all. 
-* [data-science](./data-science/README.md) - The stories that teach us about data, where to get it, and how to use it for our benefit.
+* [data-science](./data-science/README.md) - The stories that teach us about data, where to get it, and how to use it for our benefit. <i>And [more data-science stories](https://hackernoon.com/c/data-science/) & [daily data-science podcast](https://open.spotify.com/show/4ZS9ySGRtLRSZcdCjCPSo7).</i>
 * [decentralization](./decentralization/README.md) - Decentralization used to mean breaking up companies deemed too big to fail. On the information superhighway, there are salespeople advocating for decentralized ownership of your dog!! If that's not your cup of tea, maybe check out the web3, metaverses, DeFi, and all those crazy jargons we've come up on Adderall (allegedly).
 * [finance](./finance/README.md) - Hey, there's nothing to be ashamed about. Everyone struggles with money. But you can read these stories to learn about all about money, like investing, lending, borrowing and credit.
 * [futurism](./futurism/README.md) - A collection of revolutionary technologies that are resolutely setting the course for both the near- and long-term future of human civilizations.
