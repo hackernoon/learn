@@ -1,4 +1,4 @@
-[THE LEARN REPO](learnrepo.com) orders technology stories by editor determined subject matter and community determined time reading created. It is an open source lever within the HackerNoon Story Classification System. 
+[THE LEARN REPO](https://learnrepo.com) orders technology stories by editor determined subject matter and community determined time reading created. It is an open source lever within the HackerNoon Story Classification System. 
 
 <img src="g.gif" alt="drawing" width="1012"/>
 
